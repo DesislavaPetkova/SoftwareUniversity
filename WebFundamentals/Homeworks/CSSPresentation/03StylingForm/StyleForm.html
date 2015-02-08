@@ -1,0 +1,60 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<meta charset="UTF-8"/>
+	<link rel="stylesheet" type="text/css" href="style.css">
+	<title>Styling HTML Form</title>
+</head>
+<body>
+<div id="wrapper">
+	<form method="GET" action="">
+		<h2>Step 1: Your details</h2>
+		<div class="containers">
+			<label for="namess">Name</label>
+			<input type="text" name="names" placeholder="First and last name" id="namess" />
+		</div>
+		<div class="containers">
+			<label for="emails">Email</label>
+			<input type="email" id="emails" name="email" placeholder="example@domain.com" />
+		</div>
+		<div class="containers">
+			<label for="phones">Phone</label>
+			<input type="text" name="phone" id="phones" placeholder="eg.+447500000000">
+		</div>
+		<h2>Step 2: Delivery address</h2>
+		<div class="containers">
+			<label for="address">Address</label>
+			<textarea name="adress" id="address" cols="20" rows="6" disabled=""></textarea>
+		</div>
+		<div class="containers">
+			<label for="post">Post code</label>
+			<input type="text" id="post" name="postcode">
+		</div>
+		<div class="containers">
+			<label for="country">Country</label>
+			<input type="text" id="country" name="country">
+		</div>
+		<h2>Step 3: Card details</h2>
+		<div class="containers">
+			<label for="card">Card type</label>
+			<input type="radio" name="card" value="1"> <img src="visa.png">
+			<input type="radio" name="card" value="2"> <img src="amex.png">
+			<input type="radio" name="card" value="3"> <img src="master.png">
+		</div>
+		<div class="containers">
+			<label for="number">Card number</label>
+			<input type="text" name="number" id="number">
+		</div>
+		<div class="containers">
+			<label for="code">Security code</label>
+			<input type="text" id="code" name="code">
+		</div>
+		<div class="containers">
+			<label for="name">Name on card</label>
+			<input type="text" id="name" name="name" placeholder="exact name as on the card">
+		</div>
+		<input type="submit"  name="submit" value="BUY IT!" />
+	</form>
+</div>
+</body>
+</html>

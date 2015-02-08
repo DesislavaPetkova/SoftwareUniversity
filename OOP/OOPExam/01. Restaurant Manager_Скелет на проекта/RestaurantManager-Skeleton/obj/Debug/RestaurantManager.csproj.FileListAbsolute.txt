@@ -1,0 +1,12 @@
+C:\Users\Ivaylo.Il\Desktop\01. Restaurant Manager_Скелет на проекта\RestaurantManager-Skeleton\obj\Debug\RestaurantManager.csprojResolveAssemblyReference.cache
+C:\Users\Ivaylo.Il\Desktop\01. Restaurant Manager_Скелет на проекта\RestaurantManager-Skeleton\bin\Debug\RestaurantManager.exe
+C:\Users\Ivaylo.Il\Desktop\01. Restaurant Manager_Скелет на проекта\RestaurantManager-Skeleton\bin\Debug\RestaurantManager.pdb
+C:\Users\Ivaylo.Il\Desktop\01. Restaurant Manager_Скелет на проекта\RestaurantManager-Skeleton\obj\Debug\RestaurantManager.exe
+C:\Users\Ivaylo.Il\Desktop\01. Restaurant Manager_Скелет на проекта\RestaurantManager-Skeleton\obj\Debug\RestaurantManager.pdb
+C:\Users\Ivaylo.Il\Desktop\OOPExam\01. Restaurant Manager_Скелет на проекта\RestaurantManager-Skeleton\obj\Debug\RestaurantManager.exe
+C:\Users\Ivaylo.Il\Desktop\OOPExam\01. Restaurant Manager_Скелет на проекта\RestaurantManager-Skeleton\obj\Debug\RestaurantManager.pdb
+C:\Users\Ivaylo.Il\Desktop\OOPExam\01. Restaurant Manager_Скелет на проекта\RestaurantManager-Skeleton\bin\Debug\RestaurantManager.exe
+C:\Users\Ivaylo.Il\Desktop\OOPExam\01. Restaurant Manager_Скелет на проекта\RestaurantManager-Skeleton\bin\Debug\RestaurantManager.pdb
+C:\Users\Ivaylo.Il\Desktop\OOPExam\01. Restaurant Manager_Скелет на проекта\RestaurantManager-Skeleton\obj\Debug\RestaurantManager.csprojResolveAssemblyReference.cache
+C:\Users\Ivaylo.Il\Documents\GitHub\OOP\OOPExam\01. Restaurant Manager_Скелет на проекта\RestaurantManager-Skeleton\obj\Debug\RestaurantManager.exe
+C:\Users\Ivaylo.Il\Documents\GitHub\OOP\OOPExam\01. Restaurant Manager_Скелет на проекта\RestaurantManager-Skeleton\obj\Debug\RestaurantManager.pdb

@@ -1,0 +1,6 @@
+C:\Users\Ivaylo.Il\Documents\Visual Studio 2013\Projects\06.Homework-Loops\factorial\bin\Debug\factorial.exe.config
+C:\Users\Ivaylo.Il\Documents\Visual Studio 2013\Projects\06.Homework-Loops\factorial\obj\Debug\factorial.csprojResolveAssemblyReference.cache
+C:\Users\Ivaylo.Il\Documents\Visual Studio 2013\Projects\06.Homework-Loops\factorial\bin\Debug\factorial.exe
+C:\Users\Ivaylo.Il\Documents\Visual Studio 2013\Projects\06.Homework-Loops\factorial\bin\Debug\factorial.pdb
+C:\Users\Ivaylo.Il\Documents\Visual Studio 2013\Projects\06.Homework-Loops\factorial\obj\Debug\factorial.exe
+C:\Users\Ivaylo.Il\Documents\Visual Studio 2013\Projects\06.Homework-Loops\factorial\obj\Debug\factorial.pdb

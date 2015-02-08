@@ -1,0 +1,6 @@
+C:\Users\Ivaylo.Il\Documents\GitHub\OOP\Homework\03Delegates-and-Events\Delegates-and-Events\1. Interest Calculator\bin\Debug\_1.Interest_Calculator.exe.config
+C:\Users\Ivaylo.Il\Documents\GitHub\OOP\Homework\03Delegates-and-Events\Delegates-and-Events\1. Interest Calculator\bin\Debug\_1.Interest_Calculator.exe
+C:\Users\Ivaylo.Il\Documents\GitHub\OOP\Homework\03Delegates-and-Events\Delegates-and-Events\1. Interest Calculator\bin\Debug\_1.Interest_Calculator.pdb
+C:\Users\Ivaylo.Il\Documents\GitHub\OOP\Homework\03Delegates-and-Events\Delegates-and-Events\1. Interest Calculator\obj\Debug\1. Interest Calculator.csprojResolveAssemblyReference.cache
+C:\Users\Ivaylo.Il\Documents\GitHub\OOP\Homework\03Delegates-and-Events\Delegates-and-Events\1. Interest Calculator\obj\Debug\_1.Interest_Calculator.exe
+C:\Users\Ivaylo.Il\Documents\GitHub\OOP\Homework\03Delegates-and-Events\Delegates-and-Events\1. Interest Calculator\obj\Debug\_1.Interest_Calculator.pdb

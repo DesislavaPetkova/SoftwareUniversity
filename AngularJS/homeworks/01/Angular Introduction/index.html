@@ -1,0 +1,41 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<title>Student Page</title>
+</head>
+<body ng-app="app" >
+	<div ng-controller="Problem1">
+		<h1>Problem 1</h1>
+		<ul>
+			<li>Name: {{ obj.name }}</li>
+			<li><img ng-src="{{ obj.photo }}" alt="SoftUniStudent"></li>
+			<li>Grade: {{obj.grade}}</li>
+			<li>School: {{obj.school}}</li>
+			<li>Teacher: {{obj.teacher}}</li>
+		</ul>
+	</div>
+	<div >
+		<h1>Problem2</h1>
+		<input type="url" ng-model="url">
+		<img ng-src="{{ url }}" alt="">
+		
+
+	</div>
+	<div ng-controller="Problem3" ng-style="divStyle">
+	<h1>TIGER</h1>
+		<ul>
+			<li ng-style="liStyle"><strong>Name:</strong> {{ obj.Name }}</li>
+			<li ng-style="liStyle"><strong>Born:</strong> {{ obj.Born }}</li>
+			<li ng-style="liStyle"><strong>BirthDate:</strong> {{ obj.BirthDate }}</li>
+			<li ng-style="liStyle"><strong>Live:</strong> {{ obj.Live }}</li>
+			<img ng-src="{{img}}" alt="tiger" ng-style="imgStyle">
+		</ul>
+	</div>
+
+
+<script src="../../../angular.js"></script>
+<script src="app/app.js"></script>
+<script src="app/problem1.js"></script>
+<script src="app/Problem3.js"></script>
+</body>
+</html>

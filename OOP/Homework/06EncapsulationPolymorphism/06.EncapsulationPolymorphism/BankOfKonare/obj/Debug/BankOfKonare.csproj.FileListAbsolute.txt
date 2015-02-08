@@ -1,0 +1,6 @@
+C:\Users\Ivaylo.Il\Documents\GitHub\OOP\Homework\06EncapsulationPolymorphism\06.EncapsulationPolymorphism\BankOfKonare\bin\Debug\BankOfKonare.exe.config
+C:\Users\Ivaylo.Il\Documents\GitHub\OOP\Homework\06EncapsulationPolymorphism\06.EncapsulationPolymorphism\BankOfKonare\obj\Debug\BankOfKonare.csprojResolveAssemblyReference.cache
+C:\Users\Ivaylo.Il\Documents\GitHub\OOP\Homework\06EncapsulationPolymorphism\06.EncapsulationPolymorphism\BankOfKonare\bin\Debug\BankOfKonare.exe
+C:\Users\Ivaylo.Il\Documents\GitHub\OOP\Homework\06EncapsulationPolymorphism\06.EncapsulationPolymorphism\BankOfKonare\bin\Debug\BankOfKonare.pdb
+C:\Users\Ivaylo.Il\Documents\GitHub\OOP\Homework\06EncapsulationPolymorphism\06.EncapsulationPolymorphism\BankOfKonare\obj\Debug\BankOfKonare.exe
+C:\Users\Ivaylo.Il\Documents\GitHub\OOP\Homework\06EncapsulationPolymorphism\06.EncapsulationPolymorphism\BankOfKonare\obj\Debug\BankOfKonare.pdb

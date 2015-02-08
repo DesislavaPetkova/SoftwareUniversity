@@ -1,0 +1,9 @@
+C:\Users\Ivaylo.Il\Documents\Visual Studio 2013\Projects\02.HomeWork (Primitive-Data-Types-and-Variables)\10.EmployeeData\bin\Debug\10.EmployeeData.exe.config
+C:\Users\Ivaylo.Il\Documents\Visual Studio 2013\Projects\02.HomeWork (Primitive-Data-Types-and-Variables)\10.EmployeeData\obj\Debug\10.EmployeeData.csprojResolveAssemblyReference.cache
+C:\Users\Ivaylo.Il\Documents\Visual Studio 2013\Projects\02.HomeWork (Primitive-Data-Types-and-Variables)\10.EmployeeData\bin\Debug\10.EmployeeData.exe
+C:\Users\Ivaylo.Il\Documents\Visual Studio 2013\Projects\02.HomeWork (Primitive-Data-Types-and-Variables)\10.EmployeeData\bin\Debug\10.EmployeeData.pdb
+C:\Users\Ivaylo.Il\Documents\Visual Studio 2013\Projects\02.HomeWork (Primitive-Data-Types-and-Variables)\10.EmployeeData\obj\Debug\10.EmployeeData.exe
+C:\Users\Ivaylo.Il\Documents\Visual Studio 2013\Projects\02.HomeWork (Primitive-Data-Types-and-Variables)\10.EmployeeData\obj\Debug\10.EmployeeData.pdb
+C:\Users\Ivaylo.Il\Documents\GitHub\C#\02.HomeWork (Primitive-Data-Types-and-Variables)\10.EmployeeData\bin\Debug\10.EmployeeData.exe.config
+C:\Users\Ivaylo.Il\Documents\GitHub\C#\02.HomeWork (Primitive-Data-Types-and-Variables)\10.EmployeeData\obj\Debug\10.EmployeeData.exe
+C:\Users\Ivaylo.Il\Documents\GitHub\C#\02.HomeWork (Primitive-Data-Types-and-Variables)\10.EmployeeData\obj\Debug\10.EmployeeData.pdb

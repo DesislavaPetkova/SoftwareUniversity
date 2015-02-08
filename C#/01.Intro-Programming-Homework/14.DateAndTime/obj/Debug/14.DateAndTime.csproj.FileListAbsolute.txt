@@ -1,0 +1,8 @@
+C:\Users\Ivaylo.Il\Documents\Visual Studio 2013\Projects\Intro-Programming-Homework\14.DateAndTime\bin\Debug\14.DateAndTime.exe.config
+C:\Users\Ivaylo.Il\Documents\Visual Studio 2013\Projects\Intro-Programming-Homework\14.DateAndTime\bin\Debug\14.DateAndTime.exe
+C:\Users\Ivaylo.Il\Documents\Visual Studio 2013\Projects\Intro-Programming-Homework\14.DateAndTime\bin\Debug\14.DateAndTime.pdb
+C:\Users\Ivaylo.Il\Documents\Visual Studio 2013\Projects\Intro-Programming-Homework\14.DateAndTime\obj\Debug\14.DateAndTime.exe
+C:\Users\Ivaylo.Il\Documents\Visual Studio 2013\Projects\Intro-Programming-Homework\14.DateAndTime\obj\Debug\14.DateAndTime.pdb
+C:\Users\Ivaylo.Il\Documents\GitHub\C#\01.Intro-Programming-Homework\14.DateAndTime\bin\Debug\14.DateAndTime.exe.config
+C:\Users\Ivaylo.Il\Documents\GitHub\C#\01.Intro-Programming-Homework\14.DateAndTime\obj\Debug\14.DateAndTime.exe
+C:\Users\Ivaylo.Il\Documents\GitHub\C#\01.Intro-Programming-Homework\14.DateAndTime\obj\Debug\14.DateAndTime.pdb

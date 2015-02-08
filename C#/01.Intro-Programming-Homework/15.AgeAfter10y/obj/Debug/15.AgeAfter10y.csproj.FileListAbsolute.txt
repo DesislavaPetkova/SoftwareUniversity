@@ -1,0 +1,6 @@
+C:\Users\Ivaylo.Il\Documents\Visual Studio 2013\Projects\Intro-Programming-Homework\15.AgeAfter10y\bin\Debug\15.AgeAfter10y.exe.config
+C:\Users\Ivaylo.Il\Documents\Visual Studio 2013\Projects\Intro-Programming-Homework\15.AgeAfter10y\bin\Debug\15.AgeAfter10y.exe
+C:\Users\Ivaylo.Il\Documents\Visual Studio 2013\Projects\Intro-Programming-Homework\15.AgeAfter10y\bin\Debug\15.AgeAfter10y.pdb
+C:\Users\Ivaylo.Il\Documents\Visual Studio 2013\Projects\Intro-Programming-Homework\15.AgeAfter10y\obj\Debug\15.AgeAfter10y.csprojResolveAssemblyReference.cache
+C:\Users\Ivaylo.Il\Documents\Visual Studio 2013\Projects\Intro-Programming-Homework\15.AgeAfter10y\obj\Debug\15.AgeAfter10y.exe
+C:\Users\Ivaylo.Il\Documents\Visual Studio 2013\Projects\Intro-Programming-Homework\15.AgeAfter10y\obj\Debug\15.AgeAfter10y.pdb

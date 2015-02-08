@@ -1,0 +1,6 @@
+C:\Users\Ivaylo.Il\Documents\Visual Studio 2013\Projects\Exams\ILoveBits\bin\Debug\ILoveBits.exe.config
+C:\Users\Ivaylo.Il\Documents\Visual Studio 2013\Projects\Exams\ILoveBits\obj\Debug\ILoveBits.csprojResolveAssemblyReference.cache
+C:\Users\Ivaylo.Il\Documents\Visual Studio 2013\Projects\Exams\ILoveBits\bin\Debug\ILoveBits.exe
+C:\Users\Ivaylo.Il\Documents\Visual Studio 2013\Projects\Exams\ILoveBits\bin\Debug\ILoveBits.pdb
+C:\Users\Ivaylo.Il\Documents\Visual Studio 2013\Projects\Exams\ILoveBits\obj\Debug\ILoveBits.exe
+C:\Users\Ivaylo.Il\Documents\Visual Studio 2013\Projects\Exams\ILoveBits\obj\Debug\ILoveBits.pdb

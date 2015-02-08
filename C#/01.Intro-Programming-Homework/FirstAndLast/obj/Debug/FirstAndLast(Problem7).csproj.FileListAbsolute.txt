@@ -1,0 +1,5 @@
+C:\Users\Ivaylo.Il\Documents\Visual Studio 2013\Projects\Intro-Programming-Homework\FirstAndLast\bin\Debug\FirstAndLast.exe.config
+C:\Users\Ivaylo.Il\Documents\Visual Studio 2013\Projects\Intro-Programming-Homework\FirstAndLast\obj\Debug\FirstAndLast.exe
+C:\Users\Ivaylo.Il\Documents\Visual Studio 2013\Projects\Intro-Programming-Homework\FirstAndLast\obj\Debug\FirstAndLast.pdb
+C:\Users\Ivaylo.Il\Documents\Visual Studio 2013\Projects\Intro-Programming-Homework\FirstAndLast\bin\Debug\FirstAndLast.exe
+C:\Users\Ivaylo.Il\Documents\Visual Studio 2013\Projects\Intro-Programming-Homework\FirstAndLast\bin\Debug\FirstAndLast.pdb

@@ -1,0 +1,6 @@
+C:\Users\Ivaylo.Il\Documents\Visual Studio 2013\Projects\05HomeworkConditionalStatements\07.Sort3NumberswithNestedIfs\bin\Debug\07.Sort3NumberswithNestedIfs.exe.config
+C:\Users\Ivaylo.Il\Documents\Visual Studio 2013\Projects\05HomeworkConditionalStatements\07.Sort3NumberswithNestedIfs\bin\Debug\07.Sort3NumberswithNestedIfs.exe
+C:\Users\Ivaylo.Il\Documents\Visual Studio 2013\Projects\05HomeworkConditionalStatements\07.Sort3NumberswithNestedIfs\bin\Debug\07.Sort3NumberswithNestedIfs.pdb
+C:\Users\Ivaylo.Il\Documents\Visual Studio 2013\Projects\05HomeworkConditionalStatements\07.Sort3NumberswithNestedIfs\obj\Debug\07.Sort3NumberswithNestedIfs.csprojResolveAssemblyReference.cache
+C:\Users\Ivaylo.Il\Documents\Visual Studio 2013\Projects\05HomeworkConditionalStatements\07.Sort3NumberswithNestedIfs\obj\Debug\07.Sort3NumberswithNestedIfs.exe
+C:\Users\Ivaylo.Il\Documents\Visual Studio 2013\Projects\05HomeworkConditionalStatements\07.Sort3NumberswithNestedIfs\obj\Debug\07.Sort3NumberswithNestedIfs.pdb

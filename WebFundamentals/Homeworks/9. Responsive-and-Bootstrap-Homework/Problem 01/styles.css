@@ -1,0 +1,150 @@
+* {
+	margin: 0;
+	padding: 0;
+}
+body {
+	background-color: #6698ff;
+}
+#wrapper {
+	width: 50%;
+	margin: 0 auto;
+}
+h1>a {
+	color: #fff;
+	text-decoration: none;
+}
+nav ul>li {
+display: inline-block;
+padding: 5px;
+position: relative;
+top: 16px;
+left: 333px;
+border: 1px solid #000;
+background-color: #fff;
+}
+nav ul li a {
+	text-decoration: none;
+	color: #000;
+}
+nav ul {
+	border-bottom: 2px solid black;
+}
+section {
+	width: 66%;
+	margin-top: 40px;
+	display: inline-block;
+}
+article {
+	padding: 2%;
+	border: 1px solid #000;
+	margin: 10px auto;
+	background-color: #e0eafe;
+}
+article>header {
+	margin-bottom: 10px;
+}
+aside {
+	width: 25%;
+	float: right;
+	display: inline-block;
+	margin-top: 50px;
+	border: 1px solid #000;
+	background-color: #e0eafe;
+	padding: 2%;
+
+}
+article p {
+	text-indent: 20px;
+}
+li.block>a {
+	text-decoration: none;
+	color: #000;
+
+}
+.block {
+	list-style-type: none;
+}
+footer {
+	width: 100%;
+	background-color: #e0eafe;
+	border: 1px solid #000;
+	margin-left: 0;
+}
+footer>h2 {
+	text-align: center;
+
+}
+@media all and (max-width: 960px){
+	#wrapper {
+		width: 100%;
+	}
+}
+@media all and (max-width: 780px) {
+	#wrapper {
+		display: block;
+	}
+	aside {
+		display: block;
+		margin-top: none;
+		float: none;
+		width: 96%;
+		margin: 0;
+		margin-left: 0;
+	}
+	section {
+		display: block;
+		width: 100%;
+	}
+	footer {
+		margin: 0;
+		margin-top: 5px;
+	}
+}
+
+@media all and (max-width: 680px){
+	/* 680 px on purpose even against homework rules */
+	#wrapper {
+		display: block;
+	}
+	aside {
+		display: block;
+		margin-top: none;
+		float: none;
+		width: 100%;
+		margin: 0;
+		padding: 0;
+	}
+	section {
+		display: block;
+		width: 100%;
+		margin-top: 126px;
+	}
+	footer {
+		margin: 0;
+		margin-top: 5px;
+		margin-left: 0;
+		margin-top: 5px;
+
+	}
+	nav ul li {
+		display: block;
+		padding: 5px;
+		border: 1px solid #000;
+		background-color: #fff;
+		width: 90%;
+		margin-left: 10px;
+		text-align: center;
+	}
+	h1 a img {
+		display: block;
+		margin: 0 auto;
+	}
+	nav ul>li{
+		position: relative;
+		top: 111px;
+		left: 0;
+	}
+	h1 {
+		text-align: center;
+	}
+}

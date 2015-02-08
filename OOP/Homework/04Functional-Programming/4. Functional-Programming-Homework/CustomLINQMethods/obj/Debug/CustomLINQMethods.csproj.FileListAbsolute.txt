@@ -1,0 +1,6 @@
+C:\Users\Ivaylo.Il\Documents\GitHub\OOP\Homework\04Functional-Programming\4. Functional-Programming-Homework\CustomLINQMethods\obj\Debug\CustomLINQMethods.csprojResolveAssemblyReference.cache
+C:\Users\Ivaylo.Il\Documents\GitHub\OOP\Homework\04Functional-Programming\4. Functional-Programming-Homework\CustomLINQMethods\bin\Debug\CustomLINQMethods.exe.config
+C:\Users\Ivaylo.Il\Documents\GitHub\OOP\Homework\04Functional-Programming\4. Functional-Programming-Homework\CustomLINQMethods\bin\Debug\CustomLINQMethods.exe
+C:\Users\Ivaylo.Il\Documents\GitHub\OOP\Homework\04Functional-Programming\4. Functional-Programming-Homework\CustomLINQMethods\bin\Debug\CustomLINQMethods.pdb
+C:\Users\Ivaylo.Il\Documents\GitHub\OOP\Homework\04Functional-Programming\4. Functional-Programming-Homework\CustomLINQMethods\obj\Debug\CustomLINQMethods.exe
+C:\Users\Ivaylo.Il\Documents\GitHub\OOP\Homework\04Functional-Programming\4. Functional-Programming-Homework\CustomLINQMethods\obj\Debug\CustomLINQMethods.pdb

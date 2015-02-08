@@ -1,0 +1,311 @@
+@font-face {
+    font-family: Cartonsix;
+    src: url('../fonts/Cartonsix_NC.woff');
+}
+
+
+body, header, section, article, footer, h1, h2, h3, ul, li, a, p {
+    margin: 0;
+    padding: 0;
+}
+
+body {
+    font-family: Cartonsix;
+    font-size: 180%;
+    background: url('../images/bubbles.png') #fcc053 ;
+}
+
+#wrapper {
+    width:95%;
+    margin: 0 auto;
+    overflow: auto;
+}
+
+#header {
+    background:url('../images/bubbles-header.png') no-repeat right #e49912;
+    width: 100%;
+    overflow: auto;
+    padding-top: 10px;
+}
+
+#header h1 a{
+    background: url('../images/logo.png') no-repeat;
+    text-indent: -9999px;
+    height: 120px;
+    width: 40%;
+    float: left;
+
+}
+
+main {
+    background-color: #fff;
+    overflow: hidden;
+    background: url('../images/bottles.jpg');
+    display: block;
+}
+
+section {
+    padding: 2%;
+}
+
+article h1, h2, h3 {
+    text-align: center;
+    padding-bottom: 3%;
+    color: #fff;
+    text-shadow: 1px 1px #000;
+}
+
+section h2 {
+    color: #fff;
+    box-shadow: 1px 1px #000;
+    background: #234465;
+    line-height: 30px;
+    padding:10px;
+}
+
+nav {
+    width: 60%;
+    float: left;
+    margin-top: 99px;
+}
+
+.main-menu {
+    list-style-type: none;  
+}
+
+    .main-menu>li {
+        display: inline-block;
+        width: 20%;
+        text-align: center;
+        
+    }
+
+    .main-menu li:last-of-type a {
+        border-right: none;
+    }
+
+        .main-menu li a {
+            text-decoration: none;
+            color: #234465;
+            font-size: 90%;
+            display: block;
+            font-weight: bold;
+            padding: 10px 0;
+        }
+
+        .main-menu > li a {
+            border-right: 1px solid;        
+        }
+
+        .main-menu li a:hover {
+            color: #fff;
+        }
+
+        .main-menu li:hover .submenu {
+            height: auto;
+            opacity: 1;
+        }
+
+.submenu {
+    position: absolute;
+    list-style-type: none;
+    text-align: left;
+    background: #e49912;;
+    overflow: auto;
+    z-index: 999;
+    padding: 0 1%;
+    margin-left: -1%;
+    height: 0;
+    opacity: 0; 
+    transition: height .7s, opacity .7s;
+    -webkit-transition: height .7s, opacity .7s;
+    transform:rotate(8deg);
+    -webkit-transform:rotate(8deg);
+}
+
+    .submenu li {
+        margin: 0;
+        width: 100%;
+    }
+
+        .submenu li a {
+            border: none;
+        }
+
+.news {
+    width: 46%;
+    float: left;
+}
+
+.crimi {
+    width: 46%;
+    float: right;
+}
+
+
+article {
+    font-size: 90%;
+    border: 1px solid #999;
+    border-radius: 10px;
+    display: inline-block;
+    padding: 1%;
+    background-color: rgba(76, 158, 217, 0.9);
+    padding: 2%;
+    margin: 20px auto;
+}
+
+    article ul li{
+        list-style-type: none; 
+    }
+
+article:nth-child(2n+1){
+    transform: rotate(7deg);
+    transition: transform 1s;
+    -webkit-transform: rotate(7deg);
+    -webkit-transition: -webkit-transform 1s;
+
+}
+
+article:nth-child(2n+1):hover{
+    transform:rotate(-7deg);
+    -webkit-transform: rotate(-7deg);
+}
+
+article:nth-child(2n){
+    transform: rotate(-7deg);
+    transition: transform 1s;
+    -webkit-transform: rotate(-7deg);
+    -webkit-transition: -webkit-transform 1s;
+
+}
+
+article:nth-child(2n):hover{
+    transform:rotate(7deg);
+    -webkit-transform: rotate(7deg);
+}
+
+.fundamentials article, .nakov article{
+    transform:rotate(2deg);
+    -webkit-transform: rotate(2deg);
+}
+
+    .fundamentials article:hover, .nakov article:hover{
+        transform:rotate(-2deg);
+        -webkit-transform: rotate(-2deg);
+    }
+
+    .fundamentials article .inline {
+        vertical-align: top;
+        display: inline-block;
+    }
+
+    .fundamentials article ul li, .fundamentials article p {
+        font-size: 1.2rem;
+    }
+
+.inline {
+    margin-right: 3%;
+}
+
+
+.nakov article header {
+    overflow: auto;
+}   
+
+.nakov article header img{
+    margin: 0 auto;
+    
+}
+        .nakov article div:first-of-type {
+            width: 90%;
+            margin: 0 auto;
+        }
+
+        .nakov article div img:last-child {
+            float: right;
+        }
+
+.nakov article p {
+    text-align: center;
+    margin: 30px 0;
+}
+  
+
+.contacts {
+    text-align: center;
+}
+
+    .contacts img {
+        width: 100%;
+    }
+
+.youtube {
+    max-width: 50%;
+}
+
+.tiasamat {
+    text-align: center;
+}
+
+.tiasamat article {
+    text-align: left;
+}
+
+
+.tiasamat article img, .about-us article img, .youtube, .spirt-sharp article img {
+    float: left;
+    margin-right: 10px;
+}
+
+
+.tiasamat article h1 {
+    clear: both;
+    padding-top: 40px
+}
+
+.white {
+    font-size: 2rem;
+    color: #fff;
+    text-shadow: 1px 1px #000;
+}
+
+.right {
+    float: right!important;
+}
+    
+
+footer {
+    background: #233465; 
+    padding: 10px;
+    clear: both;
+}
+    footer h3 {
+        text-align: center;
+        color: #e49912;
+        margin-bottom: 10px;  
+    }
+
+    footer img{
+        width: 18%;
+        margin-left: 1.3%;
+    }
+
+.red {
+    font-weight: bold;
+    color:#fff;
+    text-transform: uppercase;
+    text-shadow:0  0 3px #ff0000;
+}
+
+embed {
+    width: 100%;
+    margin: 135px auto 0;
+}
+
+img, .youtube {
+    max-width: 50%;
+}
+
+a {
+    outline: none;
+}

@@ -1,0 +1,6 @@
+C:\Users\Ivaylo.Il\Documents\Visual Studio 2013\Projects\Intro-Programming-Homework\NamePrinting(problem 5)\bin\Debug\NamePrinting(problem 5).exe.config
+C:\Users\Ivaylo.Il\Documents\Visual Studio 2013\Projects\Intro-Programming-Homework\NamePrinting(problem 5)\bin\Debug\NamePrinting(problem 5).exe
+C:\Users\Ivaylo.Il\Documents\Visual Studio 2013\Projects\Intro-Programming-Homework\NamePrinting(problem 5)\bin\Debug\NamePrinting(problem 5).pdb
+C:\Users\Ivaylo.Il\Documents\Visual Studio 2013\Projects\Intro-Programming-Homework\NamePrinting(problem 5)\obj\Debug\NamePrinting(problem 5).csprojResolveAssemblyReference.cache
+C:\Users\Ivaylo.Il\Documents\Visual Studio 2013\Projects\Intro-Programming-Homework\NamePrinting(problem 5)\obj\Debug\NamePrinting(problem 5).exe
+C:\Users\Ivaylo.Il\Documents\Visual Studio 2013\Projects\Intro-Programming-Homework\NamePrinting(problem 5)\obj\Debug\NamePrinting(problem 5).pdb

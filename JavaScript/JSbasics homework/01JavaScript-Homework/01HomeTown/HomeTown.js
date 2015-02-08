@@ -1,0 +1,1 @@
+alert("My Hometown is Varna! \nFrom the East to da West East COst is da best !")

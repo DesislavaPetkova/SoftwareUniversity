@@ -1,0 +1,6 @@
+c:\users\ivaylo.il\documents\visual studio 2013\Projects\07.Homework-Advanced\03.PrimesinGivenRange\bin\Debug\03.PrimesinGivenRange.exe.config
+c:\users\ivaylo.il\documents\visual studio 2013\Projects\07.Homework-Advanced\03.PrimesinGivenRange\bin\Debug\03.PrimesinGivenRange.exe
+c:\users\ivaylo.il\documents\visual studio 2013\Projects\07.Homework-Advanced\03.PrimesinGivenRange\bin\Debug\03.PrimesinGivenRange.pdb
+c:\users\ivaylo.il\documents\visual studio 2013\Projects\07.Homework-Advanced\03.PrimesinGivenRange\obj\Debug\03.PrimesinGivenRange.csprojResolveAssemblyReference.cache
+c:\users\ivaylo.il\documents\visual studio 2013\Projects\07.Homework-Advanced\03.PrimesinGivenRange\obj\Debug\03.PrimesinGivenRange.exe
+c:\users\ivaylo.il\documents\visual studio 2013\Projects\07.Homework-Advanced\03.PrimesinGivenRange\obj\Debug\03.PrimesinGivenRange.pdb

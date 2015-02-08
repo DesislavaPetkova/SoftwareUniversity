@@ -1,0 +1,8 @@
+C:\Users\Ivaylo.Il\Documents\Visual Studio 2013\Projects\03.Homework - Operators  and Statements\09.Trapezoids\bin\Debug\09.Trapezoids.exe.config
+C:\Users\Ivaylo.Il\Documents\Visual Studio 2013\Projects\03.Homework - Operators  and Statements\09.Trapezoids\bin\Debug\09.Trapezoids.exe
+C:\Users\Ivaylo.Il\Documents\Visual Studio 2013\Projects\03.Homework - Operators  and Statements\09.Trapezoids\bin\Debug\09.Trapezoids.pdb
+C:\Users\Ivaylo.Il\Documents\Visual Studio 2013\Projects\03.Homework - Operators  and Statements\09.Trapezoids\obj\Debug\09.Trapezoids.exe
+C:\Users\Ivaylo.Il\Documents\Visual Studio 2013\Projects\03.Homework - Operators  and Statements\09.Trapezoids\obj\Debug\09.Trapezoids.pdb
+C:\Users\Ivaylo.Il\Documents\GitHub\C#\03.Homework - Operators  and Statements\09.Trapezoids\bin\Debug\09.Trapezoids.exe.config
+C:\Users\Ivaylo.Il\Documents\GitHub\C#\03.Homework - Operators  and Statements\09.Trapezoids\obj\Debug\09.Trapezoids.exe
+C:\Users\Ivaylo.Il\Documents\GitHub\C#\03.Homework - Operators  and Statements\09.Trapezoids\obj\Debug\09.Trapezoids.pdb

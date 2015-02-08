@@ -1,0 +1,9 @@
+C:\Users\Ivaylo.Il\Documents\Visual Studio 2013\Projects\03.Homework - Operators  and Statements\07.PointinaCircle\bin\Debug\07.PointinaCircle.exe.config
+C:\Users\Ivaylo.Il\Documents\Visual Studio 2013\Projects\03.Homework - Operators  and Statements\07.PointinaCircle\obj\Debug\07.PointinaCircle.csprojResolveAssemblyReference.cache
+C:\Users\Ivaylo.Il\Documents\Visual Studio 2013\Projects\03.Homework - Operators  and Statements\07.PointinaCircle\bin\Debug\07.PointinaCircle.exe
+C:\Users\Ivaylo.Il\Documents\Visual Studio 2013\Projects\03.Homework - Operators  and Statements\07.PointinaCircle\bin\Debug\07.PointinaCircle.pdb
+C:\Users\Ivaylo.Il\Documents\Visual Studio 2013\Projects\03.Homework - Operators  and Statements\07.PointinaCircle\obj\Debug\07.PointinaCircle.exe
+C:\Users\Ivaylo.Il\Documents\Visual Studio 2013\Projects\03.Homework - Operators  and Statements\07.PointinaCircle\obj\Debug\07.PointinaCircle.pdb
+C:\Users\Ivaylo.Il\Documents\GitHub\C#\03.Homework - Operators  and Statements\07.PointinaCircle\bin\Debug\07.PointinaCircle.exe.config
+C:\Users\Ivaylo.Il\Documents\GitHub\C#\03.Homework - Operators  and Statements\07.PointinaCircle\obj\Debug\07.PointinaCircle.exe
+C:\Users\Ivaylo.Il\Documents\GitHub\C#\03.Homework - Operators  and Statements\07.PointinaCircle\obj\Debug\07.PointinaCircle.pdb

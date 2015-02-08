@@ -1,0 +1,58 @@
+div {
+	width: 635px;
+	height: 230px;
+	background-color: #00923e;
+	padding-left: 12px;
+	padding-top: 12px;
+}
+table {
+	border: 1px solid black;
+	border-spacing: 0;
+	border-radius: 15px;
+	width: 615px;
+	height: 215px;
+	overflow: hidden;
+}
+table th, table td {
+	border: 1px solid black;
+}
+table th {
+
+	background-color: #f8c711;	
+}
+table tbody tr:nth-child(odd) {
+	background-color: #ffffff;
+}
+table tbody tr:nth-child(even) {
+	background-color: #c8c8c8;
+}
+.resultCenter {
+	text-align: center;
+}
+table thead tr{
+	width: 615px;
+	height: 33px;
+	font-size: 20px;
+
+}
+table tbody tr {
+	width: 615px;
+	height: 35px;
+	font-size: 12px;
+}
+.alignRight {
+	text-align: right;
+}
+.alignLeft {
+	text-align: left;
+}
+input  {
+	float: right;
+	margin-right: 4px;
+}
+.redSelect {
+	color: red;
+}
+select[disabled]{
+	background-color: #ddd;
+}

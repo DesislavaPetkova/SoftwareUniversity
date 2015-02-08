@@ -1,0 +1,5 @@
+c:\users\ivaylo.il\documents\visual studio 2013\Projects\07.Homework-Advanced\07.MatrixofPalindromes\bin\Debug\07.MatrixofPalindromes.exe.config
+c:\users\ivaylo.il\documents\visual studio 2013\Projects\07.Homework-Advanced\07.MatrixofPalindromes\bin\Debug\07.MatrixofPalindromes.exe
+c:\users\ivaylo.il\documents\visual studio 2013\Projects\07.Homework-Advanced\07.MatrixofPalindromes\bin\Debug\07.MatrixofPalindromes.pdb
+c:\users\ivaylo.il\documents\visual studio 2013\Projects\07.Homework-Advanced\07.MatrixofPalindromes\obj\Debug\07.MatrixofPalindromes.exe
+c:\users\ivaylo.il\documents\visual studio 2013\Projects\07.Homework-Advanced\07.MatrixofPalindromes\obj\Debug\07.MatrixofPalindromes.pdb

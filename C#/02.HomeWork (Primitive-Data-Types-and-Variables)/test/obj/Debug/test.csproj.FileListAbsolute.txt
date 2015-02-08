@@ -1,0 +1,5 @@
+C:\Users\Ivaylo.Il\Documents\Visual Studio 2013\Projects\02.HomeWork (Primitive-Data-Types-and-Variables)\test\bin\Debug\test.exe.config
+C:\Users\Ivaylo.Il\Documents\Visual Studio 2013\Projects\02.HomeWork (Primitive-Data-Types-and-Variables)\test\bin\Debug\test.exe
+C:\Users\Ivaylo.Il\Documents\Visual Studio 2013\Projects\02.HomeWork (Primitive-Data-Types-and-Variables)\test\bin\Debug\test.pdb
+C:\Users\Ivaylo.Il\Documents\Visual Studio 2013\Projects\02.HomeWork (Primitive-Data-Types-and-Variables)\test\obj\Debug\test.exe
+C:\Users\Ivaylo.Il\Documents\Visual Studio 2013\Projects\02.HomeWork (Primitive-Data-Types-and-Variables)\test\obj\Debug\test.pdb

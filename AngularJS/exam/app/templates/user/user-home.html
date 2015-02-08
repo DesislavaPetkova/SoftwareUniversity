@@ -1,0 +1,73 @@
+ <!-- header -->
+    <header class="header" id="header">
+
+            <!-- user header -->
+
+        <div class="image-container">
+            <img class="thumbnail" />
+        </div>
+        <div class="summary-container">
+            <h2 ng-cloak="">Hello, {{name}}!</h2>
+        </div>
+        <nav class="navbar navbar-default">
+            <div class="navbar-header">
+                <button type="button" class="navbar-toggle collapsed" data-toggle="collapse" data-target=".navbar-collapse">
+                    <span class="sr-only">Toggle navigation</span>
+                    <span class="icon-bar"></span>
+                    <span class="icon-bar"></span>
+                    <span class="icon-bar"></span>
+                </button>
+            </div>
+            <div class="navbar-collapse collapse">
+                <ul class="nav navbar-nav">
+                    <li><a href="#/user-home">Home</a></li>
+                    <li><a href="#/edit-profile">Edit profile</a></li>
+                    <li><a ng-click="postClicked()">Post</a></li>
+                </ul>
+                <ul class="nav navbar-nav pull-right">
+                    <li><a class="navbar-brand" href="#/edit-profile"><u>{{username}}</u></a></li>
+                    <li><a href="#/" ng-click="logout()">Logout</a></li>
+                </ul>
+            </div>
+        </nav>
+    </header>
+        <div class="post-container" id="post-container" ng-if="clicked">
+            <form class="form-horizontal">
+                <fieldset>
+                    <div class="form-group">
+                        <div>
+                            <textarea class="form-control" rows="3" id="post-content" placeholder="Any cool story you wanna share?" ng-model="content"></textarea>
+                        </div>
+                    </div>
+                    <div class="form-group pull-left">
+                        <div>
+                            <button type="button" class="btn btn-primary" ng-click="addPost(content)">Post</button>
+                        </div>
+                    </div>
+                </fieldset>
+            </form>
+        </div>
+        
+        
+        <section id="posts">
+            <ul>
+                <li ng-repeat="post in posts">
+                    <article class="post well">
+                        <header class="post-header">
+                            <div class="post-image">
+                                <img class="mini-thumbnail" />
+                            </div>
+                            <div class="post-info">
+                                <p><a href="#" class="profile-link">{{post.createdBy.name}}</a> made a post</p>
+                                <p>on <time>{{post.createdAt | date:'d-MMM-yyyy'}}</time></p>
+                            </div>
+                        </header>
+                        <section class="post-content">
+                            <p>{{post.content}}</p>
+                        </section>
+                    </article>
+                </li>
+            </ul>    
+
+        </section>
+        

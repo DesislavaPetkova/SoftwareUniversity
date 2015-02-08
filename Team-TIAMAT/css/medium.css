@@ -1,0 +1,74 @@
+body {
+        font-size: 150%;
+    }
+
+    #wrapper {
+        width: 100%;
+    }
+
+    #header h1 a {
+        width: 100%;
+        background: url('../images/medium-small-logo.png') no-repeat;
+        }
+
+    nav {
+        clear: both;
+        width: 100%;
+        margin: 0 auto; 
+    }
+
+    .news {
+        width: 95%;
+        float: none;
+    }
+
+    .crimi {
+        width: 95%;
+        float: none;
+    }
+
+    article:nth-child(2n+1){
+        transform: rotate(4deg);
+        transition: transform 1s;
+        -webkit-transform: rotate(4deg);
+        -webkit-transition: -webkit-transform 1s;
+
+    }
+
+    article:nth-child(2n+1):hover{
+        transform:rotate(-4deg);
+        -webkit-transform: rotate(-4deg);
+    }
+
+    article:nth-child(2n){
+        transform: rotate(-4deg);
+        transition: transform 1s;
+        -webkit-transform: rotate(-4deg);
+        -webkit-transition: -webkit-transform 1s;
+
+    }
+
+    article:nth-child(2n):hover{
+        transform:rotate(4deg);
+        -webkit-transform: rotate(4deg);
+    }
+
+    .fundamentials article{
+    transform:rotate(1deg);
+    -webkit-transform: rotate(1deg);
+    }
+
+        .fundamentials article:hover{
+            transform:rotate(-1deg);
+            -webkit-transform: rotate(-1deg);
+        }
+
+    .youtube {
+        height: 220px;
+    }
+
+    footer img {
+        display: block;
+        width: 40%;
+        margin: 0 auto 10px;
+    }

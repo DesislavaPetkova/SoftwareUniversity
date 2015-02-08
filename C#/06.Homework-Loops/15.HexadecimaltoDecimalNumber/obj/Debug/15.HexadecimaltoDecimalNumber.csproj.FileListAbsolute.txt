@@ -1,0 +1,5 @@
+C:\Users\Ivaylo.Il\Documents\Visual Studio 2013\Projects\06.Homework-Loops\15.HexadecimaltoDecimalNumber\bin\Debug\15.HexadecimaltoDecimalNumber.exe.config
+C:\Users\Ivaylo.Il\Documents\Visual Studio 2013\Projects\06.Homework-Loops\15.HexadecimaltoDecimalNumber\bin\Debug\15.HexadecimaltoDecimalNumber.exe
+C:\Users\Ivaylo.Il\Documents\Visual Studio 2013\Projects\06.Homework-Loops\15.HexadecimaltoDecimalNumber\bin\Debug\15.HexadecimaltoDecimalNumber.pdb
+C:\Users\Ivaylo.Il\Documents\Visual Studio 2013\Projects\06.Homework-Loops\15.HexadecimaltoDecimalNumber\obj\Debug\15.HexadecimaltoDecimalNumber.exe
+C:\Users\Ivaylo.Il\Documents\Visual Studio 2013\Projects\06.Homework-Loops\15.HexadecimaltoDecimalNumber\obj\Debug\15.HexadecimaltoDecimalNumber.pdb

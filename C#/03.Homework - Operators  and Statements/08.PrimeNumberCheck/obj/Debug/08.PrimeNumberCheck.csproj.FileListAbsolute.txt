@@ -1,0 +1,9 @@
+C:\Users\Ivaylo.Il\Documents\Visual Studio 2013\Projects\03.Homework - Operators  and Statements\08.PrimeNumberCheck\bin\Debug\08.PrimeNumberCheck.exe.config
+C:\Users\Ivaylo.Il\Documents\Visual Studio 2013\Projects\03.Homework - Operators  and Statements\08.PrimeNumberCheck\bin\Debug\08.PrimeNumberCheck.exe
+C:\Users\Ivaylo.Il\Documents\Visual Studio 2013\Projects\03.Homework - Operators  and Statements\08.PrimeNumberCheck\bin\Debug\08.PrimeNumberCheck.pdb
+C:\Users\Ivaylo.Il\Documents\Visual Studio 2013\Projects\03.Homework - Operators  and Statements\08.PrimeNumberCheck\obj\Debug\08.PrimeNumberCheck.csprojResolveAssemblyReference.cache
+C:\Users\Ivaylo.Il\Documents\Visual Studio 2013\Projects\03.Homework - Operators  and Statements\08.PrimeNumberCheck\obj\Debug\08.PrimeNumberCheck.exe
+C:\Users\Ivaylo.Il\Documents\Visual Studio 2013\Projects\03.Homework - Operators  and Statements\08.PrimeNumberCheck\obj\Debug\08.PrimeNumberCheck.pdb
+C:\Users\Ivaylo.Il\Documents\GitHub\C#\03.Homework - Operators  and Statements\08.PrimeNumberCheck\bin\Debug\08.PrimeNumberCheck.exe.config
+C:\Users\Ivaylo.Il\Documents\GitHub\C#\03.Homework - Operators  and Statements\08.PrimeNumberCheck\obj\Debug\08.PrimeNumberCheck.exe
+C:\Users\Ivaylo.Il\Documents\GitHub\C#\03.Homework - Operators  and Statements\08.PrimeNumberCheck\obj\Debug\08.PrimeNumberCheck.pdb

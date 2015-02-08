@@ -1,0 +1,9 @@
+C:\Users\Ivaylo.Il\Documents\Visual Studio 2013\Projects\03.Homework - Operators  and Statements\11.BitwiseExtractBit3\bin\Debug\11.BitwiseExtractBit3.exe.config
+C:\Users\Ivaylo.Il\Documents\Visual Studio 2013\Projects\03.Homework - Operators  and Statements\11.BitwiseExtractBit3\bin\Debug\11.BitwiseExtractBit3.exe
+C:\Users\Ivaylo.Il\Documents\Visual Studio 2013\Projects\03.Homework - Operators  and Statements\11.BitwiseExtractBit3\bin\Debug\11.BitwiseExtractBit3.pdb
+C:\Users\Ivaylo.Il\Documents\Visual Studio 2013\Projects\03.Homework - Operators  and Statements\11.BitwiseExtractBit3\obj\Debug\11.BitwiseExtractBit3.csprojResolveAssemblyReference.cache
+C:\Users\Ivaylo.Il\Documents\Visual Studio 2013\Projects\03.Homework - Operators  and Statements\11.BitwiseExtractBit3\obj\Debug\11.BitwiseExtractBit3.exe
+C:\Users\Ivaylo.Il\Documents\Visual Studio 2013\Projects\03.Homework - Operators  and Statements\11.BitwiseExtractBit3\obj\Debug\11.BitwiseExtractBit3.pdb
+C:\Users\Ivaylo.Il\Documents\GitHub\C#\03.Homework - Operators  and Statements\11.BitwiseExtractBit3\bin\Debug\11.BitwiseExtractBit3.exe.config
+C:\Users\Ivaylo.Il\Documents\GitHub\C#\03.Homework - Operators  and Statements\11.BitwiseExtractBit3\obj\Debug\11.BitwiseExtractBit3.exe
+C:\Users\Ivaylo.Il\Documents\GitHub\C#\03.Homework - Operators  and Statements\11.BitwiseExtractBit3\obj\Debug\11.BitwiseExtractBit3.pdb

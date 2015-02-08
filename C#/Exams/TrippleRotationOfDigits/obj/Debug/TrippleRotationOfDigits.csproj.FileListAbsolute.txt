@@ -1,0 +1,6 @@
+C:\Users\Ivaylo.Il\Documents\Visual Studio 2013\Projects\Exams\TrippleRotationOfDigits\bin\Debug\TrippleRotationOfDigits.exe.config
+C:\Users\Ivaylo.Il\Documents\Visual Studio 2013\Projects\Exams\TrippleRotationOfDigits\obj\Debug\TrippleRotationOfDigits.csprojResolveAssemblyReference.cache
+C:\Users\Ivaylo.Il\Documents\Visual Studio 2013\Projects\Exams\TrippleRotationOfDigits\bin\Debug\TrippleRotationOfDigits.exe
+C:\Users\Ivaylo.Il\Documents\Visual Studio 2013\Projects\Exams\TrippleRotationOfDigits\bin\Debug\TrippleRotationOfDigits.pdb
+C:\Users\Ivaylo.Il\Documents\Visual Studio 2013\Projects\Exams\TrippleRotationOfDigits\obj\Debug\TrippleRotationOfDigits.exe
+C:\Users\Ivaylo.Il\Documents\Visual Studio 2013\Projects\Exams\TrippleRotationOfDigits\obj\Debug\TrippleRotationOfDigits.pdb

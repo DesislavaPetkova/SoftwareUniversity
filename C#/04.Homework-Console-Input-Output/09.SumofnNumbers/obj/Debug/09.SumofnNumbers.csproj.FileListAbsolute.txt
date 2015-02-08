@@ -1,0 +1,6 @@
+C:\Users\Ivaylo.Il\Documents\Visual Studio 2013\Projects\04.Homework-Console-Input-Output\09.SumofnNumbers\bin\Debug\09.SumofnNumbers.exe.config
+C:\Users\Ivaylo.Il\Documents\Visual Studio 2013\Projects\04.Homework-Console-Input-Output\09.SumofnNumbers\bin\Debug\09.SumofnNumbers.exe
+C:\Users\Ivaylo.Il\Documents\Visual Studio 2013\Projects\04.Homework-Console-Input-Output\09.SumofnNumbers\bin\Debug\09.SumofnNumbers.pdb
+C:\Users\Ivaylo.Il\Documents\Visual Studio 2013\Projects\04.Homework-Console-Input-Output\09.SumofnNumbers\obj\Debug\09.SumofnNumbers.csprojResolveAssemblyReference.cache
+C:\Users\Ivaylo.Il\Documents\Visual Studio 2013\Projects\04.Homework-Console-Input-Output\09.SumofnNumbers\obj\Debug\09.SumofnNumbers.exe
+C:\Users\Ivaylo.Il\Documents\Visual Studio 2013\Projects\04.Homework-Console-Input-Output\09.SumofnNumbers\obj\Debug\09.SumofnNumbers.pdb

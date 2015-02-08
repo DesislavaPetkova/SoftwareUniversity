@@ -1,0 +1,5 @@
+C:\Users\Ivaylo.Il\Documents\Visual Studio 2013\Projects\06.Homework-Loops\06.CalculateNandK\bin\Debug\06.CalculateNandK.exe.config
+C:\Users\Ivaylo.Il\Documents\Visual Studio 2013\Projects\06.Homework-Loops\06.CalculateNandK\bin\Debug\06.CalculateNandK.exe
+C:\Users\Ivaylo.Il\Documents\Visual Studio 2013\Projects\06.Homework-Loops\06.CalculateNandK\bin\Debug\06.CalculateNandK.pdb
+C:\Users\Ivaylo.Il\Documents\Visual Studio 2013\Projects\06.Homework-Loops\06.CalculateNandK\obj\Debug\06.CalculateNandK.exe
+C:\Users\Ivaylo.Il\Documents\Visual Studio 2013\Projects\06.Homework-Loops\06.CalculateNandK\obj\Debug\06.CalculateNandK.pdb

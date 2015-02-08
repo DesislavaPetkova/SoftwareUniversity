@@ -1,0 +1,21 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<meta charset="UTF-8">
+	<title>Video System</title>
+	
+</head>
+<body ng-app="VideoSys">
+<div id="main" ng-controller="VideoData">
+	<ul>
+		<li ng-repeat="v in videos"> {{ v}}</li>
+	</ul>
+</div>
+
+
+
+<script src="angular.js"></script>
+<script src="app.js"></script>
+<script src="controllers/VideoData.js"></script>
+</body>
+</html>

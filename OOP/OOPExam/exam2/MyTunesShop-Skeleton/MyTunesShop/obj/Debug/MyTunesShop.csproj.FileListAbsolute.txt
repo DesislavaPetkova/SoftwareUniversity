@@ -1,0 +1,6 @@
+C:\Users\Ivaylo.Il\Documents\GitHub\OOP\OOPExam\exam2\MyTunesShop-Skeleton\MyTunesShop\bin\Debug\MyTunesShop.exe.config
+C:\Users\Ivaylo.Il\Documents\GitHub\OOP\OOPExam\exam2\MyTunesShop-Skeleton\MyTunesShop\obj\Debug\MyTunesShop.csprojResolveAssemblyReference.cache
+C:\Users\Ivaylo.Il\Documents\GitHub\OOP\OOPExam\exam2\MyTunesShop-Skeleton\MyTunesShop\bin\Debug\MyTunesShop.exe
+C:\Users\Ivaylo.Il\Documents\GitHub\OOP\OOPExam\exam2\MyTunesShop-Skeleton\MyTunesShop\bin\Debug\MyTunesShop.pdb
+C:\Users\Ivaylo.Il\Documents\GitHub\OOP\OOPExam\exam2\MyTunesShop-Skeleton\MyTunesShop\obj\Debug\MyTunesShop.exe
+C:\Users\Ivaylo.Il\Documents\GitHub\OOP\OOPExam\exam2\MyTunesShop-Skeleton\MyTunesShop\obj\Debug\MyTunesShop.pdb

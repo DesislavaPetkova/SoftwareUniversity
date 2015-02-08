@@ -1,0 +1,6 @@
+C:\Users\Ivaylo.Il\Documents\Visual Studio 2013\Projects\Exams\MathExpression\bin\Debug\MathExpression.exe.config
+C:\Users\Ivaylo.Il\Documents\Visual Studio 2013\Projects\Exams\MathExpression\bin\Debug\MathExpression.exe
+C:\Users\Ivaylo.Il\Documents\Visual Studio 2013\Projects\Exams\MathExpression\bin\Debug\MathExpression.pdb
+C:\Users\Ivaylo.Il\Documents\Visual Studio 2013\Projects\Exams\MathExpression\obj\Debug\MathExpression.csprojResolveAssemblyReference.cache
+C:\Users\Ivaylo.Il\Documents\Visual Studio 2013\Projects\Exams\MathExpression\obj\Debug\MathExpression.exe
+C:\Users\Ivaylo.Il\Documents\Visual Studio 2013\Projects\Exams\MathExpression\obj\Debug\MathExpression.pdb

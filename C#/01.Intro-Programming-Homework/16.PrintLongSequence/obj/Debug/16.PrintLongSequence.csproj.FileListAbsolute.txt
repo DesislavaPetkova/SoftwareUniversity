@@ -1,0 +1,14 @@
+C:\Users\Ivaylo.Il\Documents\Visual Studio 2013\Projects\Intro-Programming-Homework\16.PrintLongSequence\bin\Debug\16.PrintLongSequence.exe.config
+C:\Users\Ivaylo.Il\Documents\Visual Studio 2013\Projects\Intro-Programming-Homework\16.PrintLongSequence\bin\Debug\16.PrintLongSequence.exe
+C:\Users\Ivaylo.Il\Documents\Visual Studio 2013\Projects\Intro-Programming-Homework\16.PrintLongSequence\bin\Debug\16.PrintLongSequence.pdb
+C:\Users\Ivaylo.Il\Documents\Visual Studio 2013\Projects\Intro-Programming-Homework\16.PrintLongSequence\obj\Debug\16.PrintLongSequence.exe
+C:\Users\Ivaylo.Il\Documents\Visual Studio 2013\Projects\Intro-Programming-Homework\16.PrintLongSequence\obj\Debug\16.PrintLongSequence.pdb
+C:\Users\Ivaylo.Il\Documents\Visual Studio 2013\Projects\01.Intro-Programming-Homework\16.PrintLongSequence\bin\Debug\16.PrintLongSequence.exe.config
+C:\Users\Ivaylo.Il\Documents\Visual Studio 2013\Projects\01.Intro-Programming-Homework\16.PrintLongSequence\obj\Debug\16.PrintLongSequence.exe
+C:\Users\Ivaylo.Il\Documents\Visual Studio 2013\Projects\01.Intro-Programming-Homework\16.PrintLongSequence\obj\Debug\16.PrintLongSequence.pdb
+C:\Users\Ivaylo.Il\Documents\Visual Studio 2013\Projects\01.Intro-Programming-Homework\16.PrintLongSequence\obj\Debug\16.PrintLongSequence.csprojResolveAssemblyReference.cache
+C:\Users\Ivaylo.Il\Documents\Visual Studio 2013\Projects\01.Intro-Programming-Homework\16.PrintLongSequence\bin\Debug\16.PrintLongSequence.exe
+C:\Users\Ivaylo.Il\Documents\Visual Studio 2013\Projects\01.Intro-Programming-Homework\16.PrintLongSequence\bin\Debug\16.PrintLongSequence.pdb
+C:\Users\Ivaylo.Il\Documents\GitHub\C#\01.Intro-Programming-Homework\16.PrintLongSequence\bin\Debug\16.PrintLongSequence.exe.config
+C:\Users\Ivaylo.Il\Documents\GitHub\C#\01.Intro-Programming-Homework\16.PrintLongSequence\obj\Debug\16.PrintLongSequence.exe
+C:\Users\Ivaylo.Il\Documents\GitHub\C#\01.Intro-Programming-Homework\16.PrintLongSequence\obj\Debug\16.PrintLongSequence.pdb

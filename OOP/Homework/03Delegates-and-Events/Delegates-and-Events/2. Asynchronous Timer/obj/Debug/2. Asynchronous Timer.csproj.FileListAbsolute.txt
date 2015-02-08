@@ -1,0 +1,6 @@
+C:\Users\Ivaylo.Il\Documents\GitHub\OOP\Homework\03Delegates-and-Events\Delegates-and-Events\2. Asynchronous Timer\bin\Debug\_2.Asynchronous_Timer.exe.config
+C:\Users\Ivaylo.Il\Documents\GitHub\OOP\Homework\03Delegates-and-Events\Delegates-and-Events\2. Asynchronous Timer\bin\Debug\_2.Asynchronous_Timer.exe
+C:\Users\Ivaylo.Il\Documents\GitHub\OOP\Homework\03Delegates-and-Events\Delegates-and-Events\2. Asynchronous Timer\bin\Debug\_2.Asynchronous_Timer.pdb
+C:\Users\Ivaylo.Il\Documents\GitHub\OOP\Homework\03Delegates-and-Events\Delegates-and-Events\2. Asynchronous Timer\obj\Debug\2. Asynchronous Timer.csprojResolveAssemblyReference.cache
+C:\Users\Ivaylo.Il\Documents\GitHub\OOP\Homework\03Delegates-and-Events\Delegates-and-Events\2. Asynchronous Timer\obj\Debug\_2.Asynchronous_Timer.exe
+C:\Users\Ivaylo.Il\Documents\GitHub\OOP\Homework\03Delegates-and-Events\Delegates-and-Events\2. Asynchronous Timer\obj\Debug\_2.Asynchronous_Timer.pdb

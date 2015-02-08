@@ -1,0 +1,9 @@
+C:\Users\Ivaylo.Il\Documents\Visual Studio 2013\Projects\03.Homework - Operators  and Statements\13.CheckaBitatGivenPosition\bin\Debug\13.CheckaBitatGivenPosition.exe.config
+C:\Users\Ivaylo.Il\Documents\Visual Studio 2013\Projects\03.Homework - Operators  and Statements\13.CheckaBitatGivenPosition\obj\Debug\13.CheckaBitatGivenPosition.csprojResolveAssemblyReference.cache
+C:\Users\Ivaylo.Il\Documents\Visual Studio 2013\Projects\03.Homework - Operators  and Statements\13.CheckaBitatGivenPosition\bin\Debug\13.CheckaBitatGivenPosition.exe
+C:\Users\Ivaylo.Il\Documents\Visual Studio 2013\Projects\03.Homework - Operators  and Statements\13.CheckaBitatGivenPosition\bin\Debug\13.CheckaBitatGivenPosition.pdb
+C:\Users\Ivaylo.Il\Documents\Visual Studio 2013\Projects\03.Homework - Operators  and Statements\13.CheckaBitatGivenPosition\obj\Debug\13.CheckaBitatGivenPosition.exe
+C:\Users\Ivaylo.Il\Documents\Visual Studio 2013\Projects\03.Homework - Operators  and Statements\13.CheckaBitatGivenPosition\obj\Debug\13.CheckaBitatGivenPosition.pdb
+C:\Users\Ivaylo.Il\Documents\GitHub\C#\03.Homework - Operators  and Statements\13.CheckaBitatGivenPosition\bin\Debug\13.CheckaBitatGivenPosition.exe.config
+C:\Users\Ivaylo.Il\Documents\GitHub\C#\03.Homework - Operators  and Statements\13.CheckaBitatGivenPosition\obj\Debug\13.CheckaBitatGivenPosition.exe
+C:\Users\Ivaylo.Il\Documents\GitHub\C#\03.Homework - Operators  and Statements\13.CheckaBitatGivenPosition\obj\Debug\13.CheckaBitatGivenPosition.pdb

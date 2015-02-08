@@ -1,0 +1,6 @@
+C:\Users\Ivaylo.Il\Documents\GitHub\OOP\Homework\07.Common-Type-System-Homework\7.Common-Type-System-Homework\StringDisperser\obj\Debug\StringDisperser.csprojResolveAssemblyReference.cache
+C:\Users\Ivaylo.Il\Documents\GitHub\OOP\Homework\07.Common-Type-System-Homework\7.Common-Type-System-Homework\StringDisperser\bin\Debug\StringDisperser.exe.config
+C:\Users\Ivaylo.Il\Documents\GitHub\OOP\Homework\07.Common-Type-System-Homework\7.Common-Type-System-Homework\StringDisperser\bin\Debug\StringDisperser.exe
+C:\Users\Ivaylo.Il\Documents\GitHub\OOP\Homework\07.Common-Type-System-Homework\7.Common-Type-System-Homework\StringDisperser\bin\Debug\StringDisperser.pdb
+C:\Users\Ivaylo.Il\Documents\GitHub\OOP\Homework\07.Common-Type-System-Homework\7.Common-Type-System-Homework\StringDisperser\obj\Debug\StringDisperser.exe
+C:\Users\Ivaylo.Il\Documents\GitHub\OOP\Homework\07.Common-Type-System-Homework\7.Common-Type-System-Homework\StringDisperser\obj\Debug\StringDisperser.pdb

@@ -1,0 +1,6 @@
+C:\Users\Ivaylo.Il\Documents\Visual Studio 2013\Projects\Intro-Programming-Homework\HorribleCode(problem 10)\bin\Debug\HorribleCode(problem 10).exe.config
+C:\Users\Ivaylo.Il\Documents\Visual Studio 2013\Projects\Intro-Programming-Homework\HorribleCode(problem 10)\obj\Debug\HorribleCode(problem 10).exe
+C:\Users\Ivaylo.Il\Documents\Visual Studio 2013\Projects\Intro-Programming-Homework\HorribleCode(problem 10)\obj\Debug\HorribleCode(problem 10).pdb
+C:\Users\Ivaylo.Il\Documents\Visual Studio 2013\Projects\01.Intro-Programming-Homework\HorribleCode(problem 10)\bin\Debug\HorribleCode(problem 10).exe.config
+C:\Users\Ivaylo.Il\Documents\Visual Studio 2013\Projects\01.Intro-Programming-Homework\HorribleCode(problem 10)\obj\Debug\HorribleCode(problem 10).exe
+C:\Users\Ivaylo.Il\Documents\Visual Studio 2013\Projects\01.Intro-Programming-Homework\HorribleCode(problem 10)\obj\Debug\HorribleCode(problem 10).pdb

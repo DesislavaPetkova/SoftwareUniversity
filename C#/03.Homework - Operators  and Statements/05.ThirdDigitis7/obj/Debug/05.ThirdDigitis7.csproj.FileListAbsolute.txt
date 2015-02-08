@@ -1,0 +1,10 @@
+C:\Users\Ivaylo.Il\Documents\Visual Studio 2013\Projects\03.Homework - Operators  and Statements\05.ThirdDigitis7\bin\Debug\05.ThirdDigitis7.exe.config
+C:\Users\Ivaylo.Il\Documents\Visual Studio 2013\Projects\03.Homework - Operators  and Statements\05.ThirdDigitis7\bin\Debug\05.ThirdDigitis7.exe
+C:\Users\Ivaylo.Il\Documents\Visual Studio 2013\Projects\03.Homework - Operators  and Statements\05.ThirdDigitis7\bin\Debug\05.ThirdDigitis7.pdb
+C:\Users\Ivaylo.Il\Documents\Visual Studio 2013\Projects\03.Homework - Operators  and Statements\05.ThirdDigitis7\obj\Debug\05.ThirdDigitis7.exe
+C:\Users\Ivaylo.Il\Documents\Visual Studio 2013\Projects\03.Homework - Operators  and Statements\05.ThirdDigitis7\obj\Debug\05.ThirdDigitis7.pdb
+C:\Users\Ivaylo.Il\Documents\GitHub\C#\03.Homework - Operators  and Statements\05.ThirdDigitis7\bin\Debug\05.ThirdDigitis7.exe.config
+C:\Users\Ivaylo.Il\Documents\GitHub\C#\03.Homework - Operators  and Statements\05.ThirdDigitis7\obj\Debug\05.ThirdDigitis7.exe
+C:\Users\Ivaylo.Il\Documents\GitHub\C#\03.Homework - Operators  and Statements\05.ThirdDigitis7\obj\Debug\05.ThirdDigitis7.pdb
+C:\Users\Ivaylo.Il\Documents\GitHub\C#\03.Homework - Operators  and Statements\05.ThirdDigitis7\bin\Debug\05.ThirdDigitis7.exe
+C:\Users\Ivaylo.Il\Documents\GitHub\C#\03.Homework - Operators  and Statements\05.ThirdDigitis7\bin\Debug\05.ThirdDigitis7.pdb

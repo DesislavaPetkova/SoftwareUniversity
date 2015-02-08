@@ -1,0 +1,6 @@
+C:\Users\Ivaylo.Il\Documents\GitHub\OOP\Homework\07.Common-Type-System-Homework\7.Common-Type-System-Homework\Customer\bin\Debug\Customer.exe.config
+C:\Users\Ivaylo.Il\Documents\GitHub\OOP\Homework\07.Common-Type-System-Homework\7.Common-Type-System-Homework\Customer\obj\Debug\Customer.csprojResolveAssemblyReference.cache
+C:\Users\Ivaylo.Il\Documents\GitHub\OOP\Homework\07.Common-Type-System-Homework\7.Common-Type-System-Homework\Customer\bin\Debug\Customer.exe
+C:\Users\Ivaylo.Il\Documents\GitHub\OOP\Homework\07.Common-Type-System-Homework\7.Common-Type-System-Homework\Customer\bin\Debug\Customer.pdb
+C:\Users\Ivaylo.Il\Documents\GitHub\OOP\Homework\07.Common-Type-System-Homework\7.Common-Type-System-Homework\Customer\obj\Debug\Customer.exe
+C:\Users\Ivaylo.Il\Documents\GitHub\OOP\Homework\07.Common-Type-System-Homework\7.Common-Type-System-Homework\Customer\obj\Debug\Customer.pdb

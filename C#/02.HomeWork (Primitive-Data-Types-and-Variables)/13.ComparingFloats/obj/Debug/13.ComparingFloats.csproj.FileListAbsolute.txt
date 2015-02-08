@@ -1,0 +1,12 @@
+C:\Users\Ivaylo.Il\Documents\Visual Studio 2013\Projects\02.HomeWork (Primitive-Data-Types-and-Variables)\13.ComparingFloats\bin\Debug\13.ComparingFloats.exe.config
+C:\Users\Ivaylo.Il\Documents\Visual Studio 2013\Projects\02.HomeWork (Primitive-Data-Types-and-Variables)\13.ComparingFloats\bin\Debug\13.ComparingFloats.exe
+C:\Users\Ivaylo.Il\Documents\Visual Studio 2013\Projects\02.HomeWork (Primitive-Data-Types-and-Variables)\13.ComparingFloats\bin\Debug\13.ComparingFloats.pdb
+C:\Users\Ivaylo.Il\Documents\Visual Studio 2013\Projects\02.HomeWork (Primitive-Data-Types-and-Variables)\13.ComparingFloats\obj\Debug\13.ComparingFloats.exe
+C:\Users\Ivaylo.Il\Documents\Visual Studio 2013\Projects\02.HomeWork (Primitive-Data-Types-and-Variables)\13.ComparingFloats\obj\Debug\13.ComparingFloats.pdb
+C:\Users\Ivaylo.Il\Documents\Visual Studio 2013\Projects\02.HomeWork (Primitive-Data-Types-and-Variables)\13.ComparingFloats\obj\Debug\13.ComparingFloats.csprojResolveAssemblyReference.cache
+C:\Users\Ivaylo.Il\Documents\GitHub\C#\02.HomeWork (Primitive-Data-Types-and-Variables)\13.ComparingFloats\bin\Debug\13.ComparingFloats.exe.config
+C:\Users\Ivaylo.Il\Documents\GitHub\C#\02.HomeWork (Primitive-Data-Types-and-Variables)\13.ComparingFloats\obj\Debug\13.ComparingFloats.exe
+C:\Users\Ivaylo.Il\Documents\GitHub\C#\02.HomeWork (Primitive-Data-Types-and-Variables)\13.ComparingFloats\obj\Debug\13.ComparingFloats.csprojResolveAssemblyReference.cache
+C:\Users\Ivaylo.Il\Documents\GitHub\C#\02.HomeWork (Primitive-Data-Types-and-Variables)\13.ComparingFloats\bin\Debug\13.ComparingFloats.exe
+C:\Users\Ivaylo.Il\Documents\GitHub\C#\02.HomeWork (Primitive-Data-Types-and-Variables)\13.ComparingFloats\bin\Debug\13.ComparingFloats.pdb
+C:\Users\Ivaylo.Il\Documents\GitHub\C#\02.HomeWork (Primitive-Data-Types-and-Variables)\13.ComparingFloats\obj\Debug\13.ComparingFloats.pdb

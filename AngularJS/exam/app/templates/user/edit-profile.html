@@ -1,0 +1,102 @@
+<header class="header" id="header">
+
+            <!-- user header -->
+
+ <div class="image-container">
+            <img class="thumbnail" />
+        </div>
+        <div class="summary-container">
+            <h2 ng-cloak="">Hello, {{name}}!</h2>
+        </div>
+        <nav class="navbar navbar-default">
+            <div class="navbar-header">
+                <button type="button" class="navbar-toggle collapsed" data-toggle="collapse" data-target=".navbar-collapse">
+                    <span class="sr-only">Toggle navigation</span>
+                    <span class="icon-bar"></span>
+                    <span class="icon-bar"></span>
+                    <span class="icon-bar"></span>
+                </button>
+            </div>
+            <div class="navbar-collapse collapse">
+                <ul class="nav navbar-nav">
+                    <li><a href="#/user-home">Home</a></li>
+                    <li><a href="#/edit-profile">Edit profile</a></li>
+                    <li><a ng-click="postClicked()">Post</a></li>
+                </ul>
+                <ul class="nav navbar-nav pull-right">
+                    <li><a class="navbar-brand" href="#/edit-profile"><u>{{username}}</u></a></li>
+                    <li><a href="#/" ng-click="logout()">Logout</a></li>
+                </ul>
+            </div>
+        </nav>
+    </header>
+        <section class="edit-profile">
+            <form class="register form-horizontal">
+                <fieldset>
+                    <legend>Edit Profile</legend>
+                    <div class="col-lg-9 form-info">
+                        <div class="form-group">
+                            <label for="username" class="col-lg-3 control-label">Username:</label>
+                            <div class="col-lg-9">
+                                <input type="text" class="form-control" id="username" value="Username" disabled>
+                            </div>
+                        </div>
+                        <div class="form-group">
+                            <label for="password" class="col-lg-3 control-label">Password:</label>
+                            <div class="col-lg-9">
+                                <input type="password" class="form-control" id="password" placeholder="Password" ng-model="password" required>
+                            </div>
+                        </div>
+                        <div class="form-group">
+                            <label for="name" class="col-lg-3 control-label">Name:</label>
+                            <div class="col-lg-9">
+                                <input type="text" class="form-control" id="name" placeholder="Name" value="Full name" ng-model="name" required>
+                            </div>
+                        </div>
+                        <div class="form-group">
+                            <label for="about" class="col-lg-3 control-label">About me:</label>
+                            <div class="col-lg-9">
+                                <textarea class="form-control" rows="3" id="about" ng-model="about" required>about me</textarea>
+                                <span class="help-block">Tell us a little about yourself!</span>
+                            </div>
+                        </div>
+                        <div class="form-group">
+                            <label class="col-lg-3 control-label">Gender:</label>
+                            <div class="col-lg-9">
+                                <div class="radio">
+                                    <label>
+                                        <input type="radio" name="gender-radio" value="male" ng-model="gender" required>Male
+                                    </label>
+                                    <label>
+                                        <input type="radio" name="gender-radio" value="female" ng-model="gender" required>Female
+                                    </label>
+                                    <label>
+                                        <input type="radio" name="gender-radio" value="other" ng-model="gender" required>Other
+                                    </label>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+
+                    <div class="col-lg-3 picture-upload">
+                        <div class="form-group">
+                            <img class="thumbnail picture-preview" />
+                        </div>
+                        <div class="form-group">
+                            <p class="picture-name"></p>
+                            <button type="button" id="upload-file-button" class="btn btn-md btn-info">Upload</button>
+                            <input type="file" id="picture" ng-model="picture"/>
+                            <p>Size limit: 128KB</p>
+                        </div>
+                    </div>
+
+                    <div class="form-group col-lg-12">
+                        <div class="col-lg-10 col-lg-offset-2">
+                            <button type="button" class="btn btn-lg btn-primary" ng-click="editProfile(password, name, about, gender, picture)">Save Changes</button>
+                            <button type="button" class="cancel-btn btn btn-lg btn-default" ng-click="cancel()">Cancel</button>
+                        </div>
+                    </div>
+                </fieldset>
+            </form>
+        </section>
+        <!-- end of edit profile -->

@@ -1,0 +1,5 @@
+c:\users\ivaylo.il\documents\visual studio 2013\Projects\07.Homework-Advanced\04.DifferencebetweenDates\bin\Debug\04.DifferencebetweenDates.exe.config
+c:\users\ivaylo.il\documents\visual studio 2013\Projects\07.Homework-Advanced\04.DifferencebetweenDates\bin\Debug\04.DifferencebetweenDates.exe
+c:\users\ivaylo.il\documents\visual studio 2013\Projects\07.Homework-Advanced\04.DifferencebetweenDates\bin\Debug\04.DifferencebetweenDates.pdb
+c:\users\ivaylo.il\documents\visual studio 2013\Projects\07.Homework-Advanced\04.DifferencebetweenDates\obj\Debug\04.DifferencebetweenDates.exe
+c:\users\ivaylo.il\documents\visual studio 2013\Projects\07.Homework-Advanced\04.DifferencebetweenDates\obj\Debug\04.DifferencebetweenDates.pdb

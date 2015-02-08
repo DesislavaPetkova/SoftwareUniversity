@@ -1,0 +1,38 @@
+*{
+	padding: 0;
+	margin: 0;
+}
+
+li {
+	list-style-type: none;
+}
+
+#wrapper {
+	width: 80%;
+	margin: 0 auto;
+
+}
+ul{
+	display: inline-block;
+	margin: 0 auto;
+	width: 70%;
+}
+#leftArrow{
+	width: 35px;
+	height: 35px;
+	background: url("../images/controls.png") 0px 4px no-repeat;
+	position: absolute;
+	top: 144px;
+	left: 250px;
+}
+#rightArrow{
+	width: 35px;
+	height: 35px;
+	background: url("../images/controls.png") -40px 4px no-repeat;
+	position: absolute;
+	top: 146px;
+	right: 202px;
+}
+li{
+	display: inline-block;
+}

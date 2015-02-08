@@ -1,0 +1,1 @@
+var VideoSys = angular.module("VideoSys", []);

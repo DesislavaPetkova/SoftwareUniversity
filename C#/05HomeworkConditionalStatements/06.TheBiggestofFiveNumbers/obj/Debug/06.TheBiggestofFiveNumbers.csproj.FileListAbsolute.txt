@@ -1,0 +1,6 @@
+c:\users\ivaylo.il\documents\visual studio 2013\Projects\05HomeworkConditionalStatements\06.TheBiggestofFiveNumbers\bin\Debug\06.TheBiggestofFiveNumbers.exe.config
+c:\users\ivaylo.il\documents\visual studio 2013\Projects\05HomeworkConditionalStatements\06.TheBiggestofFiveNumbers\bin\Debug\06.TheBiggestofFiveNumbers.exe
+c:\users\ivaylo.il\documents\visual studio 2013\Projects\05HomeworkConditionalStatements\06.TheBiggestofFiveNumbers\bin\Debug\06.TheBiggestofFiveNumbers.pdb
+c:\users\ivaylo.il\documents\visual studio 2013\Projects\05HomeworkConditionalStatements\06.TheBiggestofFiveNumbers\obj\Debug\06.TheBiggestofFiveNumbers.csprojResolveAssemblyReference.cache
+c:\users\ivaylo.il\documents\visual studio 2013\Projects\05HomeworkConditionalStatements\06.TheBiggestofFiveNumbers\obj\Debug\06.TheBiggestofFiveNumbers.exe
+c:\users\ivaylo.il\documents\visual studio 2013\Projects\05HomeworkConditionalStatements\06.TheBiggestofFiveNumbers\obj\Debug\06.TheBiggestofFiveNumbers.pdb

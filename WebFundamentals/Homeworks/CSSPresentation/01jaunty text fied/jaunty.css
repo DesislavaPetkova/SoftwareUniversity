@@ -1,0 +1,114 @@
+#main {
+	margin: auto 0;
+	box-shadow: 15px 15px 3px #888;
+	border-top: dotted yellow 5px;
+	width: 528px;
+	height: 200px;
+	border-left: dashed red 5px;
+	border-right: solid green 10px;
+	border-bottom: double blue 5px;	
+}
+#h1 {
+text-shadow: 5px 5px 8px #888;
+margin: 0 auto;
+text-align: center;
+font-family: "Arial";
+font-size: 35px;
+font-weight: normal;
+margin-top: 10px;
+}
+#blue {
+	border: 2px solid blue;
+	width: 460px;
+	height: 95px;
+	border-radius: 75px 75px 75px 75px;	
+	margin: 0 auto;
+	margin-top: 22px;
+}
+#green {
+	border: 2px solid green;
+	width: 456px;
+	height: 91px;
+	border-radius: 75px 75px 75px 75px;	
+	margin: 0 auto;	
+}
+#yellow {
+	border: 2px solid yellow;
+	width: 450px;
+	height: 87px;
+	border-radius: 75px 75px 75px 75px;	
+	margin: 0 auto;	
+}
+#red {
+	border: 2px solid red;
+	width: 447px;
+	height: 82px;
+	border-radius: 75px 75px 75px 75px;	
+	margin: 0 auto;	
+}
+div>h3 {
+	font-style: normal;
+	margin: 0 auto;
+	text-align: center;
+	text-shadow: 5px 5px 8px #888;
+	margin-top: 10px;
+	font-family: Arial;
+	font-size: 17px;
+}
+.notbuttons {
+	float: left;
+	text-align: center;
+	margin-top: 13px;
+	background-color: #d8921a;
+	padding: 1%;
+	border-top: 3px solid #EC9C0D;
+	border-left: 3px solid #EC9C0D;
+	border-bottom: 3px solid #AD7206;
+	border-right: 3px solid #AD7206;
+	width: 160px;
+	height: 10px;
+	padding-top: 0;
+	padding-bottom: 8px;
+}
+.small{
+	background-color: #a7a8a8;
+	border: 2px dashed #fff;
+	border-radius: 50px;
+	position: relative;
+	top: -97px;
+	left: 423px;
+	z-index: 2;
+	width: 13px;
+	height: 13px;
+	box-shadow: 0px 0px 0px 4px #a7a8a8;
+	opacity: 0.9;
+}
+.middle {
+	background-color: #a7a8a8;
+	border: 2px dashed #fff;
+	border-radius: 50px;
+	position: relative;
+	top: -145px;
+	left: 454px;
+	z-index: 2;
+	width: 24px;
+	height: 24px;
+	box-shadow: 0px 0px 0px 4px #a7a8a8;
+	opacity: 0.9;
+}
+.big {
+	background-color: #a7a8a8;
+	border: 2px dashed #fff;
+	border-radius: 50px;
+	position: relative;
+	top: -225px;
+	left: 499px;
+	z-index: 2;
+	width: 65px;
+	height: 35px;
+	box-shadow: 0px 0px 0px 4px #a7a8a8;
+	opacity: 0.9;
+	color: #fff;
+	text-align: center;
+	padding-bottom: 7px;
+}

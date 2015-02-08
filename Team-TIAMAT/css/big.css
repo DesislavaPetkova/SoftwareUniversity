@@ -1,0 +1,7 @@
+body {
+        font-size: 160%;
+    }
+
+    #header h1 a {
+        background: url('../images/medium-small-logo.png') no-repeat;
+    }

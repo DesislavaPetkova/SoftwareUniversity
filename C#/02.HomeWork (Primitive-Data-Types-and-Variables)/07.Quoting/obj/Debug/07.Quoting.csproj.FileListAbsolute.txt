@@ -1,0 +1,9 @@
+C:\Users\Ivaylo.Il\Documents\Visual Studio 2013\Projects\02.HomeWork (Primitive-Data-Types-and-Variables)\07.Quoting\bin\Debug\07.Quoting.exe.config
+C:\Users\Ivaylo.Il\Documents\Visual Studio 2013\Projects\02.HomeWork (Primitive-Data-Types-and-Variables)\07.Quoting\bin\Debug\07.Quoting.exe
+C:\Users\Ivaylo.Il\Documents\Visual Studio 2013\Projects\02.HomeWork (Primitive-Data-Types-and-Variables)\07.Quoting\bin\Debug\07.Quoting.pdb
+C:\Users\Ivaylo.Il\Documents\Visual Studio 2013\Projects\02.HomeWork (Primitive-Data-Types-and-Variables)\07.Quoting\obj\Debug\07.Quoting.csprojResolveAssemblyReference.cache
+C:\Users\Ivaylo.Il\Documents\Visual Studio 2013\Projects\02.HomeWork (Primitive-Data-Types-and-Variables)\07.Quoting\obj\Debug\07.Quoting.exe
+C:\Users\Ivaylo.Il\Documents\Visual Studio 2013\Projects\02.HomeWork (Primitive-Data-Types-and-Variables)\07.Quoting\obj\Debug\07.Quoting.pdb
+C:\Users\Ivaylo.Il\Documents\GitHub\C#\02.HomeWork (Primitive-Data-Types-and-Variables)\07.Quoting\bin\Debug\07.Quoting.exe.config
+C:\Users\Ivaylo.Il\Documents\GitHub\C#\02.HomeWork (Primitive-Data-Types-and-Variables)\07.Quoting\obj\Debug\07.Quoting.exe
+C:\Users\Ivaylo.Il\Documents\GitHub\C#\02.HomeWork (Primitive-Data-Types-and-Variables)\07.Quoting\obj\Debug\07.Quoting.pdb

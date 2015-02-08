@@ -1,0 +1,12 @@
+C:\Users\Ivaylo.Il\Documents\Visual Studio 2013\Projects\Intro-Programming-Homework\SquareRoot(Problem 8)\bin\Debug\SquareRoot(Problem 8).exe.config
+C:\Users\Ivaylo.Il\Documents\Visual Studio 2013\Projects\Intro-Programming-Homework\SquareRoot(Problem 8)\obj\Debug\SquareRoot(Problem 8).exe
+C:\Users\Ivaylo.Il\Documents\Visual Studio 2013\Projects\Intro-Programming-Homework\SquareRoot(Problem 8)\obj\Debug\SquareRoot(Problem 8).pdb
+C:\Users\Ivaylo.Il\Documents\Visual Studio 2013\Projects\Intro-Programming-Homework\SquareRoot(Problem 8)\bin\Debug\SquareRoot(Problem 8).exe
+C:\Users\Ivaylo.Il\Documents\Visual Studio 2013\Projects\Intro-Programming-Homework\SquareRoot(Problem 8)\bin\Debug\SquareRoot(Problem 8).pdb
+C:\Users\Ivaylo.Il\Documents\Visual Studio 2013\Projects\Intro-Programming-Homework\SquareRoot(Problem 8)\obj\Debug\08.SquareRoot.csprojResolveAssemblyReference.cache
+C:\Users\Ivaylo.Il\Documents\GitHub\C#\01.Intro-Programming-Homework\SquareRoot(Problem 8)\bin\Debug\SquareRoot(Problem 8).exe.config
+C:\Users\Ivaylo.Il\Documents\GitHub\C#\01.Intro-Programming-Homework\SquareRoot(Problem 8)\obj\Debug\SquareRoot(Problem 8).exe
+C:\Users\Ivaylo.Il\Documents\GitHub\C#\01.Intro-Programming-Homework\SquareRoot(Problem 8)\obj\Debug\SquareRoot(Problem 8).pdb
+C:\Users\Ivaylo.Il\Documents\GitHub\C#\01.Intro-Programming-Homework\SquareRoot(Problem 8)\bin\Debug\SquareRoot(Problem 8).exe
+C:\Users\Ivaylo.Il\Documents\GitHub\C#\01.Intro-Programming-Homework\SquareRoot(Problem 8)\bin\Debug\SquareRoot(Problem 8).pdb
+C:\Users\Ivaylo.Il\Documents\GitHub\C#\01.Intro-Programming-Homework\SquareRoot(Problem 8)\obj\Debug\08.SquareRoot.csprojResolveAssemblyReference.cache

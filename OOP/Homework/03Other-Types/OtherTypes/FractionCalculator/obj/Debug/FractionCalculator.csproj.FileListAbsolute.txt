@@ -1,0 +1,5 @@
+C:\Users\Ivaylo.Il\Documents\GitHub\OOP\Homework\03Other-Types\OtherTypes\FractionCalculator\bin\Debug\FractionCalculator.exe.config
+C:\Users\Ivaylo.Il\Documents\GitHub\OOP\Homework\03Other-Types\OtherTypes\FractionCalculator\bin\Debug\FractionCalculator.exe
+C:\Users\Ivaylo.Il\Documents\GitHub\OOP\Homework\03Other-Types\OtherTypes\FractionCalculator\bin\Debug\FractionCalculator.pdb
+C:\Users\Ivaylo.Il\Documents\GitHub\OOP\Homework\03Other-Types\OtherTypes\FractionCalculator\obj\Debug\FractionCalculator.exe
+C:\Users\Ivaylo.Il\Documents\GitHub\OOP\Homework\03Other-Types\OtherTypes\FractionCalculator\obj\Debug\FractionCalculator.pdb

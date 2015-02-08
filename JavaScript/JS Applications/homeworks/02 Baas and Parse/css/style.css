@@ -1,0 +1,25 @@
+body {
+	background-color: #5F5F5F;
+}
+header{
+	width: 90%;
+	background: url("../images/Parse.jpg");
+	height: 121px;
+	margin: 0 auto; 
+}
+
+#wrapper{
+	width: 85%;
+	margin: 0 auto;
+}
+section{
+	background-color: #E5E5DE;
+}
+article{
+	display: block;
+	margin: 0 auto;
+	padding: 1%;
+}
+ul a {
+	display: block;
+}

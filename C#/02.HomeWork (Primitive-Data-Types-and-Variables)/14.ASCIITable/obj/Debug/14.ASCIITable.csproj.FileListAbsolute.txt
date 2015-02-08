@@ -1,0 +1,9 @@
+C:\Users\Ivaylo.Il\Documents\Visual Studio 2013\Projects\02.HomeWork (Primitive-Data-Types-and-Variables)\14.ASCIITable\bin\Debug\14.ASCIITable.exe.config
+C:\Users\Ivaylo.Il\Documents\Visual Studio 2013\Projects\02.HomeWork (Primitive-Data-Types-and-Variables)\14.ASCIITable\bin\Debug\14.ASCIITable.exe
+C:\Users\Ivaylo.Il\Documents\Visual Studio 2013\Projects\02.HomeWork (Primitive-Data-Types-and-Variables)\14.ASCIITable\bin\Debug\14.ASCIITable.pdb
+C:\Users\Ivaylo.Il\Documents\Visual Studio 2013\Projects\02.HomeWork (Primitive-Data-Types-and-Variables)\14.ASCIITable\obj\Debug\14.ASCIITable.exe
+C:\Users\Ivaylo.Il\Documents\Visual Studio 2013\Projects\02.HomeWork (Primitive-Data-Types-and-Variables)\14.ASCIITable\obj\Debug\14.ASCIITable.pdb
+C:\Users\Ivaylo.Il\Documents\Visual Studio 2013\Projects\02.HomeWork (Primitive-Data-Types-and-Variables)\14.ASCIITable\obj\Debug\14.ASCIITable.csprojResolveAssemblyReference.cache
+C:\Users\Ivaylo.Il\Documents\GitHub\C#\02.HomeWork (Primitive-Data-Types-and-Variables)\14.ASCIITable\bin\Debug\14.ASCIITable.exe.config
+C:\Users\Ivaylo.Il\Documents\GitHub\C#\02.HomeWork (Primitive-Data-Types-and-Variables)\14.ASCIITable\obj\Debug\14.ASCIITable.exe
+C:\Users\Ivaylo.Il\Documents\GitHub\C#\02.HomeWork (Primitive-Data-Types-and-Variables)\14.ASCIITable\obj\Debug\14.ASCIITable.pdb

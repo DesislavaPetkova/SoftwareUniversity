@@ -1,0 +1,2 @@
+C:\Users\Ivaylo.Il\Documents\GitHub\JavaScript\JS Applications\homeworks\04 Consuming Remote Data\Consuming Remote Data\Consuming Remote Data\obj\Debug\Consuming Remote Data.njsprojResolveAssemblyReference.cache
+C:\Users\Ivaylo.Il\Documents\GitHub\JavaScript\JS Applications\homeworks\04 Consuming Remote Data\Consuming Remote Data\Consuming Remote Data\bin\Microsoft.NodejsTools.WebRole.dll

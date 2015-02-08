@@ -1,0 +1,9 @@
+C:\Users\Ivaylo.Il\Documents\Visual Studio 2013\Projects\03.Homework - Operators  and Statements\10.InsideaCircleOutseideRectangle\bin\Debug\10.InsideaCircleOutseideRectangle.exe.config
+C:\Users\Ivaylo.Il\Documents\Visual Studio 2013\Projects\03.Homework - Operators  and Statements\10.InsideaCircleOutseideRectangle\obj\Debug\10.InsideaCircleOutseideRectangle.csprojResolveAssemblyReference.cache
+C:\Users\Ivaylo.Il\Documents\Visual Studio 2013\Projects\03.Homework - Operators  and Statements\10.InsideaCircleOutseideRectangle\bin\Debug\10.InsideaCircleOutseideRectangle.exe
+C:\Users\Ivaylo.Il\Documents\Visual Studio 2013\Projects\03.Homework - Operators  and Statements\10.InsideaCircleOutseideRectangle\bin\Debug\10.InsideaCircleOutseideRectangle.pdb
+C:\Users\Ivaylo.Il\Documents\Visual Studio 2013\Projects\03.Homework - Operators  and Statements\10.InsideaCircleOutseideRectangle\obj\Debug\10.InsideaCircleOutseideRectangle.exe
+C:\Users\Ivaylo.Il\Documents\Visual Studio 2013\Projects\03.Homework - Operators  and Statements\10.InsideaCircleOutseideRectangle\obj\Debug\10.InsideaCircleOutseideRectangle.pdb
+C:\Users\Ivaylo.Il\Documents\GitHub\C#\03.Homework - Operators  and Statements\10.InsideaCircleOutseideRectangle\bin\Debug\10.InsideaCircleOutseideRectangle.exe.config
+C:\Users\Ivaylo.Il\Documents\GitHub\C#\03.Homework - Operators  and Statements\10.InsideaCircleOutseideRectangle\obj\Debug\10.InsideaCircleOutseideRectangle.exe
+C:\Users\Ivaylo.Il\Documents\GitHub\C#\03.Homework - Operators  and Statements\10.InsideaCircleOutseideRectangle\obj\Debug\10.InsideaCircleOutseideRectangle.pdb

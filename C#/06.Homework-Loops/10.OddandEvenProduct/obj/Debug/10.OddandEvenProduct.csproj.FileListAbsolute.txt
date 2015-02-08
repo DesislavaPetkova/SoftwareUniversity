@@ -1,0 +1,6 @@
+C:\Users\Ivaylo.Il\Documents\Visual Studio 2013\Projects\06.Homework-Loops\10.OddandEvenProduct\bin\Debug\10.OddandEvenProduct.exe.config
+C:\Users\Ivaylo.Il\Documents\Visual Studio 2013\Projects\06.Homework-Loops\10.OddandEvenProduct\bin\Debug\10.OddandEvenProduct.exe
+C:\Users\Ivaylo.Il\Documents\Visual Studio 2013\Projects\06.Homework-Loops\10.OddandEvenProduct\bin\Debug\10.OddandEvenProduct.pdb
+C:\Users\Ivaylo.Il\Documents\Visual Studio 2013\Projects\06.Homework-Loops\10.OddandEvenProduct\obj\Debug\10.OddandEvenProduct.csprojResolveAssemblyReference.cache
+C:\Users\Ivaylo.Il\Documents\Visual Studio 2013\Projects\06.Homework-Loops\10.OddandEvenProduct\obj\Debug\10.OddandEvenProduct.exe
+C:\Users\Ivaylo.Il\Documents\Visual Studio 2013\Projects\06.Homework-Loops\10.OddandEvenProduct\obj\Debug\10.OddandEvenProduct.pdb

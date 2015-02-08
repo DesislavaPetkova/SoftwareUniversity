@@ -1,0 +1,129 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<meta charset="UTF-8"/>
+	<title>Flight Order</title>
+</head>
+<body bgcolor="#ffc0cb">
+<form method="get" action="">
+	<table border="0">
+		<tr>
+			<td colspan="6">
+				<h2 align="center"><i>FLIGHT ORDER</i></h2>
+			</td>
+			
+		</tr>
+		<tr>
+			<td >
+				<label for="firsttown" style="font-size: 12px"><i>From</i></label>
+			</td>
+			<td >
+				<label for="secondTown" style="font-size: 12px"><i>To</i></label>
+			</td>
+		</tr>
+		<tr>
+			<td colspan="2">
+				<select name="firstTown" id="firsttown">
+				<option name="default" selected>enter a city</option>
+				<option value="sofia">Sofia</option>
+				<option value="varna">Varna</option>
+				<option value="plovdid">Plovdiv</option>
+				</select>
+			</td>
+			<td colspan="2">
+				<select name="secondTown" id="secondTown">
+				<option name="default" selected>enter a city</option>
+				<option value="sofia">Sofia</option>
+				<option value="varna">Varna</option>
+				<option value="plovdid">Plovdiv</option>
+				</select>
+			</td>
+		</tr>
+		<tr>
+			<td colspan="3" align="right">
+				<input type="checkbox" name="direct" id="directs" />
+				<label for="directs" style="font-size: 12px"><i>Prefer directs</i></label>
+			</td>
+		</tr>
+		<tr>
+			<td>
+				<label for="depDate" style="font-size: 12px"><i>Departure Date</i></label>		
+			</td>
+			<td>
+			<label for="interval" style="font-size: 12px"><i>Time interval</i></label>	
+			</td>
+			
+		</tr>
+		<tr>
+			<td>
+				<input type="date" name="depDate" id="depDate"/>
+			</td>
+			<td>
+				<input type="time" name="firstInt" />
+			</td>
+			<td>
+				<input type="time" name="secondInt" />
+			</td>
+		</tr>
+		<tr>
+			<td>
+				<label for="retDate" style="font-size: 12px"><i>Return Date</i></label>
+			</td>
+			
+			<td>
+				<label for="interval" style="font-size: 12px"><i>Time interval</i></label>
+			</td>
+		</tr>
+		<tr>
+			<td>
+				<input type="date" name="retDate" id="redDate"/>
+			</td>
+			<td>
+				<input type="time" name="firstInt" />
+			</td>
+			<td>
+				<input type="time" name="secondInt" />
+			</td>
+		</tr>
+		<tr>
+			<td>
+				<label for="twelve" style="font-size: 12px" ali><i>12+</i></label>
+			</td>
+			<td >
+				<label for="largerTwo" style="font-size: 12px"><i>2-12</i></label>
+			</td>
+			<td>
+				<label for="zero" style="font-size: 12px"><i>0-12</i></label>
+			</td>
+			<td>
+				<label for="class" style="font-size: 12px"><i>Choose class</i></label>
+			</td>
+		</tr>
+		<tr>
+			<td>
+				<input type="number" name="twelve" id="twelve" min="12" required />
+			</td>
+			<td>
+				<input type="number" name="numberB" id="largerTwo" min="2" max="12" required/>
+			</td>
+			<td>
+				<input type="number" name="numberc" id="zero" min="0" max="2" required />
+			</td>
+			<td>
+				<select id="class" name="chooseclass">
+					<option value="economy" selected="">Economy</option>
+					<option value="business">Business</option>
+				</select>
+			</td>
+		</tr>
+		<tr>
+			<td colspan="2"></td>
+			<td colspan="2">
+				<input type="submit" value="Submit" name="submit" />
+			</td>
+		</tr>
+	</table>
+</form>
+
+</body>
+</html>

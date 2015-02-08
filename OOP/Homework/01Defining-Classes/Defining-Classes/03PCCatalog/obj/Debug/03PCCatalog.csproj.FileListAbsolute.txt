@@ -1,0 +1,6 @@
+C:\Users\Ivaylo.Il\Documents\GitHub\OOP\Homework\01Defining-Classes\Defining-Classes\03PCCatalog\bin\Debug\03PCCatalog.exe.config
+C:\Users\Ivaylo.Il\Documents\GitHub\OOP\Homework\01Defining-Classes\Defining-Classes\03PCCatalog\obj\Debug\03PCCatalog.csprojResolveAssemblyReference.cache
+C:\Users\Ivaylo.Il\Documents\GitHub\OOP\Homework\01Defining-Classes\Defining-Classes\03PCCatalog\bin\Debug\03PCCatalog.exe
+C:\Users\Ivaylo.Il\Documents\GitHub\OOP\Homework\01Defining-Classes\Defining-Classes\03PCCatalog\bin\Debug\03PCCatalog.pdb
+C:\Users\Ivaylo.Il\Documents\GitHub\OOP\Homework\01Defining-Classes\Defining-Classes\03PCCatalog\obj\Debug\03PCCatalog.exe
+C:\Users\Ivaylo.Il\Documents\GitHub\OOP\Homework\01Defining-Classes\Defining-Classes\03PCCatalog\obj\Debug\03PCCatalog.pdb

@@ -1,0 +1,87 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<meta charset="UTF-8"/>
+	<title>Fakebook</title>
+
+</head>
+<header>
+	<div style="width: 100%;">
+		<img src="logo.png" style="margin-left: 33%">
+	</div>
+</header>
+<body bgcolor="#3b5997">
+	<h1 style="color: #ffffff; text-align: center; margin-bottom: 0px">
+		Registration
+	</h1>
+	<h3 style="color: #ffffff; text-align: center; margin-top:0px">It is save and always will be!</h3>
+	
+	<div style="width: 33%; float: left;">
+		<form method="GET" action="">
+			<fieldset style="padding-bottom: 105px;">
+				<legend style="color: #ffffff">None-Important information</legend>
+				
+				<input type="text" name="firstName" placeholder="First Name">
+				<input type="text" name="lastName" placeholder="Last Name">
+				<br/>
+				<input type="email" name="email" placeholder="Email" />
+				<input type="text" name="phone" placeholder="Phone Number" />
+				<br/>
+				<input type="password" name="password" placeholder="Password">
+				<input type="text" name="website" placeholder="Website">
+				<br/>
+				<label for="birthday" style="color:#ffffff;">Birthday</label>
+				<br/>
+				<input type="date" name="birthday" id="birthday" style="width: 50%;" />
+				<br/>
+				<input type="radio" name="sex" value="1" > <span style="color: #ffffff;">Female</span>
+				<input type="radio" name="sex" value="2"> <span style="color: #ffffff;">Male</span>
+				<input type="radio" name="sex" value="3"> <span style="color: #ffffff;">Other</span>
+
+			</fieldset>
+			<br/>
+			<input type="reset" name="reset" value="Clear Form" style="width: 100%; height: 30px; border-radius: 10px;">
+		</form>
+	</div>
+	<div style="width: 66%; float: right">
+		<form method="GET" action="">
+			<fieldset style="width:66%">
+				<legend style="color: #ffffff">Importnat Information *required</legend>
+				<div style="width:100%">
+					<select name="country" required="true" style="width:33%">
+						<option selected="selected" value="Country">Country</option>
+						<option value="Bulgaria" >Bulgaria</option>
+						<option value="Spain">Spain</option>
+					</select>
+					<input type="text" name="village" placeholder="Village" style="width:33%" required="true"/>
+					<input type="text" name="district" placeholder="District" style="width:30%" required="true"/>
+				</div>
+				<br/>
+				<div>
+					<input type="text" name="street" placeholder="Street" style="width:30%" required="true">
+					<input type="text" name="streetNumber" placeholder="Nr" style="width:20%"  required="true">
+					<input type="text" name="floor" placeholder="Floor" style="width:20%" required="true">
+					<input type="text" name="appNo" placeholder="App Nr" style="width:20%" required="true">
+				</div>
+				<br/>
+				<div style="width:100%">
+					<label for="door" style="color:#ffffff">Door Color</label>
+					<br/>
+					<input type="color" id="door"  required="true"> 
+					<input type="text"  name="waterMeter" placeholder="Water Meter Nr" required="true">
+					<select name="panties"  required="true">
+						<option selected="selected" value="default">Aunt Panties' Size</option>
+						<option value="23">23</option>
+					</select>
+				</div>
+				<br/>
+				<label for="moreInformation" style="color:#ffffff">More Personal Information</label>
+				<br/>
+				<textarea style="width: 50%; height: 50px" name="information" id="moreInformation" placeholder="Give us more information!!!" required="true"></textarea>
+			</fieldset>
+			<br/>
+			<input type="submit" value="Register" name="submit" style="width: 70%; height: 30px; border-radius: 10px;"/>
+		</form>
+	</div>
+</body>
+</html>

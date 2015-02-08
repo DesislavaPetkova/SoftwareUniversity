@@ -1,0 +1,6 @@
+C:\Users\Ivaylo.Il\Documents\Visual Studio 2013\Projects\Exams\JoroTheFootballPLayer\bin\Debug\JoroTheFootballPLayer.exe.config
+C:\Users\Ivaylo.Il\Documents\Visual Studio 2013\Projects\Exams\JoroTheFootballPLayer\bin\Debug\JoroTheFootballPLayer.exe
+C:\Users\Ivaylo.Il\Documents\Visual Studio 2013\Projects\Exams\JoroTheFootballPLayer\bin\Debug\JoroTheFootballPLayer.pdb
+C:\Users\Ivaylo.Il\Documents\Visual Studio 2013\Projects\Exams\JoroTheFootballPLayer\obj\Debug\JoroTheFootballPLayer.csprojResolveAssemblyReference.cache
+C:\Users\Ivaylo.Il\Documents\Visual Studio 2013\Projects\Exams\JoroTheFootballPLayer\obj\Debug\JoroTheFootballPLayer.exe
+C:\Users\Ivaylo.Il\Documents\Visual Studio 2013\Projects\Exams\JoroTheFootballPLayer\obj\Debug\JoroTheFootballPLayer.pdb

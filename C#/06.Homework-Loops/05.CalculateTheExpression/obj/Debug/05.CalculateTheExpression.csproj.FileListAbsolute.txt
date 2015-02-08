@@ -1,0 +1,6 @@
+C:\Users\Ivaylo.Il\Documents\Visual Studio 2013\Projects\06.Homework-Loops\05.CalculateTheExpression\bin\Debug\05.CalculateTheExpression.exe.config
+C:\Users\Ivaylo.Il\Documents\Visual Studio 2013\Projects\06.Homework-Loops\05.CalculateTheExpression\bin\Debug\05.CalculateTheExpression.exe
+C:\Users\Ivaylo.Il\Documents\Visual Studio 2013\Projects\06.Homework-Loops\05.CalculateTheExpression\bin\Debug\05.CalculateTheExpression.pdb
+C:\Users\Ivaylo.Il\Documents\Visual Studio 2013\Projects\06.Homework-Loops\05.CalculateTheExpression\obj\Debug\05.CalculateTheExpression.csprojResolveAssemblyReference.cache
+C:\Users\Ivaylo.Il\Documents\Visual Studio 2013\Projects\06.Homework-Loops\05.CalculateTheExpression\obj\Debug\05.CalculateTheExpression.exe
+C:\Users\Ivaylo.Il\Documents\Visual Studio 2013\Projects\06.Homework-Loops\05.CalculateTheExpression\obj\Debug\05.CalculateTheExpression.pdb

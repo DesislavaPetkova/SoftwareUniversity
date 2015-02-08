@@ -1,0 +1,8 @@
+C:\Users\Ivaylo.Il\Documents\Visual Studio 2013\Projects\01.Intro-Programming-Homework\PrintSequance\bin\Debug\PrintSequance.exe.config
+C:\Users\Ivaylo.Il\Documents\Visual Studio 2013\Projects\01.Intro-Programming-Homework\PrintSequance\obj\Debug\PrintSequance.exe
+C:\Users\Ivaylo.Il\Documents\Visual Studio 2013\Projects\01.Intro-Programming-Homework\PrintSequance\obj\Debug\PrintSequance.pdb
+C:\Users\Ivaylo.Il\Documents\GitHub\C#\01.Intro-Programming-Homework\PrintSequance\bin\Debug\PrintSequance.exe.config
+C:\Users\Ivaylo.Il\Documents\GitHub\C#\01.Intro-Programming-Homework\PrintSequance\obj\Debug\PrintSequance.exe
+C:\Users\Ivaylo.Il\Documents\GitHub\C#\01.Intro-Programming-Homework\PrintSequance\obj\Debug\PrintSequance.pdb
+C:\Users\Ivaylo.Il\Documents\GitHub\C#\01.Intro-Programming-Homework\PrintSequance\bin\Debug\PrintSequance.exe
+C:\Users\Ivaylo.Il\Documents\GitHub\C#\01.Intro-Programming-Homework\PrintSequance\bin\Debug\PrintSequance.pdb

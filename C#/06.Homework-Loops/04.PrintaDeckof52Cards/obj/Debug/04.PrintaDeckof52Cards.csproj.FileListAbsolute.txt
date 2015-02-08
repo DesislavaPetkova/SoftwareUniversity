@@ -1,0 +1,6 @@
+C:\Users\Ivaylo.Il\Documents\Visual Studio 2013\Projects\06.Homework-Loops\04.PrintaDeckof52Cards\bin\Debug\04.PrintaDeckof52Cards.exe.config
+C:\Users\Ivaylo.Il\Documents\Visual Studio 2013\Projects\06.Homework-Loops\04.PrintaDeckof52Cards\obj\Debug\04.PrintaDeckof52Cards.csprojResolveAssemblyReference.cache
+C:\Users\Ivaylo.Il\Documents\Visual Studio 2013\Projects\06.Homework-Loops\04.PrintaDeckof52Cards\bin\Debug\04.PrintaDeckof52Cards.exe
+C:\Users\Ivaylo.Il\Documents\Visual Studio 2013\Projects\06.Homework-Loops\04.PrintaDeckof52Cards\bin\Debug\04.PrintaDeckof52Cards.pdb
+C:\Users\Ivaylo.Il\Documents\Visual Studio 2013\Projects\06.Homework-Loops\04.PrintaDeckof52Cards\obj\Debug\04.PrintaDeckof52Cards.exe
+C:\Users\Ivaylo.Il\Documents\Visual Studio 2013\Projects\06.Homework-Loops\04.PrintaDeckof52Cards\obj\Debug\04.PrintaDeckof52Cards.pdb

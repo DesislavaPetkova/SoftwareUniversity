@@ -1,0 +1,6 @@
+C:\Users\Ivaylo.Il\Documents\Visual Studio 2013\Projects\Exams\NightmareOnCodeStreet\bin\Debug\NightmareOnCodeStreet.exe.config
+C:\Users\Ivaylo.Il\Documents\Visual Studio 2013\Projects\Exams\NightmareOnCodeStreet\obj\Debug\NightmareOnCodeStreet.csprojResolveAssemblyReference.cache
+C:\Users\Ivaylo.Il\Documents\Visual Studio 2013\Projects\Exams\NightmareOnCodeStreet\bin\Debug\NightmareOnCodeStreet.exe
+C:\Users\Ivaylo.Il\Documents\Visual Studio 2013\Projects\Exams\NightmareOnCodeStreet\bin\Debug\NightmareOnCodeStreet.pdb
+C:\Users\Ivaylo.Il\Documents\Visual Studio 2013\Projects\Exams\NightmareOnCodeStreet\obj\Debug\NightmareOnCodeStreet.exe
+C:\Users\Ivaylo.Il\Documents\Visual Studio 2013\Projects\Exams\NightmareOnCodeStreet\obj\Debug\NightmareOnCodeStreet.pdb

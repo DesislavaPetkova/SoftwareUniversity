@@ -1,0 +1,3 @@
+C:\Users\Ivaylo.Il\Documents\Visual Studio 2013\Projects\Intro-Programming-Homework\HelloCS\bin\Debug\HelloCS.exe.config
+C:\Users\Ivaylo.Il\Documents\Visual Studio 2013\Projects\Intro-Programming-Homework\HelloCS\obj\Debug\HelloCS.exe
+C:\Users\Ivaylo.Il\Documents\Visual Studio 2013\Projects\Intro-Programming-Homework\HelloCS\obj\Debug\HelloCS.pdb

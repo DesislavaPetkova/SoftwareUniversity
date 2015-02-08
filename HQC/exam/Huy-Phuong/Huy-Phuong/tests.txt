@@ -1,0 +1,2 @@
+AddTheatre(Theatre Sofia)
+PrintAllTheaters()

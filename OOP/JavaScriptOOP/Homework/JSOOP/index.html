@@ -1,0 +1,29 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <meta charset = "utf-8">
+    <title>My JS homework</title>
+    <script src="Shapes.js"></script>
+</head>
+<body>
+
+<canvas id="myCanvas" width="600" height="300" style="border:1px solid #d3d3d3;"></canvas>
+
+<script>
+    var prav = new Shapes.Rectangle(100, 200, "#000000", 20, 71);
+    prav.draw();
+    var pointA = new Shapes.Point(104, 6);
+    var pointB = new Shapes.Point(9,29);
+    var pointC = new Shapes.Point(29, 9)
+    var pointsArr = [pointA, pointB, pointC];
+
+    var trig = new Shapes.Triangle(pointsArr);
+    trig.draw();
+
+    var circ = new Shapes.Circle(100, 75, "#ffffff", 3);
+    circ.draw();
+
+</script> 
+
+</body>
+</html>

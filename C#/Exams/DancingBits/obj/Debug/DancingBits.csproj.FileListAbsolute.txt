@@ -1,0 +1,6 @@
+C:\Users\Ivaylo.Il\Documents\Visual Studio 2013\Projects\Exams\DancingBits\bin\Debug\DancingBits.exe.config
+C:\Users\Ivaylo.Il\Documents\Visual Studio 2013\Projects\Exams\DancingBits\bin\Debug\DancingBits.exe
+C:\Users\Ivaylo.Il\Documents\Visual Studio 2013\Projects\Exams\DancingBits\bin\Debug\DancingBits.pdb
+C:\Users\Ivaylo.Il\Documents\Visual Studio 2013\Projects\Exams\DancingBits\obj\Debug\DancingBits.csprojResolveAssemblyReference.cache
+C:\Users\Ivaylo.Il\Documents\Visual Studio 2013\Projects\Exams\DancingBits\obj\Debug\DancingBits.exe
+C:\Users\Ivaylo.Il\Documents\Visual Studio 2013\Projects\Exams\DancingBits\obj\Debug\DancingBits.pdb

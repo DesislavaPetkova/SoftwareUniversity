@@ -1,0 +1,6 @@
+c:\users\ivaylo.il\documents\visual studio 2013\Projects\05HomeworkConditionalStatements\05.TheBiggestof3Numbers\bin\Debug\05.TheBiggestof3Numbers.exe.config
+c:\users\ivaylo.il\documents\visual studio 2013\Projects\05HomeworkConditionalStatements\05.TheBiggestof3Numbers\bin\Debug\05.TheBiggestof3Numbers.exe
+c:\users\ivaylo.il\documents\visual studio 2013\Projects\05HomeworkConditionalStatements\05.TheBiggestof3Numbers\bin\Debug\05.TheBiggestof3Numbers.pdb
+c:\users\ivaylo.il\documents\visual studio 2013\Projects\05HomeworkConditionalStatements\05.TheBiggestof3Numbers\obj\Debug\05.TheBiggestof3Numbers.csprojResolveAssemblyReference.cache
+c:\users\ivaylo.il\documents\visual studio 2013\Projects\05HomeworkConditionalStatements\05.TheBiggestof3Numbers\obj\Debug\05.TheBiggestof3Numbers.exe
+c:\users\ivaylo.il\documents\visual studio 2013\Projects\05HomeworkConditionalStatements\05.TheBiggestof3Numbers\obj\Debug\05.TheBiggestof3Numbers.pdb

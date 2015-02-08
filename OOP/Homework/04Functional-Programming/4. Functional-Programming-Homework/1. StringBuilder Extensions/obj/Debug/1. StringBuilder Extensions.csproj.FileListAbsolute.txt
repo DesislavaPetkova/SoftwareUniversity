@@ -1,0 +1,6 @@
+C:\Users\Ivaylo.Il\Documents\GitHub\OOP\Homework\04Functional-Programming\4. Functional-Programming-Homework\1. StringBuilder Extensions\bin\Debug\_1.StringBuilder_Extensions.exe.config
+C:\Users\Ivaylo.Il\Documents\GitHub\OOP\Homework\04Functional-Programming\4. Functional-Programming-Homework\1. StringBuilder Extensions\obj\Debug\1. StringBuilder Extensions.csprojResolveAssemblyReference.cache
+C:\Users\Ivaylo.Il\Documents\GitHub\OOP\Homework\04Functional-Programming\4. Functional-Programming-Homework\1. StringBuilder Extensions\bin\Debug\_1.StringBuilder_Extensions.exe
+C:\Users\Ivaylo.Il\Documents\GitHub\OOP\Homework\04Functional-Programming\4. Functional-Programming-Homework\1. StringBuilder Extensions\bin\Debug\_1.StringBuilder_Extensions.pdb
+C:\Users\Ivaylo.Il\Documents\GitHub\OOP\Homework\04Functional-Programming\4. Functional-Programming-Homework\1. StringBuilder Extensions\obj\Debug\_1.StringBuilder_Extensions.exe
+C:\Users\Ivaylo.Il\Documents\GitHub\OOP\Homework\04Functional-Programming\4. Functional-Programming-Homework\1. StringBuilder Extensions\obj\Debug\_1.StringBuilder_Extensions.pdb

@@ -1,0 +1,6 @@
+C:\Users\Ivaylo.Il\Documents\GitHub\OOP\Homework\03Exceptions\Exceptions\SquareRoot\bin\Debug\SquareRoot.exe.config
+C:\Users\Ivaylo.Il\Documents\GitHub\OOP\Homework\03Exceptions\Exceptions\SquareRoot\bin\Debug\SquareRoot.exe
+C:\Users\Ivaylo.Il\Documents\GitHub\OOP\Homework\03Exceptions\Exceptions\SquareRoot\bin\Debug\SquareRoot.pdb
+C:\Users\Ivaylo.Il\Documents\GitHub\OOP\Homework\03Exceptions\Exceptions\SquareRoot\obj\Debug\SquareRoot.csprojResolveAssemblyReference.cache
+C:\Users\Ivaylo.Il\Documents\GitHub\OOP\Homework\03Exceptions\Exceptions\SquareRoot\obj\Debug\SquareRoot.exe
+C:\Users\Ivaylo.Il\Documents\GitHub\OOP\Homework\03Exceptions\Exceptions\SquareRoot\obj\Debug\SquareRoot.pdb

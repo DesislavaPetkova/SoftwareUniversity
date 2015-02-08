@@ -1,0 +1,65 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<meta charset="utf8">
+	<link rel="stylesheet" href="css/style.css">
+	<title>Bookmarks</title>
+
+</head>
+<body>
+<header><h1><a href="#">Bookmarks</a></h1></header>
+<div id="wrapper">
+	<div id="homeView">
+		<h1>Welcome</h1>
+		<hr>
+		<div><a href="#" id="homeLogin">Login</a></div>
+		<div><a href="#" id="homeRegister">Register</a></div>
+	</div>
+	<div id="loginView">
+		<h1>Login</h1>
+		<hr>
+		<label for="loginUsername">Username:</label><br>
+		<input type="text" name="loginUsername" id="loginUsername"><br>
+		<label for="loginPassword">Password:</label><br>
+		<input type="password" name="loginPassword" id="loginPassword"><br>
+		<button><a href="#" id="login">Login</a></button>
+		<a href="#" id="registerHere">Register here</a>
+	</div>
+	<div id="registerView">
+		<h1>Register</h1>
+		<hr>
+		<label for="registerUsername">Username:</label><br>
+		<input type="text" name="registerUsername" id="registerUsername"><br>
+		<label for="registerPassword">Password:</label><br>
+		<input type="password" name="registerPassword" id="registerPassword"><br>
+		<button><a href="#" id="register">Register</a></button>
+		<a href="#" id="loginHere">Login here</a>
+	</div>
+	<div id="bookmarksView">
+		<ul id="bookmarksList">
+			
+		</ul>
+		<div id="addBookmark">
+			<h1>New Bookmark</h1>
+			<hr>
+			<div>
+				<label for="title">title</label>
+				<input type="text" name="title" id="title"><br>
+				<label for="url">URL</label>
+				<input type="url" name="url" id="url"><br>
+
+			</div>
+			<div><a href="#" id="addBookmark">Add</a></div>
+		</div>
+	</div>
+</div>
+<footer><p>&copy 2014 by SoftUni foundation, No rights reversed</p></footer>
+<script type="text/javascript" src="libs/jquery.js"></script>
+<script type="text/javascript" src="libs/jquery.noty.packaged.min.js"></script>
+<script type="text/javascript" src="libs/sammy.js"></script>
+<script type="text/javascript" src="scripts/app.js"></script>
+<script type="text/javascript" src="scripts/ajaxRequester.js"></script>
+<script type="text/javascript" src="scripts/userSession.js"></script>
+
+</body>
+</html>

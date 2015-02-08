@@ -1,0 +1,5 @@
+c:\users\ivaylo.il\documents\visual studio 2013\Projects\07.Homework-Advanced\11.JoinList\bin\Debug\11.JoinList.exe.config
+c:\users\ivaylo.il\documents\visual studio 2013\Projects\07.Homework-Advanced\11.JoinList\bin\Debug\11.JoinList.exe
+c:\users\ivaylo.il\documents\visual studio 2013\Projects\07.Homework-Advanced\11.JoinList\bin\Debug\11.JoinList.pdb
+c:\users\ivaylo.il\documents\visual studio 2013\Projects\07.Homework-Advanced\11.JoinList\obj\Debug\11.JoinList.exe
+c:\users\ivaylo.il\documents\visual studio 2013\Projects\07.Homework-Advanced\11.JoinList\obj\Debug\11.JoinList.pdb

@@ -1,0 +1,5 @@
+C:\Users\Ivaylo.Il\Documents\GitHub\HQC\exam\Huy-Phuong\Huy-Phuong\bin\Debug\Huy-Phuong.exe
+C:\Users\Ivaylo.Il\Documents\GitHub\HQC\exam\Huy-Phuong\Huy-Phuong\bin\Debug\Huy-Phuong.pdb
+C:\Users\Ivaylo.Il\Documents\GitHub\HQC\exam\Huy-Phuong\Huy-Phuong\obj\Debug\Huy-Phuong.exe
+C:\Users\Ivaylo.Il\Documents\GitHub\HQC\exam\Huy-Phuong\Huy-Phuong\obj\Debug\Huy-Phuong.pdb
+C:\Users\Ivaylo.Il\Documents\GitHub\HQC\exam\Huy-Phuong\Huy-Phuong\obj\Debug\Huy-Phuong.csprojResolveAssemblyReference.cache

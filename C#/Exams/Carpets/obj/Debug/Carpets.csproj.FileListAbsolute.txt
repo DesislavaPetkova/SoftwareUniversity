@@ -1,0 +1,6 @@
+C:\Users\Ivaylo.Il\Documents\Visual Studio 2013\Projects\Exams\Carpets\bin\Debug\Carpets.exe.config
+C:\Users\Ivaylo.Il\Documents\Visual Studio 2013\Projects\Exams\Carpets\bin\Debug\Carpets.exe
+C:\Users\Ivaylo.Il\Documents\Visual Studio 2013\Projects\Exams\Carpets\bin\Debug\Carpets.pdb
+C:\Users\Ivaylo.Il\Documents\Visual Studio 2013\Projects\Exams\Carpets\obj\Debug\Carpets.csprojResolveAssemblyReference.cache
+C:\Users\Ivaylo.Il\Documents\Visual Studio 2013\Projects\Exams\Carpets\obj\Debug\Carpets.exe
+C:\Users\Ivaylo.Il\Documents\Visual Studio 2013\Projects\Exams\Carpets\obj\Debug\Carpets.pdb

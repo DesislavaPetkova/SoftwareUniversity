@@ -1,0 +1,6 @@
+C:\Users\Ivaylo.Il\Documents\GitHub\OOP\Homework\03Other-Types\OtherTypes\GenericList\bin\Debug\GenericList.exe.config
+C:\Users\Ivaylo.Il\Documents\GitHub\OOP\Homework\03Other-Types\OtherTypes\GenericList\obj\Debug\GenericList.csprojResolveAssemblyReference.cache
+C:\Users\Ivaylo.Il\Documents\GitHub\OOP\Homework\03Other-Types\OtherTypes\GenericList\bin\Debug\GenericList.exe
+C:\Users\Ivaylo.Il\Documents\GitHub\OOP\Homework\03Other-Types\OtherTypes\GenericList\bin\Debug\GenericList.pdb
+C:\Users\Ivaylo.Il\Documents\GitHub\OOP\Homework\03Other-Types\OtherTypes\GenericList\obj\Debug\GenericList.exe
+C:\Users\Ivaylo.Il\Documents\GitHub\OOP\Homework\03Other-Types\OtherTypes\GenericList\obj\Debug\GenericList.pdb

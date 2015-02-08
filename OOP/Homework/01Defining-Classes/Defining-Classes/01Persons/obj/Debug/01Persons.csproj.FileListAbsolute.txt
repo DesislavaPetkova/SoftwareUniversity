@@ -1,0 +1,6 @@
+C:\Users\Ivaylo.Il\Documents\GitHub\OOP\Homework\01Defining-Classes\Defining-Classes\01Persons\bin\Debug\01Persons.exe.config
+C:\Users\Ivaylo.Il\Documents\GitHub\OOP\Homework\01Defining-Classes\Defining-Classes\01Persons\bin\Debug\01Persons.exe
+C:\Users\Ivaylo.Il\Documents\GitHub\OOP\Homework\01Defining-Classes\Defining-Classes\01Persons\bin\Debug\01Persons.pdb
+C:\Users\Ivaylo.Il\Documents\GitHub\OOP\Homework\01Defining-Classes\Defining-Classes\01Persons\obj\Debug\01Persons.csprojResolveAssemblyReference.cache
+C:\Users\Ivaylo.Il\Documents\GitHub\OOP\Homework\01Defining-Classes\Defining-Classes\01Persons\obj\Debug\01Persons.exe
+C:\Users\Ivaylo.Il\Documents\GitHub\OOP\Homework\01Defining-Classes\Defining-Classes\01Persons\obj\Debug\01Persons.pdb

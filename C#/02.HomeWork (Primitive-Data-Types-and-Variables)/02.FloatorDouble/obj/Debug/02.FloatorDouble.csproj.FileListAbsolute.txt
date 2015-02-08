@@ -1,0 +1,15 @@
+C:\Users\Ivaylo.Il\Documents\Visual Studio 2013\Projects\02.HomeWork\02.FloatorDouble\bin\Debug\02.FloatorDouble.exe.config
+C:\Users\Ivaylo.Il\Documents\Visual Studio 2013\Projects\02.HomeWork\02.FloatorDouble\bin\Debug\02.FloatorDouble.exe
+C:\Users\Ivaylo.Il\Documents\Visual Studio 2013\Projects\02.HomeWork\02.FloatorDouble\bin\Debug\02.FloatorDouble.pdb
+C:\Users\Ivaylo.Il\Documents\Visual Studio 2013\Projects\02.HomeWork\02.FloatorDouble\obj\Debug\02.FloatorDouble.exe
+C:\Users\Ivaylo.Il\Documents\Visual Studio 2013\Projects\02.HomeWork\02.FloatorDouble\obj\Debug\02.FloatorDouble.pdb
+C:\Users\Ivaylo.Il\Documents\Visual Studio 2013\Projects\02.HomeWork\02.FloatorDouble\obj\Debug\02.FloatorDouble.csprojResolveAssemblyReference.cache
+C:\Users\Ivaylo.Il\Documents\Visual Studio 2013\Projects\02.HomeWork (Primitive-Data-Types-and-Variables)\02.FloatorDouble\bin\Debug\02.FloatorDouble.exe.config
+C:\Users\Ivaylo.Il\Documents\Visual Studio 2013\Projects\02.HomeWork (Primitive-Data-Types-and-Variables)\02.FloatorDouble\obj\Debug\02.FloatorDouble.exe
+C:\Users\Ivaylo.Il\Documents\Visual Studio 2013\Projects\02.HomeWork (Primitive-Data-Types-and-Variables)\02.FloatorDouble\obj\Debug\02.FloatorDouble.pdb
+C:\Users\Ivaylo.Il\Documents\GitHub\C#\02.HomeWork (Primitive-Data-Types-and-Variables)\02.FloatorDouble\bin\Debug\02.FloatorDouble.exe.config
+C:\Users\Ivaylo.Il\Documents\GitHub\C#\02.HomeWork (Primitive-Data-Types-and-Variables)\02.FloatorDouble\obj\Debug\02.FloatorDouble.exe
+C:\Users\Ivaylo.Il\Documents\GitHub\C#\02.HomeWork (Primitive-Data-Types-and-Variables)\02.FloatorDouble\obj\Debug\02.FloatorDouble.pdb
+C:\Users\Ivaylo.Il\Documents\GitHub\C#\02.HomeWork (Primitive-Data-Types-and-Variables)\02.FloatorDouble\bin\Debug\02.FloatorDouble.exe
+C:\Users\Ivaylo.Il\Documents\GitHub\C#\02.HomeWork (Primitive-Data-Types-and-Variables)\02.FloatorDouble\bin\Debug\02.FloatorDouble.pdb
+C:\Users\Ivaylo.Il\Documents\GitHub\C#\02.HomeWork (Primitive-Data-Types-and-Variables)\02.FloatorDouble\obj\Debug\02.FloatorDouble.csprojResolveAssemblyReference.cache

@@ -1,0 +1,43 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<meta charset="utf8">
+	<title>Table Generator</title>
+	<style>
+        #cars {
+            border: 1px solid;
+            width: 100%;
+        }
+        #cars tr {
+            border: 1px solid black;
+            width: 20px;
+        }
+        #cars td {
+            width: 500px;
+            border: 1px solid black;
+            text-align: center;
+        }
+        th {
+            background: blue;
+            color: orange;
+            font-size: 20px;
+            
+        }
+        input {
+            text-align: center;
+            margin: 0 auto;
+            display: block;
+        }
+    </style>
+</head>
+<body>
+	<label for="json">Enter your JSON code here</label>
+	<textarea name="json" id="json" cols="30" rows="10">[{"manufacturer":"BMW","model":"E92 320i","year":2011,"price":50000,"class":"Family"},
+{"manufacturer":"Porsche","model":"Panamera","year":2012,"price":100000,"class":"Sport"},
+{"manufacturer":"Peugeot","model":"305","year":1978,"price":1000,"class":"Family"}]
+</textarea>
+
+<script type="text/javascript" src="../../../jquery.js"></script>
+<script src="TableGenerator.js"></script>
+</body>
+</html>

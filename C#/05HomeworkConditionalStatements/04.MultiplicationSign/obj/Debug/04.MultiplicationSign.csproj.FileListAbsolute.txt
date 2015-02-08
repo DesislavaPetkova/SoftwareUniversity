@@ -1,0 +1,6 @@
+c:\users\ivaylo.il\documents\visual studio 2013\Projects\05HomeworkConditionalStatements\04.MultiplicationSign\bin\Debug\04.MultiplicationSign.exe.config
+c:\users\ivaylo.il\documents\visual studio 2013\Projects\05HomeworkConditionalStatements\04.MultiplicationSign\bin\Debug\04.MultiplicationSign.exe
+c:\users\ivaylo.il\documents\visual studio 2013\Projects\05HomeworkConditionalStatements\04.MultiplicationSign\bin\Debug\04.MultiplicationSign.pdb
+c:\users\ivaylo.il\documents\visual studio 2013\Projects\05HomeworkConditionalStatements\04.MultiplicationSign\obj\Debug\04.MultiplicationSign.csprojResolveAssemblyReference.cache
+c:\users\ivaylo.il\documents\visual studio 2013\Projects\05HomeworkConditionalStatements\04.MultiplicationSign\obj\Debug\04.MultiplicationSign.exe
+c:\users\ivaylo.il\documents\visual studio 2013\Projects\05HomeworkConditionalStatements\04.MultiplicationSign\obj\Debug\04.MultiplicationSign.pdb

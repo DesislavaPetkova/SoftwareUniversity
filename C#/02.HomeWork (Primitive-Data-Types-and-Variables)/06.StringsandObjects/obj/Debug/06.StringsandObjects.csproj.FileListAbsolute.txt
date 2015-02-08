@@ -1,0 +1,11 @@
+C:\Users\Ivaylo.Il\Documents\Visual Studio 2013\Projects\02.HomeWork (Primitive-Data-Types-and-Variables)\06.StringsandObjects\bin\Debug\06.StringsandObjects.exe.config
+C:\Users\Ivaylo.Il\Documents\Visual Studio 2013\Projects\02.HomeWork (Primitive-Data-Types-and-Variables)\06.StringsandObjects\bin\Debug\06.StringsandObjects.exe
+C:\Users\Ivaylo.Il\Documents\Visual Studio 2013\Projects\02.HomeWork (Primitive-Data-Types-and-Variables)\06.StringsandObjects\bin\Debug\06.StringsandObjects.pdb
+C:\Users\Ivaylo.Il\Documents\Visual Studio 2013\Projects\02.HomeWork (Primitive-Data-Types-and-Variables)\06.StringsandObjects\obj\Debug\06.StringsandObjects.exe
+C:\Users\Ivaylo.Il\Documents\Visual Studio 2013\Projects\02.HomeWork (Primitive-Data-Types-and-Variables)\06.StringsandObjects\obj\Debug\06.StringsandObjects.pdb
+C:\Users\Ivaylo.Il\Documents\GitHub\C#\02.HomeWork (Primitive-Data-Types-and-Variables)\06.StringsandObjects\bin\Debug\06.StringsandObjects.exe.config
+C:\Users\Ivaylo.Il\Documents\GitHub\C#\02.HomeWork (Primitive-Data-Types-and-Variables)\06.StringsandObjects\obj\Debug\06.StringsandObjects.exe
+C:\Users\Ivaylo.Il\Documents\GitHub\C#\02.HomeWork (Primitive-Data-Types-and-Variables)\06.StringsandObjects\obj\Debug\06.StringsandObjects.pdb
+C:\Users\Ivaylo.Il\Documents\GitHub\C#\02.HomeWork (Primitive-Data-Types-and-Variables)\06.StringsandObjects\bin\Debug\06.StringsandObjects.exe
+C:\Users\Ivaylo.Il\Documents\GitHub\C#\02.HomeWork (Primitive-Data-Types-and-Variables)\06.StringsandObjects\bin\Debug\06.StringsandObjects.pdb
+C:\Users\Ivaylo.Il\Documents\GitHub\C#\02.HomeWork (Primitive-Data-Types-and-Variables)\06.StringsandObjects\obj\Debug\06.StringsandObjects.csprojResolveAssemblyReference.cache

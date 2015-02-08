@@ -1,0 +1,6 @@
+C:\Users\Ivaylo.Il\Documents\GitHub\OOP\OOPExam\exam2\MusicShopManager-Skeleton\MusicShopManager\bin\Debug\MusicShop.exe.config
+C:\Users\Ivaylo.Il\Documents\GitHub\OOP\OOPExam\exam2\MusicShopManager-Skeleton\MusicShopManager\bin\Debug\MusicShop.exe
+C:\Users\Ivaylo.Il\Documents\GitHub\OOP\OOPExam\exam2\MusicShopManager-Skeleton\MusicShopManager\bin\Debug\MusicShop.pdb
+C:\Users\Ivaylo.Il\Documents\GitHub\OOP\OOPExam\exam2\MusicShopManager-Skeleton\MusicShopManager\obj\Debug\MusicShop.exe
+C:\Users\Ivaylo.Il\Documents\GitHub\OOP\OOPExam\exam2\MusicShopManager-Skeleton\MusicShopManager\obj\Debug\MusicShop.pdb
+C:\Users\Ivaylo.Il\Documents\GitHub\OOP\OOPExam\exam2\MusicShopManager-Skeleton\MusicShopManager\obj\Debug\MusicShopManager.csprojResolveAssemblyReference.cache

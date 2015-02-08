@@ -1,0 +1,12 @@
+header h1{
+	text-align: center;
+	display: inline-block;
+	width: 95%
+}
+header{
+	display: inline;
+}
+
+#logout{
+	display: inline-block;
+}

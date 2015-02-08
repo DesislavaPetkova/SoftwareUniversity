@@ -1,0 +1,6 @@
+C:\Users\Ivaylo.Il\Documents\Visual Studio 2013\Projects\Exams\UKflag\bin\Debug\UKflag.exe.config
+C:\Users\Ivaylo.Il\Documents\Visual Studio 2013\Projects\Exams\UKflag\bin\Debug\UKflag.exe
+C:\Users\Ivaylo.Il\Documents\Visual Studio 2013\Projects\Exams\UKflag\bin\Debug\UKflag.pdb
+C:\Users\Ivaylo.Il\Documents\Visual Studio 2013\Projects\Exams\UKflag\obj\Debug\UKflag.csprojResolveAssemblyReference.cache
+C:\Users\Ivaylo.Il\Documents\Visual Studio 2013\Projects\Exams\UKflag\obj\Debug\UKflag.exe
+C:\Users\Ivaylo.Il\Documents\Visual Studio 2013\Projects\Exams\UKflag\obj\Debug\UKflag.pdb

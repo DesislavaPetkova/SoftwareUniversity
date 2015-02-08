@@ -1,0 +1,6 @@
+C:\Users\Ivaylo.Il\Documents\Visual Studio 2013\Projects\05HomeworkConditionalStatements\08.DigitasWord\bin\Debug\08.DigitasWord.exe.config
+C:\Users\Ivaylo.Il\Documents\Visual Studio 2013\Projects\05HomeworkConditionalStatements\08.DigitasWord\bin\Debug\08.DigitasWord.exe
+C:\Users\Ivaylo.Il\Documents\Visual Studio 2013\Projects\05HomeworkConditionalStatements\08.DigitasWord\bin\Debug\08.DigitasWord.pdb
+C:\Users\Ivaylo.Il\Documents\Visual Studio 2013\Projects\05HomeworkConditionalStatements\08.DigitasWord\obj\Debug\08.DigitasWord.csprojResolveAssemblyReference.cache
+C:\Users\Ivaylo.Il\Documents\Visual Studio 2013\Projects\05HomeworkConditionalStatements\08.DigitasWord\obj\Debug\08.DigitasWord.exe
+C:\Users\Ivaylo.Il\Documents\Visual Studio 2013\Projects\05HomeworkConditionalStatements\08.DigitasWord\obj\Debug\08.DigitasWord.pdb

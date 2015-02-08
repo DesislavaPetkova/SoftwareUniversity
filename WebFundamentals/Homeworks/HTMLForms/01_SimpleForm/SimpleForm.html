@@ -1,0 +1,55 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<meta charset="UTF-8"/>
+	<title>Simple Form</title>
+	<style>
+		#style fieldset{
+			width:220px;
+			float: left;
+			height: 180px;
+		}
+		#secondbox fieldset {
+			background-color: #234465;
+			width: 220px;
+			height: 180px;
+
+
+		}
+	</style>
+</head>
+<body bgcolor="#EEEEEE">
+	
+	<h1>Enter the system</h1>
+	<p>It is necessary to log in Your account in order to sign in for a course</p>
+	
+	<form method="get" action="" id="style">
+		<fieldset >
+			<h4 style="color:#8e8e8e">
+				<span>ARE YOU NEW?</span><span style="color:#264667">REGISTER</span>
+			</h4>
+			<input type="text" name="username" placeholder="User name"  />
+
+			<input type="email" name="email" placeholder="email"/>
+			<input type="password" name="password" placeholder="password"/>
+			<input type="password" name="password confirmation" placeholder="confirm password"/>
+
+			<input type="submit" name="submit" value="Register" />
+		</fieldset>
+	</form>
+	
+	<form id="secondbox">
+		<fieldset>
+			<h4 style="color:#ffffff">ALREADY A STUDEN? LOGIN</h4>
+			<input type="text" name="username" placeholder="User name"  />
+			<input type="password" name="password" placeholder="password"/>
+			<br/>
+			<input type="checkbox" name="remember" id="iagree" />
+			<label for="iagree">Remember me?</label>
+			<input type="submit" name="submit" value="Login" />
+			<br/>
+			<a href="" style="font-size:12px" style="text-align: right"><u>Forgot password<u/></a>
+		</fieldset>
+	</form>
+</body>
+</html>

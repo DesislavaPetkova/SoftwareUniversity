@@ -1,0 +1,5 @@
+c:\users\ivaylo.il\documents\visual studio 2013\Projects\07.Homework-Advanced\05.SortingNumbers\bin\Debug\05.SortingNumbers.exe.config
+c:\users\ivaylo.il\documents\visual studio 2013\Projects\07.Homework-Advanced\05.SortingNumbers\bin\Debug\05.SortingNumbers.exe
+c:\users\ivaylo.il\documents\visual studio 2013\Projects\07.Homework-Advanced\05.SortingNumbers\bin\Debug\05.SortingNumbers.pdb
+c:\users\ivaylo.il\documents\visual studio 2013\Projects\07.Homework-Advanced\05.SortingNumbers\obj\Debug\05.SortingNumbers.exe
+c:\users\ivaylo.il\documents\visual studio 2013\Projects\07.Homework-Advanced\05.SortingNumbers\obj\Debug\05.SortingNumbers.pdb

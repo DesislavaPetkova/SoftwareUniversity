@@ -1,0 +1,24 @@
+<!-- Products list -->
+        <section id="productsView">
+            
+            <div class="products">
+                <ul>
+                    <li class="product">
+                        <div class="product-info">
+                            <p class="item-name">Wild Rabbit</p>
+                            <p class="category"><span class="pre">Category:</span>Animals</p>
+                            <p class="price"><span class="pre">Price:</span> $200.00</p>
+                        </div>
+                        <footer class="product-footer">
+                            <a href="#">
+                                <button class="edit-button">Edit</button>
+                            </a>
+                            <a href="#">
+                                <button class="delete-button">Delete</button>
+                            </a>
+                        </footer>
+                    </li>
+                    
+                </ul>
+            </div>
+        </section>

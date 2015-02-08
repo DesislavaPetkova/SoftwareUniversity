@@ -1,0 +1,6 @@
+C:\Users\Ivaylo.Il\Documents\Visual Studio 2013\Projects\06.Homework-Loops\07.CalculateNnK(N-K)\bin\Debug\07.CalculateNnK(N-K).exe.config
+C:\Users\Ivaylo.Il\Documents\Visual Studio 2013\Projects\06.Homework-Loops\07.CalculateNnK(N-K)\bin\Debug\07.CalculateNnK(N-K).exe
+C:\Users\Ivaylo.Il\Documents\Visual Studio 2013\Projects\06.Homework-Loops\07.CalculateNnK(N-K)\bin\Debug\07.CalculateNnK(N-K).pdb
+C:\Users\Ivaylo.Il\Documents\Visual Studio 2013\Projects\06.Homework-Loops\07.CalculateNnK(N-K)\obj\Debug\07.CalculateNnK(N-K).csprojResolveAssemblyReference.cache
+C:\Users\Ivaylo.Il\Documents\Visual Studio 2013\Projects\06.Homework-Loops\07.CalculateNnK(N-K)\obj\Debug\07.CalculateNnK(N-K).exe
+C:\Users\Ivaylo.Il\Documents\Visual Studio 2013\Projects\06.Homework-Loops\07.CalculateNnK(N-K)\obj\Debug\07.CalculateNnK(N-K).pdb

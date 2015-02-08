@@ -1,0 +1,125 @@
+#wrapper {
+    width: 100%;
+}
+
+#header h1 a {
+    width: 100%;
+    background: url('../images/small-logo.png') no-repeat;
+}
+
+nav {
+    clear: both;
+    width: 100%;
+    margin: 0 auto;
+}
+
+.main-menu li {
+    display: block;
+    width: 100%;
+}
+
+    .main-menu li a {
+        border: none;
+        border-bottom: 1px solid #fff;
+    }
+
+.submenu {
+    background: #fff;
+    transform: rotate(0);
+    -webkit-transform: rotate(0);
+    top: 29%;
+    left: 67%;
+    width: 31.9%;
+    min-width: 75px;
+}
+
+    .submenu li a {
+        border-bottom: 1px solid #000;
+        font-size: 70%;
+        padding: 14px 0;
+    }
+
+    .submenu li:last-of-type a {
+        border: none;
+    }
+
+    .submenu li a:hover {
+        color: #e49912;
+    }
+
+
+.news {
+    width: 95%;
+    float: none;
+}
+
+.crimi {
+    width: 95%;
+    float: none;
+}
+
+article:nth-child(2n+1) {
+    transform: rotate(4deg);
+    transition: transform 1s;
+    -webkit-transform: rotate(4deg);
+    -webkit-transition: -webkit-transform 1s;
+}
+
+    article:nth-child(2n+1):hover {
+        transform: rotate(-4deg);
+        -webkit-transform: rotate(-4deg);
+    }
+
+article:nth-child(2n) {
+    transform: rotate(-4deg);
+    transition: transform 1s;
+    -webkit-transform: rotate(-4deg);
+    -webkit-transition: -webkit-transform 1s;
+}
+
+    article:nth-child(2n):hover {
+        transform: rotate(4deg);
+        -webkit-transform: rotate(4deg);
+    }
+
+.fundamentials article {
+    transform: rotate(1deg);
+    -webkit-transform: rotate(1deg);
+}
+
+    .fundamentials article:hover {
+        transform: rotate(-1deg);
+        -webkit-transform: rotate(-1deg);
+    }
+
+.nakov header img {
+    float: none;
+}
+
+.white {
+    font-size: 1.6rem;
+}
+
+.youtube {
+    height: 140px;
+}
+
+h2 {
+    font-size: 120%;
+}
+
+article {
+    font-size: 70%;
+    width: 95%;
+    margin: 0 auto;
+}
+
+footer h3 {
+    font-size: 90%;
+}
+
+footer img {
+    display: block;
+    width: 60%;
+    margin: 0 auto 10px;
+}

@@ -1,0 +1,6 @@
+C:\Users\Ivaylo.Il\Documents\Visual Studio 2013\Projects\Exams\2-4-8\bin\Debug\2-4-8.exe.config
+C:\Users\Ivaylo.Il\Documents\Visual Studio 2013\Projects\Exams\2-4-8\obj\Debug\2-4-8.csprojResolveAssemblyReference.cache
+C:\Users\Ivaylo.Il\Documents\Visual Studio 2013\Projects\Exams\2-4-8\bin\Debug\2-4-8.exe
+C:\Users\Ivaylo.Il\Documents\Visual Studio 2013\Projects\Exams\2-4-8\bin\Debug\2-4-8.pdb
+C:\Users\Ivaylo.Il\Documents\Visual Studio 2013\Projects\Exams\2-4-8\obj\Debug\2-4-8.exe
+C:\Users\Ivaylo.Il\Documents\Visual Studio 2013\Projects\Exams\2-4-8\obj\Debug\2-4-8.pdb

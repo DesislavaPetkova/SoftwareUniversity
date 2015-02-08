@@ -1,0 +1,9 @@
+c:\users\ivaylo.il\documents\visual studio 2013\Projects\03.Homework - Operators  and Statements\02.GravitationontheMoon\bin\Debug\02.GravitationontheMoon.exe.config
+c:\users\ivaylo.il\documents\visual studio 2013\Projects\03.Homework - Operators  and Statements\02.GravitationontheMoon\bin\Debug\02.GravitationontheMoon.exe
+c:\users\ivaylo.il\documents\visual studio 2013\Projects\03.Homework - Operators  and Statements\02.GravitationontheMoon\bin\Debug\02.GravitationontheMoon.pdb
+c:\users\ivaylo.il\documents\visual studio 2013\Projects\03.Homework - Operators  and Statements\02.GravitationontheMoon\obj\Debug\02.GravitationontheMoon.csprojResolveAssemblyReference.cache
+c:\users\ivaylo.il\documents\visual studio 2013\Projects\03.Homework - Operators  and Statements\02.GravitationontheMoon\obj\Debug\02.GravitationontheMoon.exe
+c:\users\ivaylo.il\documents\visual studio 2013\Projects\03.Homework - Operators  and Statements\02.GravitationontheMoon\obj\Debug\02.GravitationontheMoon.pdb
+C:\Users\Ivaylo.Il\Documents\GitHub\C#\03.Homework - Operators  and Statements\02.GravitationontheMoon\bin\Debug\02.GravitationontheMoon.exe.config
+C:\Users\Ivaylo.Il\Documents\GitHub\C#\03.Homework - Operators  and Statements\02.GravitationontheMoon\obj\Debug\02.GravitationontheMoon.exe
+C:\Users\Ivaylo.Il\Documents\GitHub\C#\03.Homework - Operators  and Statements\02.GravitationontheMoon\obj\Debug\02.GravitationontheMoon.pdb

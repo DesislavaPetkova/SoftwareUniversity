@@ -1,0 +1,6 @@
+c:\users\ivaylo.il\documents\visual studio 2013\Projects\Exams\CastesianCoordinateSystem\bin\Debug\CastesianCoordinateSystem.exe.config
+c:\users\ivaylo.il\documents\visual studio 2013\Projects\Exams\CastesianCoordinateSystem\bin\Debug\CastesianCoordinateSystem.exe
+c:\users\ivaylo.il\documents\visual studio 2013\Projects\Exams\CastesianCoordinateSystem\bin\Debug\CastesianCoordinateSystem.pdb
+c:\users\ivaylo.il\documents\visual studio 2013\Projects\Exams\CastesianCoordinateSystem\obj\Debug\CastesianCoordinateSystem.csprojResolveAssemblyReference.cache
+c:\users\ivaylo.il\documents\visual studio 2013\Projects\Exams\CastesianCoordinateSystem\obj\Debug\CastesianCoordinateSystem.exe
+c:\users\ivaylo.il\documents\visual studio 2013\Projects\Exams\CastesianCoordinateSystem\obj\Debug\CastesianCoordinateSystem.pdb

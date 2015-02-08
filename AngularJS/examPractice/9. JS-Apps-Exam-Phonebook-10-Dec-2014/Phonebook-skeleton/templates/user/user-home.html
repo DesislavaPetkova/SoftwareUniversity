@@ -1,0 +1,19 @@
+
+
+
+
+<!-- Left sidebar menu -->
+	<ul id="menu" ng-if="authService.isLoggedIn()">
+		<li><a href="#/user-home" class="link">Home</a></li>
+		<li><a href="#" class="link">Phonebook</a></li>
+		<li><a href="#" class="link">Add Phone</a></li>
+		<li><a href="#" class="link">Edit Profile</a></li>
+		<li><a href="#" class="link">Logout</a></li>
+	</ul>
+	<br/>
+
+	<!-- User home screen -->
+<div class="dialog-box">
+	<h1 ng-cloak>Welcome, {{fullname}} ({{username}})</h1> 
+	<p>Please use the navigation menu on the left.</p>
+</div>

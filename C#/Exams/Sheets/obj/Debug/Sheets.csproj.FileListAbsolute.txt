@@ -1,0 +1,6 @@
+C:\Users\Ivaylo.Il\Documents\Visual Studio 2013\Projects\Exams\Sheets\bin\Debug\Sheets.exe.config
+C:\Users\Ivaylo.Il\Documents\Visual Studio 2013\Projects\Exams\Sheets\obj\Debug\Sheets.csprojResolveAssemblyReference.cache
+C:\Users\Ivaylo.Il\Documents\Visual Studio 2013\Projects\Exams\Sheets\bin\Debug\Sheets.exe
+C:\Users\Ivaylo.Il\Documents\Visual Studio 2013\Projects\Exams\Sheets\bin\Debug\Sheets.pdb
+C:\Users\Ivaylo.Il\Documents\Visual Studio 2013\Projects\Exams\Sheets\obj\Debug\Sheets.exe
+C:\Users\Ivaylo.Il\Documents\Visual Studio 2013\Projects\Exams\Sheets\obj\Debug\Sheets.pdb

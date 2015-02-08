@@ -1,0 +1,9 @@
+C:\Users\Ivaylo.Il\Documents\Visual Studio 2013\Projects\03.Homework - Operators  and Statements\12.ExtractBitfromInteger\bin\Debug\12.ExtractBitfromInteger.exe.config
+C:\Users\Ivaylo.Il\Documents\Visual Studio 2013\Projects\03.Homework - Operators  and Statements\12.ExtractBitfromInteger\bin\Debug\12.ExtractBitfromInteger.exe
+C:\Users\Ivaylo.Il\Documents\Visual Studio 2013\Projects\03.Homework - Operators  and Statements\12.ExtractBitfromInteger\bin\Debug\12.ExtractBitfromInteger.pdb
+C:\Users\Ivaylo.Il\Documents\Visual Studio 2013\Projects\03.Homework - Operators  and Statements\12.ExtractBitfromInteger\obj\Debug\12.ExtractBitfromInteger.csprojResolveAssemblyReference.cache
+C:\Users\Ivaylo.Il\Documents\Visual Studio 2013\Projects\03.Homework - Operators  and Statements\12.ExtractBitfromInteger\obj\Debug\12.ExtractBitfromInteger.exe
+C:\Users\Ivaylo.Il\Documents\Visual Studio 2013\Projects\03.Homework - Operators  and Statements\12.ExtractBitfromInteger\obj\Debug\12.ExtractBitfromInteger.pdb
+C:\Users\Ivaylo.Il\Documents\GitHub\C#\03.Homework - Operators  and Statements\12.ExtractBitfromInteger\bin\Debug\12.ExtractBitfromInteger.exe.config
+C:\Users\Ivaylo.Il\Documents\GitHub\C#\03.Homework - Operators  and Statements\12.ExtractBitfromInteger\obj\Debug\12.ExtractBitfromInteger.exe
+C:\Users\Ivaylo.Il\Documents\GitHub\C#\03.Homework - Operators  and Statements\12.ExtractBitfromInteger\obj\Debug\12.ExtractBitfromInteger.pdb

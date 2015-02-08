@@ -1,0 +1,10 @@
+{
+  "name": "Consuming_Remote_Data",
+  "version": "0.0.0",
+  "description": "Consuming Remote Data",
+  "main": "server.js",
+  "author": {
+    "name": "Ivaylo.Il",
+    "email": ""
+  }
+}

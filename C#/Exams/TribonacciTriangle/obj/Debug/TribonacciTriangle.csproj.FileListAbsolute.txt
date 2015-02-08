@@ -1,0 +1,6 @@
+C:\Users\Ivaylo.Il\Documents\Visual Studio 2013\Projects\Exams\TribonacciTriangle\bin\Debug\TribonacciTriangle.exe.config
+C:\Users\Ivaylo.Il\Documents\Visual Studio 2013\Projects\Exams\TribonacciTriangle\bin\Debug\TribonacciTriangle.exe
+C:\Users\Ivaylo.Il\Documents\Visual Studio 2013\Projects\Exams\TribonacciTriangle\bin\Debug\TribonacciTriangle.pdb
+C:\Users\Ivaylo.Il\Documents\Visual Studio 2013\Projects\Exams\TribonacciTriangle\obj\Debug\TribonacciTriangle.csprojResolveAssemblyReference.cache
+C:\Users\Ivaylo.Il\Documents\Visual Studio 2013\Projects\Exams\TribonacciTriangle\obj\Debug\TribonacciTriangle.exe
+C:\Users\Ivaylo.Il\Documents\Visual Studio 2013\Projects\Exams\TribonacciTriangle\obj\Debug\TribonacciTriangle.pdb

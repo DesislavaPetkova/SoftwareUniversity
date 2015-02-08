@@ -1,0 +1,5 @@
+c:\users\ivaylo.il\documents\visual studio 2013\Projects\07.Homework-Advanced\06.LongestAreainArray\bin\Debug\06.LongestAreainArray.exe.config
+c:\users\ivaylo.il\documents\visual studio 2013\Projects\07.Homework-Advanced\06.LongestAreainArray\bin\Debug\06.LongestAreainArray.exe
+c:\users\ivaylo.il\documents\visual studio 2013\Projects\07.Homework-Advanced\06.LongestAreainArray\bin\Debug\06.LongestAreainArray.pdb
+c:\users\ivaylo.il\documents\visual studio 2013\Projects\07.Homework-Advanced\06.LongestAreainArray\obj\Debug\06.LongestAreainArray.exe
+c:\users\ivaylo.il\documents\visual studio 2013\Projects\07.Homework-Advanced\06.LongestAreainArray\obj\Debug\06.LongestAreainArray.pdb

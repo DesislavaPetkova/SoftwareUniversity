@@ -1,0 +1,12 @@
+C:\Users\Ivaylo.Il\Documents\Visual Studio 2013\Projects\SampleExam\ExportRiversAsJson\bin\Debug\ExportRiversAsJson.exe.config
+C:\Users\Ivaylo.Il\Documents\Visual Studio 2013\Projects\SampleExam\ExportRiversAsJson\bin\Debug\ExportRiversAsJson.exe
+C:\Users\Ivaylo.Il\Documents\Visual Studio 2013\Projects\SampleExam\ExportRiversAsJson\bin\Debug\ExportRiversAsJson.pdb
+C:\Users\Ivaylo.Il\Documents\Visual Studio 2013\Projects\SampleExam\ExportRiversAsJson\bin\Debug\Ef-Mapping.exe
+C:\Users\Ivaylo.Il\Documents\Visual Studio 2013\Projects\SampleExam\ExportRiversAsJson\bin\Debug\EntityFramework.dll
+C:\Users\Ivaylo.Il\Documents\Visual Studio 2013\Projects\SampleExam\ExportRiversAsJson\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Ivaylo.Il\Documents\Visual Studio 2013\Projects\SampleExam\ExportRiversAsJson\bin\Debug\Ef-Mapping.pdb
+C:\Users\Ivaylo.Il\Documents\Visual Studio 2013\Projects\SampleExam\ExportRiversAsJson\bin\Debug\EntityFramework.xml
+C:\Users\Ivaylo.Il\Documents\Visual Studio 2013\Projects\SampleExam\ExportRiversAsJson\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Ivaylo.Il\Documents\Visual Studio 2013\Projects\SampleExam\ExportRiversAsJson\obj\Debug\2. ExportRiversAsJson.csprojResolveAssemblyReference.cache
+C:\Users\Ivaylo.Il\Documents\Visual Studio 2013\Projects\SampleExam\ExportRiversAsJson\obj\Debug\ExportRiversAsJson.exe
+C:\Users\Ivaylo.Il\Documents\Visual Studio 2013\Projects\SampleExam\ExportRiversAsJson\obj\Debug\ExportRiversAsJson.pdb

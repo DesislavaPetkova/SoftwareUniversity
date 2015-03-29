@@ -1,0 +1,2 @@
+Select Name
+FROM Departments

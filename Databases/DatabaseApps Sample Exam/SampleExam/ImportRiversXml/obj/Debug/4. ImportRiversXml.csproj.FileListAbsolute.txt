@@ -1,0 +1,12 @@
+C:\Users\Ivaylo.Il\Documents\Visual Studio 2013\Projects\SampleExam\ImportRiversXml\bin\Debug\ImportRiversXml.exe.config
+C:\Users\Ivaylo.Il\Documents\Visual Studio 2013\Projects\SampleExam\ImportRiversXml\bin\Debug\ImportRiversXml.exe
+C:\Users\Ivaylo.Il\Documents\Visual Studio 2013\Projects\SampleExam\ImportRiversXml\bin\Debug\ImportRiversXml.pdb
+C:\Users\Ivaylo.Il\Documents\Visual Studio 2013\Projects\SampleExam\ImportRiversXml\bin\Debug\Ef-Mapping.exe
+C:\Users\Ivaylo.Il\Documents\Visual Studio 2013\Projects\SampleExam\ImportRiversXml\bin\Debug\EntityFramework.dll
+C:\Users\Ivaylo.Il\Documents\Visual Studio 2013\Projects\SampleExam\ImportRiversXml\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Ivaylo.Il\Documents\Visual Studio 2013\Projects\SampleExam\ImportRiversXml\bin\Debug\Ef-Mapping.pdb
+C:\Users\Ivaylo.Il\Documents\Visual Studio 2013\Projects\SampleExam\ImportRiversXml\bin\Debug\EntityFramework.xml
+C:\Users\Ivaylo.Il\Documents\Visual Studio 2013\Projects\SampleExam\ImportRiversXml\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Ivaylo.Il\Documents\Visual Studio 2013\Projects\SampleExam\ImportRiversXml\obj\Debug\4. ImportRiversXml.csprojResolveAssemblyReference.cache
+C:\Users\Ivaylo.Il\Documents\Visual Studio 2013\Projects\SampleExam\ImportRiversXml\obj\Debug\ImportRiversXml.exe
+C:\Users\Ivaylo.Il\Documents\Visual Studio 2013\Projects\SampleExam\ImportRiversXml\obj\Debug\ImportRiversXml.pdb

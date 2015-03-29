@@ -1,0 +1,12 @@
+C:\Users\Ivaylo.Il\Documents\Visual Studio 2013\Projects\SampleExam\ExportMonaseriesAsXml\bin\Debug\ExportMonaseriesAsXml.exe.config
+C:\Users\Ivaylo.Il\Documents\Visual Studio 2013\Projects\SampleExam\ExportMonaseriesAsXml\bin\Debug\ExportMonaseriesAsXml.exe
+C:\Users\Ivaylo.Il\Documents\Visual Studio 2013\Projects\SampleExam\ExportMonaseriesAsXml\bin\Debug\ExportMonaseriesAsXml.pdb
+C:\Users\Ivaylo.Il\Documents\Visual Studio 2013\Projects\SampleExam\ExportMonaseriesAsXml\bin\Debug\Ef-Mapping.exe
+C:\Users\Ivaylo.Il\Documents\Visual Studio 2013\Projects\SampleExam\ExportMonaseriesAsXml\bin\Debug\EntityFramework.dll
+C:\Users\Ivaylo.Il\Documents\Visual Studio 2013\Projects\SampleExam\ExportMonaseriesAsXml\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Ivaylo.Il\Documents\Visual Studio 2013\Projects\SampleExam\ExportMonaseriesAsXml\bin\Debug\Ef-Mapping.pdb
+C:\Users\Ivaylo.Il\Documents\Visual Studio 2013\Projects\SampleExam\ExportMonaseriesAsXml\bin\Debug\EntityFramework.xml
+C:\Users\Ivaylo.Il\Documents\Visual Studio 2013\Projects\SampleExam\ExportMonaseriesAsXml\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Ivaylo.Il\Documents\Visual Studio 2013\Projects\SampleExam\ExportMonaseriesAsXml\obj\Debug\3. ExportMonaseriesAsXml.csprojResolveAssemblyReference.cache
+C:\Users\Ivaylo.Il\Documents\Visual Studio 2013\Projects\SampleExam\ExportMonaseriesAsXml\obj\Debug\ExportMonaseriesAsXml.exe
+C:\Users\Ivaylo.Il\Documents\Visual Studio 2013\Projects\SampleExam\ExportMonaseriesAsXml\obj\Debug\ExportMonaseriesAsXml.pdb

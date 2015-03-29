@@ -1,0 +1,1 @@
+c:\users\ivaylo.il\documents\visual studio 2013\Projects\SampleExam\Ef-Mapping\bin\Debug\Ef-Mapping.exe.config

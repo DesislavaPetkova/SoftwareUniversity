@@ -1,0 +1,10 @@
+C:\Users\Ivaylo.Il\Documents\Visual Studio 2013\Projects\SampleExam\Ef-Mapping\bin\Debug\Ef-Mapping.exe.config
+C:\Users\Ivaylo.Il\Documents\Visual Studio 2013\Projects\SampleExam\Ef-Mapping\bin\Debug\Ef-Mapping.exe
+C:\Users\Ivaylo.Il\Documents\Visual Studio 2013\Projects\SampleExam\Ef-Mapping\bin\Debug\Ef-Mapping.pdb
+C:\Users\Ivaylo.Il\Documents\Visual Studio 2013\Projects\SampleExam\Ef-Mapping\bin\Debug\EntityFramework.dll
+C:\Users\Ivaylo.Il\Documents\Visual Studio 2013\Projects\SampleExam\Ef-Mapping\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Ivaylo.Il\Documents\Visual Studio 2013\Projects\SampleExam\Ef-Mapping\bin\Debug\EntityFramework.xml
+C:\Users\Ivaylo.Il\Documents\Visual Studio 2013\Projects\SampleExam\Ef-Mapping\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Ivaylo.Il\Documents\Visual Studio 2013\Projects\SampleExam\Ef-Mapping\obj\Debug\1. Ef-Mapping.csprojResolveAssemblyReference.cache
+C:\Users\Ivaylo.Il\Documents\Visual Studio 2013\Projects\SampleExam\Ef-Mapping\obj\Debug\Ef-Mapping.exe
+C:\Users\Ivaylo.Il\Documents\Visual Studio 2013\Projects\SampleExam\Ef-Mapping\obj\Debug\Ef-Mapping.pdb

@@ -1,0 +1,10 @@
+C:\Users\Ivaylo.Il\Documents\Visual Studio 2013\Projects\SampleExam\CodeFirstMountains\bin\Debug\CodeFirstMountains.exe.config
+C:\Users\Ivaylo.Il\Documents\Visual Studio 2013\Projects\SampleExam\CodeFirstMountains\bin\Debug\CodeFirstMountains.exe
+C:\Users\Ivaylo.Il\Documents\Visual Studio 2013\Projects\SampleExam\CodeFirstMountains\bin\Debug\CodeFirstMountains.pdb
+C:\Users\Ivaylo.Il\Documents\Visual Studio 2013\Projects\SampleExam\CodeFirstMountains\bin\Debug\EntityFramework.dll
+C:\Users\Ivaylo.Il\Documents\Visual Studio 2013\Projects\SampleExam\CodeFirstMountains\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Ivaylo.Il\Documents\Visual Studio 2013\Projects\SampleExam\CodeFirstMountains\bin\Debug\EntityFramework.xml
+C:\Users\Ivaylo.Il\Documents\Visual Studio 2013\Projects\SampleExam\CodeFirstMountains\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Ivaylo.Il\Documents\Visual Studio 2013\Projects\SampleExam\CodeFirstMountains\obj\Debug\5. CodeFirstMountains.csprojResolveAssemblyReference.cache
+C:\Users\Ivaylo.Il\Documents\Visual Studio 2013\Projects\SampleExam\CodeFirstMountains\obj\Debug\CodeFirstMountains.exe
+C:\Users\Ivaylo.Il\Documents\Visual Studio 2013\Projects\SampleExam\CodeFirstMountains\obj\Debug\CodeFirstMountains.pdb

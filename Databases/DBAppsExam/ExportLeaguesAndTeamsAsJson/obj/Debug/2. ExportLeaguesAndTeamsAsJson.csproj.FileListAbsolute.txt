@@ -1,0 +1,12 @@
+C:\Users\Ivaylo.Il\Desktop\DBAppsExam\ExportLeaguesAndTeamsAsJson\bin\Debug\ExportLeaguesAndTeamsAsJson.exe.config
+C:\Users\Ivaylo.Il\Desktop\DBAppsExam\ExportLeaguesAndTeamsAsJson\bin\Debug\ExportLeaguesAndTeamsAsJson.exe
+C:\Users\Ivaylo.Il\Desktop\DBAppsExam\ExportLeaguesAndTeamsAsJson\bin\Debug\ExportLeaguesAndTeamsAsJson.pdb
+C:\Users\Ivaylo.Il\Desktop\DBAppsExam\ExportLeaguesAndTeamsAsJson\bin\Debug\EntityFramework.dll
+C:\Users\Ivaylo.Il\Desktop\DBAppsExam\ExportLeaguesAndTeamsAsJson\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Ivaylo.Il\Desktop\DBAppsExam\ExportLeaguesAndTeamsAsJson\bin\Debug\EntityFrameworkMappings.exe
+C:\Users\Ivaylo.Il\Desktop\DBAppsExam\ExportLeaguesAndTeamsAsJson\bin\Debug\EntityFrameworkMappings.pdb
+C:\Users\Ivaylo.Il\Desktop\DBAppsExam\ExportLeaguesAndTeamsAsJson\bin\Debug\EntityFramework.xml
+C:\Users\Ivaylo.Il\Desktop\DBAppsExam\ExportLeaguesAndTeamsAsJson\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Ivaylo.Il\Desktop\DBAppsExam\ExportLeaguesAndTeamsAsJson\obj\Debug\2. ExportLeaguesAndTeamsAsJson.csprojResolveAssemblyReference.cache
+C:\Users\Ivaylo.Il\Desktop\DBAppsExam\ExportLeaguesAndTeamsAsJson\obj\Debug\ExportLeaguesAndTeamsAsJson.exe
+C:\Users\Ivaylo.Il\Desktop\DBAppsExam\ExportLeaguesAndTeamsAsJson\obj\Debug\ExportLeaguesAndTeamsAsJson.pdb

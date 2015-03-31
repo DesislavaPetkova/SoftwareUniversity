@@ -1,0 +1,46 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2013
+VisualStudioVersion = 12.0.31101.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "1. EntityFrameworkMappings", "EntityFrameworkMappings\1. EntityFrameworkMappings.csproj", "{7E574042-D743-4E78-BAD4-136A287234CA}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "2. ExportLeaguesAndTeamsAsJson", "ExportLeaguesAndTeamsAsJson\2. ExportLeaguesAndTeamsAsJson.csproj", "{BDDC89A1-0460-4163-A817-E9E17C220628}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "3. ExportInternationalMatchesasXML", "ExportInternationalMatchesasXML\3. ExportInternationalMatchesasXML.csproj", "{C7FBD41A-93F1-479D-9690-6C7D9A078A57}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "6. CodeFirstPhonebook", "CodeFirstPhonebook\6. CodeFirstPhonebook.csproj", "{FE99ACC1-B324-407E-A351-B0A76FCC57DD}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "4. ImportLeaguesandTeamsfromXML", "ImportLeaguesandTeamsfromXML\4. ImportLeaguesandTeamsfromXML.csproj", "{AD75F682-587D-4ABF-97B9-91727873FC50}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{7E574042-D743-4E78-BAD4-136A287234CA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7E574042-D743-4E78-BAD4-136A287234CA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7E574042-D743-4E78-BAD4-136A287234CA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7E574042-D743-4E78-BAD4-136A287234CA}.Release|Any CPU.Build.0 = Release|Any CPU
+		{BDDC89A1-0460-4163-A817-E9E17C220628}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BDDC89A1-0460-4163-A817-E9E17C220628}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BDDC89A1-0460-4163-A817-E9E17C220628}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BDDC89A1-0460-4163-A817-E9E17C220628}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C7FBD41A-93F1-479D-9690-6C7D9A078A57}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C7FBD41A-93F1-479D-9690-6C7D9A078A57}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C7FBD41A-93F1-479D-9690-6C7D9A078A57}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C7FBD41A-93F1-479D-9690-6C7D9A078A57}.Release|Any CPU.Build.0 = Release|Any CPU
+		{FE99ACC1-B324-407E-A351-B0A76FCC57DD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FE99ACC1-B324-407E-A351-B0A76FCC57DD}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FE99ACC1-B324-407E-A351-B0A76FCC57DD}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FE99ACC1-B324-407E-A351-B0A76FCC57DD}.Release|Any CPU.Build.0 = Release|Any CPU
+		{AD75F682-587D-4ABF-97B9-91727873FC50}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{AD75F682-587D-4ABF-97B9-91727873FC50}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{AD75F682-587D-4ABF-97B9-91727873FC50}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{AD75F682-587D-4ABF-97B9-91727873FC50}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

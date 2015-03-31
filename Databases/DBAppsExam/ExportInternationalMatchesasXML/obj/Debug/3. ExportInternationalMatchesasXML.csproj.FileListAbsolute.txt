@@ -1,0 +1,12 @@
+C:\Users\Ivaylo.Il\Desktop\DBAppsExam\ExportInternationalMatchesasXML\bin\Debug\ExportInternationalMatchesasXML.exe.config
+C:\Users\Ivaylo.Il\Desktop\DBAppsExam\ExportInternationalMatchesasXML\bin\Debug\ExportInternationalMatchesasXML.exe
+C:\Users\Ivaylo.Il\Desktop\DBAppsExam\ExportInternationalMatchesasXML\bin\Debug\ExportInternationalMatchesasXML.pdb
+C:\Users\Ivaylo.Il\Desktop\DBAppsExam\ExportInternationalMatchesasXML\bin\Debug\EntityFramework.dll
+C:\Users\Ivaylo.Il\Desktop\DBAppsExam\ExportInternationalMatchesasXML\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Ivaylo.Il\Desktop\DBAppsExam\ExportInternationalMatchesasXML\bin\Debug\EntityFrameworkMappings.exe
+C:\Users\Ivaylo.Il\Desktop\DBAppsExam\ExportInternationalMatchesasXML\bin\Debug\EntityFrameworkMappings.pdb
+C:\Users\Ivaylo.Il\Desktop\DBAppsExam\ExportInternationalMatchesasXML\bin\Debug\EntityFramework.xml
+C:\Users\Ivaylo.Il\Desktop\DBAppsExam\ExportInternationalMatchesasXML\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Ivaylo.Il\Desktop\DBAppsExam\ExportInternationalMatchesasXML\obj\Debug\3. ExportInternationalMatchesasXML.csprojResolveAssemblyReference.cache
+C:\Users\Ivaylo.Il\Desktop\DBAppsExam\ExportInternationalMatchesasXML\obj\Debug\ExportInternationalMatchesasXML.exe
+C:\Users\Ivaylo.Il\Desktop\DBAppsExam\ExportInternationalMatchesasXML\obj\Debug\ExportInternationalMatchesasXML.pdb

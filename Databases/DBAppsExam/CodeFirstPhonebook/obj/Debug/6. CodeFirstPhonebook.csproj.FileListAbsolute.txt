@@ -1,0 +1,10 @@
+C:\Users\Ivaylo.Il\Desktop\DBAppsExam\CodeFirstPhonebook\bin\Debug\CodeFirstPhonebook.exe.config
+C:\Users\Ivaylo.Il\Desktop\DBAppsExam\CodeFirstPhonebook\bin\Debug\CodeFirstPhonebook.exe
+C:\Users\Ivaylo.Il\Desktop\DBAppsExam\CodeFirstPhonebook\bin\Debug\CodeFirstPhonebook.pdb
+C:\Users\Ivaylo.Il\Desktop\DBAppsExam\CodeFirstPhonebook\bin\Debug\EntityFramework.dll
+C:\Users\Ivaylo.Il\Desktop\DBAppsExam\CodeFirstPhonebook\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Ivaylo.Il\Desktop\DBAppsExam\CodeFirstPhonebook\bin\Debug\EntityFramework.xml
+C:\Users\Ivaylo.Il\Desktop\DBAppsExam\CodeFirstPhonebook\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Ivaylo.Il\Desktop\DBAppsExam\CodeFirstPhonebook\obj\Debug\6. CodeFirstPhonebook.csprojResolveAssemblyReference.cache
+C:\Users\Ivaylo.Il\Desktop\DBAppsExam\CodeFirstPhonebook\obj\Debug\CodeFirstPhonebook.exe
+C:\Users\Ivaylo.Il\Desktop\DBAppsExam\CodeFirstPhonebook\obj\Debug\CodeFirstPhonebook.pdb

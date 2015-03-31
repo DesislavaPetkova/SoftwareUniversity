@@ -1,0 +1,12 @@
+C:\Users\Ivaylo.Il\Desktop\DBAppsExam\ImportLeaguesandTeamsfromXML\bin\Debug\ImportLeaguesandTeamsfromXML.exe.config
+C:\Users\Ivaylo.Il\Desktop\DBAppsExam\ImportLeaguesandTeamsfromXML\bin\Debug\ImportLeaguesandTeamsfromXML.exe
+C:\Users\Ivaylo.Il\Desktop\DBAppsExam\ImportLeaguesandTeamsfromXML\bin\Debug\ImportLeaguesandTeamsfromXML.pdb
+C:\Users\Ivaylo.Il\Desktop\DBAppsExam\ImportLeaguesandTeamsfromXML\bin\Debug\EntityFramework.dll
+C:\Users\Ivaylo.Il\Desktop\DBAppsExam\ImportLeaguesandTeamsfromXML\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Ivaylo.Il\Desktop\DBAppsExam\ImportLeaguesandTeamsfromXML\bin\Debug\EntityFrameworkMappings.exe
+C:\Users\Ivaylo.Il\Desktop\DBAppsExam\ImportLeaguesandTeamsfromXML\bin\Debug\EntityFrameworkMappings.pdb
+C:\Users\Ivaylo.Il\Desktop\DBAppsExam\ImportLeaguesandTeamsfromXML\bin\Debug\EntityFramework.xml
+C:\Users\Ivaylo.Il\Desktop\DBAppsExam\ImportLeaguesandTeamsfromXML\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Ivaylo.Il\Desktop\DBAppsExam\ImportLeaguesandTeamsfromXML\obj\Debug\4. ImportLeaguesandTeamsfromXML.csprojResolveAssemblyReference.cache
+C:\Users\Ivaylo.Il\Desktop\DBAppsExam\ImportLeaguesandTeamsfromXML\obj\Debug\ImportLeaguesandTeamsfromXML.exe
+C:\Users\Ivaylo.Il\Desktop\DBAppsExam\ImportLeaguesandTeamsfromXML\obj\Debug\ImportLeaguesandTeamsfromXML.pdb

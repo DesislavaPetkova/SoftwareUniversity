@@ -1,0 +1,10 @@
+C:\Users\Ivaylo.Il\Desktop\DBAppsExam\EntityFrameworkMappings\bin\Debug\EntityFrameworkMappings.exe.config
+C:\Users\Ivaylo.Il\Desktop\DBAppsExam\EntityFrameworkMappings\bin\Debug\EntityFrameworkMappings.exe
+C:\Users\Ivaylo.Il\Desktop\DBAppsExam\EntityFrameworkMappings\bin\Debug\EntityFrameworkMappings.pdb
+C:\Users\Ivaylo.Il\Desktop\DBAppsExam\EntityFrameworkMappings\bin\Debug\EntityFramework.dll
+C:\Users\Ivaylo.Il\Desktop\DBAppsExam\EntityFrameworkMappings\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Ivaylo.Il\Desktop\DBAppsExam\EntityFrameworkMappings\bin\Debug\EntityFramework.xml
+C:\Users\Ivaylo.Il\Desktop\DBAppsExam\EntityFrameworkMappings\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Ivaylo.Il\Desktop\DBAppsExam\EntityFrameworkMappings\obj\Debug\1. EntityFrameworkMappings.csprojResolveAssemblyReference.cache
+C:\Users\Ivaylo.Il\Desktop\DBAppsExam\EntityFrameworkMappings\obj\Debug\EntityFrameworkMappings.exe
+C:\Users\Ivaylo.Il\Desktop\DBAppsExam\EntityFrameworkMappings\obj\Debug\EntityFrameworkMappings.pdb

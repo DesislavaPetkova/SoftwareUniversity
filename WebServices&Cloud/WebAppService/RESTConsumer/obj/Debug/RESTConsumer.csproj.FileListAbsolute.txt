@@ -1,1 +1,0 @@
-C:\Users\Ivaylo.Il\Documents\GitHub\SoftwareUniversity\WebServices&Cloud\WebAppService\RESTConsumer\bin\Debug\RESTConsumer.exe.config

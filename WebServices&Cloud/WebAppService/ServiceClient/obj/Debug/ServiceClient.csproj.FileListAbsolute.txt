@@ -1,0 +1,6 @@
+C:\Users\Ivaylo.Il\Documents\GitHub\SoftwareUniversity\WebServices&Cloud\WebAppService\ServiceClient\bin\Debug\ServiceClient.exe.config
+C:\Users\Ivaylo.Il\Documents\GitHub\SoftwareUniversity\WebServices&Cloud\WebAppService\ServiceClient\bin\Debug\ServiceClient.exe
+C:\Users\Ivaylo.Il\Documents\GitHub\SoftwareUniversity\WebServices&Cloud\WebAppService\ServiceClient\bin\Debug\ServiceClient.pdb
+C:\Users\Ivaylo.Il\Documents\GitHub\SoftwareUniversity\WebServices&Cloud\WebAppService\ServiceClient\obj\Debug\ServiceClient.csprojResolveAssemblyReference.cache
+C:\Users\Ivaylo.Il\Documents\GitHub\SoftwareUniversity\WebServices&Cloud\WebAppService\ServiceClient\obj\Debug\ServiceClient.exe
+C:\Users\Ivaylo.Il\Documents\GitHub\SoftwareUniversity\WebServices&Cloud\WebAppService\ServiceClient\obj\Debug\ServiceClient.pdb

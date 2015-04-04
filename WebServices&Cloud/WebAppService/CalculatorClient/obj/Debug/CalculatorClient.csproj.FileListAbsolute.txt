@@ -1,0 +1,4 @@
+C:\Users\Ivaylo.Il\Documents\GitHub\SoftwareUniversity\WebServices&Cloud\WebAppService\CalculatorClient\bin\Debug\CalculatorClient.exe
+C:\Users\Ivaylo.Il\Documents\GitHub\SoftwareUniversity\WebServices&Cloud\WebAppService\CalculatorClient\bin\Debug\CalculatorClient.pdb
+C:\Users\Ivaylo.Il\Documents\GitHub\SoftwareUniversity\WebServices&Cloud\WebAppService\CalculatorClient\obj\Debug\CalculatorClient.exe
+C:\Users\Ivaylo.Il\Documents\GitHub\SoftwareUniversity\WebServices&Cloud\WebAppService\CalculatorClient\obj\Debug\CalculatorClient.pdb

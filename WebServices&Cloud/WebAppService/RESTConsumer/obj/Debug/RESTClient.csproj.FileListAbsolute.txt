@@ -1,0 +1,8 @@
+C:\Users\Ivaylo.Il\Documents\GitHub\SoftwareUniversity\WebServices&Cloud\WebAppService\RESTConsumer\obj\Debug\RESTClient.csprojResolveAssemblyReference.cache
+C:\Users\Ivaylo.Il\Documents\GitHub\SoftwareUniversity\WebServices&Cloud\WebAppService\RESTConsumer\bin\Debug\RESTConsumer.exe.config
+C:\Users\Ivaylo.Il\Documents\GitHub\SoftwareUniversity\WebServices&Cloud\WebAppService\RESTConsumer\bin\Debug\RESTConsumer.exe
+C:\Users\Ivaylo.Il\Documents\GitHub\SoftwareUniversity\WebServices&Cloud\WebAppService\RESTConsumer\bin\Debug\RESTConsumer.pdb
+C:\Users\Ivaylo.Il\Documents\GitHub\SoftwareUniversity\WebServices&Cloud\WebAppService\RESTConsumer\bin\Debug\RestSharp.dll
+C:\Users\Ivaylo.Il\Documents\GitHub\SoftwareUniversity\WebServices&Cloud\WebAppService\RESTConsumer\bin\Debug\RestSharp.xml
+C:\Users\Ivaylo.Il\Documents\GitHub\SoftwareUniversity\WebServices&Cloud\WebAppService\RESTConsumer\obj\Debug\RESTConsumer.exe
+C:\Users\Ivaylo.Il\Documents\GitHub\SoftwareUniversity\WebServices&Cloud\WebAppService\RESTConsumer\obj\Debug\RESTConsumer.pdb

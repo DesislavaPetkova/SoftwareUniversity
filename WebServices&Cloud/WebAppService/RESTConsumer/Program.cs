@@ -13,13 +13,13 @@ namespace RESTConsumer
         static void Main(string[] args)
         {
             var client = new RestClient();
-            client.BaseUrl = new Uri("http://localhost:4540");
+            client.BaseUrl = new Uri("http://localhost:4540/api/");
             var request = new RestRequest("calcDistance?ax={ax}&ay={ay}&bx={bx}&by={by}", Method.POST);
             
-            request.AddParameter("ax", 4, ParameterType.UrlSegment);
-            request.AddParameter("ay", 5, ParameterType.UrlSegment);
-            request.AddParameter("bx", 2, ParameterType.UrlSegment);
-            request.AddParameter("bx", 3, ParameterType.UrlSegment);
+            request.AddUrlSegment("ax", "4");
+            request.AddUrlSegment("ay", "5");
+            request.AddUrlSegment("bx", "2");
+            request.AddUrlSegment("bx", "3");
 
             RestResponse response = (RestResponse)client.Execute(request);
             var content = response.Content;

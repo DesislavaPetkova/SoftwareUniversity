@@ -1,0 +1,5 @@
+C:\Users\Ivaylo.Il\Documents\GitHub\SoftwareUniversity\WebServices&Cloud\WebAppService\WcfServiceCalc\bin\WcfServiceCalc.dll.config
+C:\Users\Ivaylo.Il\Documents\GitHub\SoftwareUniversity\WebServices&Cloud\WebAppService\WcfServiceCalc\bin\WcfServiceCalc.dll
+C:\Users\Ivaylo.Il\Documents\GitHub\SoftwareUniversity\WebServices&Cloud\WebAppService\WcfServiceCalc\bin\WcfServiceCalc.pdb
+C:\Users\Ivaylo.Il\Documents\GitHub\SoftwareUniversity\WebServices&Cloud\WebAppService\WcfServiceCalc\obj\Debug\WcfServiceCalc.dll
+C:\Users\Ivaylo.Il\Documents\GitHub\SoftwareUniversity\WebServices&Cloud\WebAppService\WcfServiceCalc\obj\Debug\WcfServiceCalc.pdb

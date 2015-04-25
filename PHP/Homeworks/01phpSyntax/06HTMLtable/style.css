@@ -1,0 +1,14 @@
+td{
+	padding: 2%;
+	border: solid black 1px;
+}
+th{
+	padding: 2%;
+	border: solid black 1px;
+	background-color: orange;
+}
+table {
+
+	border-collapse: collapse;
+	text-align: left;
+}

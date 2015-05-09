@@ -9,12 +9,22 @@ class AuthorsController extends BaseController {
     }
 
     public function index() {
+        $this->Authorize();
+
         $this->authors = $this->db->getAll();
+        $this->renderView();
     }
 
     public function create() {
+        $this->Authorize();
         if ($this->isPost) {
             $name = $_POST['author_name'];
+            if(strlen($name) < 3){
+                $this->addFieldValue('author_name', $name);
+                $this->addValidationError('author_name', 'The author name length should be grater than 2');
+                return $this->renderView(__FUNCTION__);
+            }
+
             if ($this->db->createAuthor($name)) {
                 $this->addInfoMessage("Author created.");
                 $this->redirect('authors');
@@ -22,14 +32,17 @@ class AuthorsController extends BaseController {
                 $this->addErrorMessage("Error creating author.");
             }
         }
+        $this->renderView(__FUNCTION__);
     }
 
     public function delete($id) {
+        $this->Authorize();
         if ($this->db->deleteAuthor($id)) {
             $this->addInfoMessage("Author deleted.");
         } else {
             $this->addErrorMessage("Cannot delete author.");
         }
         $this->redirect('authors');
+
     }
 }

@@ -2,16 +2,21 @@
 
 abstract class BaseController {
     protected $controllerName;
-    protected $actionName;
     protected $layoutName = DEFAULT_LAYOUT;
     protected $isViewRendered = false;
     protected $isPost = false;
+    protected $isLoggedIn;
+    protected $validationError;
+    protected $formValues;
 
-    function __construct($controllerName, $actionName) {
+    function __construct($controllerName) {
         $this->controllerName = $controllerName;
-        $this->actionName = $actionName;
         if ($_SERVER['REQUEST_METHOD'] === 'POST') {
             $this->isPost = true;
+        }
+
+        if(isset($_SESSION['username'])){
+            $this->isLoggedIn = true;
         }
         $this->onInit();
     }
@@ -24,11 +29,9 @@ abstract class BaseController {
         // Implement the default action in the subclasses
     }
 
-    public function renderView($viewName = null, $includeLayout = true) {
+    public function renderView($viewName = "Index", $includeLayout = true) {
         if (!$this->isViewRendered) {
-            if ($viewName == null) {
-                $viewName = $this->actionName;
-            }
+
             $viewFileName = 'views/' . $this->controllerName
                 . '/' . $viewName . '.php';
             if ($includeLayout) {
@@ -49,8 +52,7 @@ abstract class BaseController {
         die;
     }
 
-    public function redirect(
-            $controllerName, $actionName = null, $params = null) {
+    public function redirect($controllerName, $actionName = null, $params = null) {
         $url = '/' . urlencode($controllerName);
         if ($actionName != null) {
             $url .= '/' . urlencode($actionName);
@@ -60,6 +62,29 @@ abstract class BaseController {
             $url .= implode('/', $encodedParams);
         }
         $this->redirectToUrl($url);
+    }
+
+    public function Authorize(){
+        if(!$this->isLoggedIn){
+            $this->addErrorMessage("Please log in!");
+            $this->redirect("account", "login");
+        }
+    }
+
+    public function addValidationError($field, $message){
+        $this->validationError[$field] = $message;
+    }
+
+    public function getValidationError($field){
+        return $this->validationError[$field];
+    }
+
+    public function addFieldValue($field, $value){
+        $this->formValues[$field] = $value;
+    }
+
+    public function getFieldValue($field){
+        return $this->formValues[$field];
     }
 
     function addMessage($msg, $type) {
@@ -77,4 +102,5 @@ abstract class BaseController {
     function addErrorMessage($msg) {
         $this->addMessage($msg, 'error');
     }
+
 }

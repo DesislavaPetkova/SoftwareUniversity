@@ -9,9 +9,9 @@
 
         T Find(object id);
 
-        T Add(T entity);
+        void Add(T entity);
 
-        T Update(T entity);
+        void Update(T entity);
 
         void Remove(T entity);
 

@@ -11,3 +11,4 @@ C:\Users\Ivaylo.Il\Documents\GitHub\SoftwareUniversity\ASP NET MVC\Twitter Web a
 C:\Users\Ivaylo.Il\Documents\GitHub\SoftwareUniversity\ASP NET MVC\Twitter Web application\Twitter.Models\bin\Debug\Microsoft.AspNet.Identity.EntityFramework.xml
 C:\Users\Ivaylo.Il\Documents\GitHub\SoftwareUniversity\ASP NET MVC\Twitter Web application\Twitter.Models\obj\Debug\Twitter.Models.dll
 C:\Users\Ivaylo.Il\Documents\GitHub\SoftwareUniversity\ASP NET MVC\Twitter Web application\Twitter.Models\obj\Debug\Twitter.Models.pdb
+C:\Users\Ivaylo.Il\Documents\GitHub\SoftwareUniversity\ASP NET MVC\Twitter Web application\Twitter.Models\obj\Debug\Twitter.Models.csprojResolveAssemblyReference.cache

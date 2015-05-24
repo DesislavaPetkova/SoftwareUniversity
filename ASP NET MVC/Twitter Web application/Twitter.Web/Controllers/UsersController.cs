@@ -6,8 +6,12 @@ using System.Web.Mvc;
 
 namespace Twitter.Web.Controllers
 {
-    public class BaseController : Controller
+    public class UsersController : Controller
     {
-        
+        // GET: Users
+        public ActionResult Index()
+        {
+            return View();
+        }
     }
 }

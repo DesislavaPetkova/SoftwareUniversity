@@ -4,7 +4,7 @@
     using System.Web.Mvc;
 
     using Twitter.Data;
-    using Twitter.Models;
+    using Twitter.Web;
 
     public class HomeController : Controller
     {
@@ -24,7 +24,7 @@
                 .ToList();
             
             
-            return View(homeTweets);
+            return View();
         }
 
         public ActionResult About()

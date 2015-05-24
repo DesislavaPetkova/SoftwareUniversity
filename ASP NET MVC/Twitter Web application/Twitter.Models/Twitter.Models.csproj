@@ -56,6 +56,7 @@
     <Compile Include="Notification.cs" />
     <Compile Include="NotificationType.cs" />
     <Compile Include="Profile.cs" />
+    <Compile Include="TweetInputModels.cs" />
     <Compile Include="TweetModel.cs" />
     <Compile Include="User.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />

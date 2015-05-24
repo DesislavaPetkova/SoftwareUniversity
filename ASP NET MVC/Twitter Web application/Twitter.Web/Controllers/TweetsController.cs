@@ -1,17 +1,27 @@
-﻿using System;
-using System.Collections.Generic;
-using System.Linq;
-using System.Web;
-using System.Web.Mvc;
-
-namespace Twitter.Web.Controllers
+﻿namespace Twitter.Web.Controllers
 {
+    using System.Web.Mvc;
+    using Twitter.Models;
+
     public class TweetsController : Controller
     {
-        // GET: Tweets
-        public ActionResult Index()
+        [HttpGet]
+        public ActionResult Create()
         {
-            return View();
+            return this.View();
         }
+
+        [HttpPost]
+        public ActionResult Create(TweetInputModels tweet)
+        {
+           
+            return null;
+            
+        }
+
+//        public ActionResult Index()
+//        {
+//            return this.RedirectToRoute("~home/index");
+//        }
     }
 }

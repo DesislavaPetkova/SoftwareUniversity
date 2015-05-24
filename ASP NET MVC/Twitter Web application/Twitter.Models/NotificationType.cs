@@ -4,7 +4,7 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace Twitter.Models
+namespace Twitter.Web
 {
     public enum NotificationType
     {

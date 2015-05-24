@@ -253,12 +253,13 @@
     <Content Include="Views\Manage\VerifyPhoneNumber.cshtml" />
     <Content Include="Views\Shared\Lockout.cshtml" />
     <Content Include="Views\Shared\_LoginPartial.cshtml" />
+    <Content Include="Views\Tweets\Create.cshtml" />
+    <Content Include="Views\Tweets\CreateView.cshtml" />
   </ItemGroup>
   <ItemGroup>
     <Folder Include="App_Data\" />
     <Folder Include="Views\Base\" />
     <Folder Include="Views\Notifications\" />
-    <Folder Include="Views\Tweets\" />
     <Folder Include="Views\Users\" />
   </ItemGroup>
   <ItemGroup>

@@ -2,8 +2,11 @@
 {
     using Microsoft.AspNet.Identity.EntityFramework;
     using Migrations;
-    using Twitter.Models;
+    using Twitter.Web;
     using System.Data.Entity;
+
+    using Twitter.Models;
+
     public class TwitterDbContext : IdentityDbContext<User>
     {
         public TwitterDbContext()

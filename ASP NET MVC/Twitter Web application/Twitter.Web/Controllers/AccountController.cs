@@ -12,7 +12,7 @@ using Twitter.Web.Models;
 
 namespace Twitter.Web.Controllers
 {
-    using Twitter.Models;
+    using Twitter.Web;
 
     [Authorize]
     public class AccountController : Controller

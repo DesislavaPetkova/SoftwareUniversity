@@ -10,7 +10,7 @@ using Twitter.Web.Models;
 namespace Twitter.Web
 {
     using Twitter.Data;
-    using Twitter.Models;
+    using Twitter.Web;
 
     public partial class Startup
     {

@@ -255,6 +255,7 @@
     <Content Include="Views\Shared\_LoginPartial.cshtml" />
     <Content Include="Views\Tweets\Create.cshtml" />
     <Content Include="Views\Tweets\CreateView.cshtml" />
+    <Content Include="Views\Tweets\SuccessCreated.cshtml" />
   </ItemGroup>
   <ItemGroup>
     <Folder Include="App_Data\" />

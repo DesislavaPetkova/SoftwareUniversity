@@ -2,10 +2,10 @@
 {
     using Microsoft.AspNet.Identity.EntityFramework;
     using Migrations;
-    using Twitter.Web;
+
     using System.Data.Entity;
 
-    using Twitter.Models;
+    using Twitter.Data;
 
     public class TwitterDbContext : IdentityDbContext<User>
     {
@@ -23,6 +23,6 @@
         public DbSet<TweetModel> Tweets { get; set; }
         public DbSet<Notification> Notifications { get; set; }
         public DbSet<Messages> Messages { get; set; }
-        
+        public DbSet<Profile> Profiles { get; set; }
     }
 }

@@ -1,10 +1,8 @@
-﻿namespace Twitter.Models
+﻿namespace Twitter.Data
 {
     using System;
     using System.Collections.Generic;
     using System.ComponentModel.DataAnnotations;
-
-    using Twitter.Web;
 
     public class TweetModel
     {

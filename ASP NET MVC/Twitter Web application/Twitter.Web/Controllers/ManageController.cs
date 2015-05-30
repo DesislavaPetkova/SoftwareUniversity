@@ -6,10 +6,13 @@ using System.Web.Mvc;
 using Microsoft.AspNet.Identity;
 using Microsoft.AspNet.Identity.Owin;
 using Microsoft.Owin.Security;
-using Twitter.Web.Models;
+using Twitter.Data.Models;
 
-namespace Twitter.Web.Controllers
+namespace Twitter.Data.Controllers
 {
+    using Twitter.Web;
+    using Twitter.Web.Controllers;
+
     [Authorize]
     public class ManageController : Controller
     {

@@ -4,7 +4,7 @@ using System.Linq;
 using System.Web;
 using System.Web.Mvc;
 
-namespace Twitter.Web.Controllers
+namespace Twitter.Data.Controllers
 {
     public class NotificationsController : Controller
     {

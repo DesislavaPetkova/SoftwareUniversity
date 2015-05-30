@@ -1,21 +1,16 @@
-﻿using System;
-using System.Collections.Generic;
-using System.Data.Entity;
-using System.Linq;
-using System.Security.Claims;
-using System.Threading.Tasks;
-using System.Web;
-using Microsoft.AspNet.Identity;
-using Microsoft.AspNet.Identity.EntityFramework;
-using Microsoft.AspNet.Identity.Owin;
-using Microsoft.Owin;
-using Microsoft.Owin.Security;
-using Twitter.Web.Models;
-
-namespace Twitter.Web
+﻿namespace Twitter.Web
 {
+    using System;
+    using System.Security.Claims;
+    using System.Threading.Tasks;
+
+    using Microsoft.AspNet.Identity;
+    using Microsoft.AspNet.Identity.EntityFramework;
+    using Microsoft.AspNet.Identity.Owin;
+    using Microsoft.Owin;
+    using Microsoft.Owin.Security;
+
     using Twitter.Data;
-    using Twitter.Web;
 
     public class EmailService : IIdentityMessageService
     {
@@ -101,7 +96,7 @@ namespace Twitter.Web
 
         public override Task<ClaimsIdentity> CreateUserIdentityAsync(User user)
         {
-            return user.GenerateUserIdentityAsync((ApplicationUserManager)UserManager);
+            return user.GenerateUserIdentityAsync((ApplicationUserManager)this.UserManager);
         }
 
         public static ApplicationSignInManager Create(IdentityFactoryOptions<ApplicationSignInManager> options, IOwinContext context)

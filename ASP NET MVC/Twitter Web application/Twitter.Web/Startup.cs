@@ -1,8 +1,8 @@
 ﻿using Microsoft.Owin;
 using Owin;
 
-[assembly: OwinStartupAttribute(typeof(Twitter.Web.Startup))]
-namespace Twitter.Web
+[assembly: OwinStartupAttribute(typeof(Twitter.Data.Startup))]
+namespace Twitter.Data
 {
     public partial class Startup
     {

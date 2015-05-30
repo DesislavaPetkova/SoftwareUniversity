@@ -1,6 +1,7 @@
 ﻿body {
     padding-top: 50px;
-    padding-bottom: 20px;
+    padding-bottom: 10px;
+    background-image: url('images/twitter_Background.jpg');
 }
 
 /* Set padding to keep content from hitting the edges */
@@ -21,4 +22,24 @@ input,
 select,
 textarea {
     max-width: 280px;
+}
+
+main {
+    margin: 0 auto;
+    width: 70%;
+    padding-top: 3px;
+}
+
+.panel {
+    margin: 5px;
+}
+div>.panel-body {
+    padding: 1%;
+}
+div .panel>span,p {
+    padding: 1%;
+}
+
+div> p {
+    font-size: 11px; 
 }

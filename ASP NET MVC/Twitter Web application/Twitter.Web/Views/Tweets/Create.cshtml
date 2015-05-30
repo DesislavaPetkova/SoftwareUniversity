@@ -1,17 +1,17 @@
-﻿@model Twitter.Models.TweetInputModels
+﻿@model Twitter.Data.TweetInputModels
 
 @{
-    ViewBag.Title = "CreateView";
+    ViewBag.Title = "Create Tweet";
 }
 
-<h2>CreateView</h2>
+<h2>Create Tweet</h2>
 
-@using (Html.BeginForm("create", "Tweets"))
+@using (Html.BeginForm("create", "Tweets", FormMethod.Post))
 {
     @Html.AntiForgeryToken()
 
     <div class="form-horizontal">
-        <h4>TweetModel</h4>
+        
         <hr />
         @Html.ValidationSummary(true, "", new { @class = "text-danger" })
         <div class="form-group">
@@ -25,7 +25,7 @@
         <div class="form-group">
             @Html.LabelFor(model => model.Text, htmlAttributes: new { @class = "control-label col-md-2" })
             <div class="col-md-10">
-                @Html.EditorFor(model => model.Text, new { htmlAttributes = new { @class = "form-control" } })
+                @Html.TextAreaFor(model => model.Text, new { htmlAttributes = new { @class = "form-control" } })
                 @Html.ValidationMessageFor(model => model.Text, "", new { @class = "text-danger" })
             </div>
         </div>
@@ -47,5 +47,5 @@
 }
 
 <div>
-    @Html.ActionLink("Back to List", "Create")
+    @Html.ActionLink("Back to List", "Index", "Home")
 </div>

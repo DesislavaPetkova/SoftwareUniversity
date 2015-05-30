@@ -1,4 +1,4 @@
-﻿namespace Twitter.Web
+﻿namespace Twitter.Data
 {
     using System.Collections.Generic;
     using System.Security.Claims;
@@ -6,8 +6,6 @@
 
     using Microsoft.AspNet.Identity;
     using Microsoft.AspNet.Identity.EntityFramework;
-
-    using Twitter.Models;
 
     public class User : IdentityUser
     {

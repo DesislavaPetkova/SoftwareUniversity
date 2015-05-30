@@ -13,8 +13,6 @@ C:\Users\Ivaylo.Il\Documents\GitHub\SoftwareUniversity\ASP NET MVC\Twitter Web a
 C:\Users\Ivaylo.Il\Documents\GitHub\SoftwareUniversity\ASP NET MVC\Twitter Web application\Twitter.Data\bin\Debug\System.Web.WebPages.Deployment.dll
 C:\Users\Ivaylo.Il\Documents\GitHub\SoftwareUniversity\ASP NET MVC\Twitter Web application\Twitter.Data\bin\Debug\System.Web.WebPages.dll
 C:\Users\Ivaylo.Il\Documents\GitHub\SoftwareUniversity\ASP NET MVC\Twitter Web application\Twitter.Data\bin\Debug\System.Web.WebPages.Razor.dll
-C:\Users\Ivaylo.Il\Documents\GitHub\SoftwareUniversity\ASP NET MVC\Twitter Web application\Twitter.Data\bin\Debug\Twitter.Models.dll
-C:\Users\Ivaylo.Il\Documents\GitHub\SoftwareUniversity\ASP NET MVC\Twitter Web application\Twitter.Data\bin\Debug\Twitter.Models.pdb
 C:\Users\Ivaylo.Il\Documents\GitHub\SoftwareUniversity\ASP NET MVC\Twitter Web application\Twitter.Data\bin\Debug\EntityFramework.xml
 C:\Users\Ivaylo.Il\Documents\GitHub\SoftwareUniversity\ASP NET MVC\Twitter Web application\Twitter.Data\bin\Debug\EntityFramework.SqlServer.xml
 C:\Users\Ivaylo.Il\Documents\GitHub\SoftwareUniversity\ASP NET MVC\Twitter Web application\Twitter.Data\bin\Debug\Microsoft.AspNet.Identity.Core.xml

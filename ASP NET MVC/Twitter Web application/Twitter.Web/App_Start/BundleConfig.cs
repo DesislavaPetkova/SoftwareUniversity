@@ -1,7 +1,7 @@
 ﻿using System.Web;
 using System.Web.Optimization;
 
-namespace Twitter.Web
+namespace Twitter.Data
 {
     public class BundleConfig
     {

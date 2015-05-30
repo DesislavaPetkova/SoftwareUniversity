@@ -1,15 +1,14 @@
-﻿using System;
-using Microsoft.AspNet.Identity;
-using Microsoft.AspNet.Identity.Owin;
-using Microsoft.Owin;
-using Microsoft.Owin.Security.Cookies;
-using Microsoft.Owin.Security.Google;
-using Owin;
-using Twitter.Web.Models;
-
-namespace Twitter.Web
+﻿namespace Twitter.Data
 {
-    using Twitter.Data;
+    using System;
+
+    using Microsoft.AspNet.Identity;
+    using Microsoft.AspNet.Identity.Owin;
+    using Microsoft.Owin;
+    using Microsoft.Owin.Security.Cookies;
+
+    using Owin;
+
     using Twitter.Web;
 
     public partial class Startup

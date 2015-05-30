@@ -3,7 +3,7 @@ using System.ComponentModel.DataAnnotations;
 using Microsoft.AspNet.Identity;
 using Microsoft.Owin.Security;
 
-namespace Twitter.Web.Models
+namespace Twitter.Data.Models
 {
     public class IndexViewModel
     {

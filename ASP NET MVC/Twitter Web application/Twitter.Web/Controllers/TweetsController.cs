@@ -23,7 +23,7 @@
         public ActionResult Create(TweetInputModels tweet)
         {
             var newTweet = new Tweet();
-            newTweet.Title = tweet.Title;
+            //newTweet.Title = tweet.Title;
             newTweet.Text = tweet.Text;
             newTweet.URL = tweet.URL;
             newTweet.Date = DateTime.Now;

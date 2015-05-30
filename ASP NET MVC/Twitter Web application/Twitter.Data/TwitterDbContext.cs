@@ -24,6 +24,7 @@
         public DbSet<Notification> Notifications { get; set; }
         public DbSet<Messages> Messages { get; set; }
         public DbSet<Profile> Profiles { get; set; }
+        public DbSet<FollowingUsers> FollowingUsers { get; set; }
             
         
     }

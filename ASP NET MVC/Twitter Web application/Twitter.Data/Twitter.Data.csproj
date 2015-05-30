@@ -80,6 +80,7 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
+    <Compile Include="FollowingUsers.cs" />
     <Compile Include="Messages.cs" />
     <Compile Include="Migrations\Configuration.cs" />
     <Compile Include="Notification.cs" />

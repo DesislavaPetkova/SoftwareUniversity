@@ -16,6 +16,7 @@
             var homeTweets = this.db.Tweets
                 .OrderByDescending(d => d.Date)
                 .ThenBy(d => d.Title)
+                .Where(d => d.UserFavList.Contains(d.User))
                 .Select(TweetViewModel.ViewModel);
 
             PagedList<TweetViewModel> model = new PagedList<TweetViewModel>(homeTweets, page, pageSize);

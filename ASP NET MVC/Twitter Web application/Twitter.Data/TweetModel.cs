@@ -4,18 +4,18 @@
     using System.Collections.Generic;
     using System.ComponentModel.DataAnnotations;
 
-    public class TweetModel
+    public class Tweet
     {
         private ICollection<User> userFavList;
 
-        private ICollection<TweetModel> tweetRepliesList;
+        private ICollection<Tweet> tweetRepliesList;
 
         
 
-        public TweetModel()
+        public Tweet()
         {
             this.userFavList = new HashSet<User>();
-            this.tweetRepliesList = new HashSet<TweetModel>();
+            this.tweetRepliesList = new HashSet<Tweet>();
         }
 
 
@@ -46,7 +46,7 @@
             }
         }
 
-        public ICollection<TweetModel> TweetRepliesList
+        public ICollection<Tweet> TweetRepliesList
         {
             get
             {

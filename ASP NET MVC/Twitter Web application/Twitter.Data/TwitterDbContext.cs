@@ -20,9 +20,11 @@
             return new TwitterDbContext();
         }
 
-        public DbSet<TweetModel> Tweets { get; set; }
+        public DbSet<Tweet> Tweets { get; set; }
         public DbSet<Notification> Notifications { get; set; }
         public DbSet<Messages> Messages { get; set; }
         public DbSet<Profile> Profiles { get; set; }
+            
+        
     }
 }

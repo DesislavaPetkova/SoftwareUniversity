@@ -22,7 +22,7 @@
         [HttpPost]
         public ActionResult Create(TweetInputModels tweet)
         {
-            var newTweet = new TweetModel();
+            var newTweet = new Tweet();
             newTweet.Title = tweet.Title;
             newTweet.Text = tweet.Text;
             newTweet.URL = tweet.URL;

@@ -22,7 +22,7 @@ namespace Twitter.Models
 
         public string User { get; set; }
 
-        public static Expression<Func<TweetModel, TweetViewModel>> ViewModel
+        public static Expression<Func<Tweet, TweetViewModel>> ViewModel
         {
             get
             {

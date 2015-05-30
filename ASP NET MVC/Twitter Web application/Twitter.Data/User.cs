@@ -21,9 +21,9 @@
         public User()
         {
             this.Followers = new HashSet<User>();
-            this.FollowingList = new HashSet<User>();
-            this.Tweets = new HashSet<TweetModel>();
-            this.FavTweets = new HashSet<TweetModel>();
+            this.FollowingUsers = new HashSet<User>();
+            this.Tweets = new HashSet<Tweet>();
+            this.FavTweets = new HashSet<Tweet>();
 
 
 
@@ -31,16 +31,17 @@
 
         public virtual ICollection<User> Followers { get; set; }
 
-        public virtual ICollection<User> FollowingList { get; set; }
+        public virtual ICollection<User> FollowingUsers { get; set; }
 
-        public virtual ICollection<TweetModel> Tweets { get; set; }
+        public virtual ICollection<Tweet> Tweets { get; set; }
 
-        public virtual ICollection<TweetModel> FavTweets { get; set; }
+        public virtual ICollection<Tweet> FavTweets { get; set; }
 
         public int ProfileId { get; set; }
         
         public  virtual Profile Profile { get; set; }
 
+        
 
     
         

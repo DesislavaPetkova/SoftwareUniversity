@@ -1,13 +1,11 @@
-﻿namespace Twitter.Data.Controllers
+﻿namespace Twitter.Web.Controllers
 {
     using System;
     using System.Web.Mvc;
-    using System.Web.Razor.Parser.SyntaxTree;
-
-    using Microsoft.AspNet.Identity;
 
     using Twitter.Data;
-    using Twitter.Data;
+    using Twitter.Data.Controllers;
+    using Twitter.Models;
 
     public class TweetsController : BaseController
     {
@@ -20,12 +18,12 @@
         }
 
         [HttpPost]
-        public ActionResult Create(TweetInputModels tweet)
+        public ActionResult Create(TweetViewModel tweet)
         {
             var newTweet = new Tweet();
             //newTweet.Title = tweet.Title;
             newTweet.Text = tweet.Text;
-            newTweet.URL = tweet.URL;
+            //newTweet.URL = tweet.URL;
             newTweet.Date = DateTime.Now;
             newTweet.UserId = this.UserProfile.Id;
             if (newTweet.UserId == null)

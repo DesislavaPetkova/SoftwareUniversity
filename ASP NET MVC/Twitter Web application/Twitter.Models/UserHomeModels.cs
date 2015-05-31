@@ -10,21 +10,20 @@ namespace Twitter.Models
 
     using Twitter.Data;
 
-    public class TweetViewModel
+    public class UserHomeModels
     {
-
-
         public string Text { get; set; }
 
         public DateTime Date { get; set; }
 
         public string User { get; set; }
 
-        public static Expression<Func<Tweet, TweetViewModel>> ViewModel
+        public IEnumerable<TweetViewModel> AllTweets { get; set; }
+        public static Expression<Func<Tweet, UserHomeModels>> ViewModel
         {
             get
             {
-                return t => new TweetViewModel()
+                return t => new UserHomeModels()
                 {
                     Text = t.Text,
                     Date = t.Date,
@@ -32,9 +31,5 @@ namespace Twitter.Models
                 };
             }
         }
-
-        public IEnumerable<TweetViewModel> AllTweets { get; set; }
-
-
     }
 }

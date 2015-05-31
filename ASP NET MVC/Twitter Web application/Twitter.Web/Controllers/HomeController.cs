@@ -1,5 +1,6 @@
 ﻿namespace Twitter.Web.Controllers
 {
+    using System.Collections.Generic;
     using System.Linq;
     using System.Web.Mvc;
     using Microsoft.AspNet.Identity;
@@ -14,35 +15,19 @@
 
         public ActionResult Index(int page = 1, int pageSize = 10)
         {
-            var isLogged = this.HttpContext.User.Identity.IsAuthenticated;
-            if (isLogged)
+            var user = this.HttpContext.User.Identity.IsAuthenticated;
+            if (user)
             {
-                var userId = this.UserProfile.Id;
-                var followereds = this.db.FollowingUsers
-                .Where(f => f.FollowerId == userId)
-                .Select(f => f.FolloweredId);
-
-                var homeTweets = this.db.Tweets
-                    .OrderByDescending(d => d.Date)
-                    .ThenBy(d => d.Title)
-                    .Where(d => followereds.Contains(d.UserId))
-                    .Select(TweetViewModel.ViewModel);
-
-                PagedList<TweetViewModel> model = new PagedList<TweetViewModel>(homeTweets, page, pageSize);
-                return this.View(model);
+                return this.RedirectToActionPermanent("Index", "UserHome");
             }
-            else
-            {
-                var homeTweets = this.db.Tweets
-                    .OrderByDescending(d => d.Date)
-                    .ThenBy(d => d.Title)
-                    .Select(TweetViewModel.ViewModel);
 
-                PagedList<TweetViewModel> model = new PagedList<TweetViewModel>(homeTweets, page, pageSize);
-                return this.View(model);
-            }
+            var homeTweets = this.db.Tweets
+                .OrderByDescending(d => d.Date)
+                .ThenBy(d => d.Title)
+                .Select(TweetViewModel.ViewModel);
+
+            PagedList<TweetViewModel> model = new PagedList<TweetViewModel>(homeTweets, page, pageSize);
+            return this.View(model);
         }
-
-        
     }
 }

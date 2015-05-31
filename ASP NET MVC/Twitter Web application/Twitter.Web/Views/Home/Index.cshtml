@@ -9,11 +9,12 @@
 @{
 
     <main>
+        
         @foreach (var item in Model)
         {
             <div class="panel panel-primary">
                 <div class="panel-heading">
-                    <h3 class="panel-title">@item.Title, @item.User</h3>
+                    <h3 class="panel-title">@item.User</h3>
                 </div>
                 <div class="panel-body">
                     @item.Text
@@ -30,7 +31,7 @@
 
         @Html.PagedListPager(Model, page => Url.Action("Index", new { page }))
 
-            
+
     </main>
 } 
 

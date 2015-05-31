@@ -19,8 +19,6 @@
             var isLogged = this.HttpContext.User.Identity.IsAuthenticated;
             if (isLogged)
             {
-                this.RedirectToRoute("UserHome");
-
                 var userId = this.UserProfile.Id;
                 var followereds = this.db.FollowingUsers.Where(f => f.FollowerId == userId).Select(f => f.FolloweredId);
 

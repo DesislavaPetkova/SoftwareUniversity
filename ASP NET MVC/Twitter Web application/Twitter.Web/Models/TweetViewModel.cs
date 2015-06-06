@@ -1,19 +1,18 @@
-﻿using System;
-using System.Collections.Generic;
-using System.Linq;
-using System.Text;
-using System.Threading.Tasks;
-
-namespace Twitter.Models
+﻿namespace Twitter.Web.Models
 {
+    using System;
+    using System.Collections.Generic;
+    using System.ComponentModel.DataAnnotations;
     using System.Linq.Expressions;
 
-    using Twitter.Data;
+    using Twitter.Models;
+
 
     public class TweetViewModel
     {
 
-
+        [Required]
+        [MinLength(5)]
         public string Text { get; set; }
 
         public DateTime Date { get; set; }

@@ -1,4 +1,4 @@
-﻿namespace Twitter.Data
+﻿namespace Twitter.Web
 {
     using System.Web;
     using System.Web.Mvc;

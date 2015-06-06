@@ -9,9 +9,8 @@
     using Microsoft.AspNet.Identity.Owin;
     using Microsoft.Owin.Security;
 
-    using Twitter.Data;
-    using Twitter.Data.Models;
-    using Twitter.Web;
+    using Twitter.Models;
+    using Twitter.Web.Models;
 
     [Authorize]
     public class AccountController : Controller

@@ -1,12 +1,10 @@
-﻿using System;
-using System.Collections.Generic;
-using System.Linq;
-using System.Text;
-using System.Threading.Tasks;
-
-namespace Twitter.Data.Repositories
+﻿namespace Twitter.Data.Repositories
 {
     using System.Data.Entity;
+    using System.Linq;
+
+    using Twitter.Data;
+    using Twitter.Web.Repositories;
 
     public class GenericRepository<TEntity> : IRepository<TEntity> where TEntity : class
     {

@@ -43,3 +43,16 @@ div .panel>span,p {
 div> p {
     font-size: 11px; 
 }
+
+.jumbotron {
+    padding: 1%;
+    margin: 1px;
+}
+.postArea {
+    max-width: 100%;
+    width: 788px;
+}
+textarea {
+  max-width: 100%;
+  width: 788px;
+}

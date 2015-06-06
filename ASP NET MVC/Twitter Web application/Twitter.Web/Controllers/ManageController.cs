@@ -6,9 +6,9 @@ using System.Web.Mvc;
 using Microsoft.AspNet.Identity;
 using Microsoft.AspNet.Identity.Owin;
 using Microsoft.Owin.Security;
-using Twitter.Data.Models;
+using Twitter.Web.Models;
 
-namespace Twitter.Data.Controllers
+namespace Twitter.Web.Controllers
 {
     using Twitter.Web;
     using Twitter.Web.Controllers;

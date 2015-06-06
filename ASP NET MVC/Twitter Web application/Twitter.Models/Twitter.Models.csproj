@@ -52,20 +52,18 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
+    <Compile Include="FollowingUsers.cs" />
+    <Compile Include="Messages.cs" />
+    <Compile Include="Notification.cs" />
+    <Compile Include="NotificationType.cs" />
+    <Compile Include="Profile.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
-    <Compile Include="TweetInputModels.cs" />
-    <Compile Include="TweetViewModel.cs" />
-    <Compile Include="UserHomeModels.cs" />
+    <Compile Include="Tweet.cs" />
+    <Compile Include="User.cs" />
   </ItemGroup>
   <ItemGroup>
     <None Include="App.config" />
     <None Include="packages.config" />
-  </ItemGroup>
-  <ItemGroup>
-    <ProjectReference Include="..\Twitter.Data\Twitter.Data.csproj">
-      <Project>{4752d63b-dba2-4a9c-967d-5bb9d9054015}</Project>
-      <Name>Twitter.Data</Name>
-    </ProjectReference>
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
   <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 

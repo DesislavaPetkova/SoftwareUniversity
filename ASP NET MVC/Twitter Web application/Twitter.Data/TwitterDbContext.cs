@@ -1,11 +1,12 @@
 ﻿namespace Twitter.Data
 {
-    using Microsoft.AspNet.Identity.EntityFramework;
-    using Migrations;
-
     using System.Data.Entity;
 
-    using Twitter.Data;
+    using Microsoft.AspNet.Identity.EntityFramework;
+
+    using Twitter.Models;
+    using Twitter.Web;
+    using Twitter.Web.Migrations;
 
     public class TwitterDbContext : IdentityDbContext<User>
     {

@@ -11,6 +11,8 @@
     using Microsoft.Owin.Security;
 
     using Twitter.Data;
+    using Twitter.Models;
+
 
     public class EmailService : IIdentityMessageService
     {

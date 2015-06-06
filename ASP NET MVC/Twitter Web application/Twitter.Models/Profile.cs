@@ -1,8 +1,11 @@
-﻿namespace Twitter.Data
-{
-    using System.ComponentModel.DataAnnotations;
-    using System.ComponentModel.DataAnnotations.Schema;
+﻿using System.ComponentModel.DataAnnotations;
+using System.ComponentModel.DataAnnotations.Schema;
 
+using Twitter.Models;
+
+namespace Twitter.Models
+{
+    
     public class Profile
     {
         [Key]

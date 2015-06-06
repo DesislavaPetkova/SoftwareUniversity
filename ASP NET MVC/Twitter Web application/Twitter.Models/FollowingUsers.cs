@@ -1,6 +1,8 @@
-﻿namespace Twitter.Data
+﻿namespace Twitter.Models
+
 {
     using System.Collections.Generic;
+
 
     public class FollowingUsers
     {

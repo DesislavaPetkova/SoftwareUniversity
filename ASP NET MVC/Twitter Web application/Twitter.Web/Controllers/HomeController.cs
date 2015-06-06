@@ -1,17 +1,15 @@
 ﻿namespace Twitter.Web.Controllers
 {
-    using System.Collections.Generic;
     using System.Linq;
     using System.Web.Mvc;
-    using Microsoft.AspNet.Identity;
+
     using PagedList;
-    using Twitter.Data;
-    using Twitter.Data.Controllers;
-    using Twitter.Models;
+
+    using Twitter.Web.Models;
 
     public class HomeController : BaseController
     {
-        private TwitterDbContext db = new TwitterDbContext();
+        
 
         public ActionResult Index(int page = 1, int pageSize = 10)
         {
@@ -21,7 +19,7 @@
                 return this.RedirectToActionPermanent("Index", "UserHome");
             }
 
-            var homeTweets = this.db.Tweets
+            var homeTweets = this.Db.Tweets
                 .OrderByDescending(d => d.Date)
                 .ThenBy(d => d.Title)
                 .Select(TweetViewModel.ViewModel);

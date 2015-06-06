@@ -1,4 +1,4 @@
-﻿namespace Twitter.Data
+﻿namespace Twitter.Models
 {
     using System;
     using System.ComponentModel.DataAnnotations;

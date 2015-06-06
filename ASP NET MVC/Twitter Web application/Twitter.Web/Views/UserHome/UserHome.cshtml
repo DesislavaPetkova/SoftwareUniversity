@@ -1,11 +1,10 @@
-﻿@model PagedList.PagedList<Twitter.Models.TweetViewModel>
+﻿@using PagedList.Mvc
+@model PagedList.IPagedList<Twitter.Web.Models.TweetViewModel>
 
-@using PagedList.Mvc
-
+@Html.Partial("_CreateTweetPartial");
 
 @foreach (var item in Model)
 {
-    @Html.Partial("_CreateTweetpartial");
     <div class="panel panel-primary">
         <div class="panel-heading">
             <h3 class="panel-title">@item.User</h3>
@@ -21,6 +20,7 @@
         </span>
         <p>Posted on: @item.Date</p>
     </div>
+    
 }
 
 @Html.PagedListPager(Model, page => Url.Action("Index", new { page }))

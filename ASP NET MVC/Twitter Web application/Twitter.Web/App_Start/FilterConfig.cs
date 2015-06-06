@@ -1,7 +1,7 @@
 ﻿using System.Web;
 using System.Web.Mvc;
 
-namespace Twitter.Data
+namespace Twitter.Web
 {
     public class FilterConfig
     {

@@ -25,3 +25,5 @@ C:\Users\Ivaylo.Il\Documents\GitHub\SoftwareUniversity\ASP NET MVC\Twitter Web a
 C:\Users\Ivaylo.Il\Documents\GitHub\SoftwareUniversity\ASP NET MVC\Twitter Web application\Twitter.Data\bin\Debug\System.Web.WebPages.Razor.xml
 C:\Users\Ivaylo.Il\Documents\GitHub\SoftwareUniversity\ASP NET MVC\Twitter Web application\Twitter.Data\obj\Debug\Twitter.Data.dll
 C:\Users\Ivaylo.Il\Documents\GitHub\SoftwareUniversity\ASP NET MVC\Twitter Web application\Twitter.Data\obj\Debug\Twitter.Data.pdb
+C:\Users\Ivaylo.Il\Documents\GitHub\SoftwareUniversity\ASP NET MVC\Twitter Web application\Twitter.Data\bin\Debug\Twitter.Models.dll
+C:\Users\Ivaylo.Il\Documents\GitHub\SoftwareUniversity\ASP NET MVC\Twitter Web application\Twitter.Data\bin\Debug\Twitter.Models.pdb

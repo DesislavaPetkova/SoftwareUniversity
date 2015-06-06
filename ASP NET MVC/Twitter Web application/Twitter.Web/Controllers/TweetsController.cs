@@ -3,18 +3,18 @@
     using System;
     using System.Web.Mvc;
 
-    using Twitter.Data;
-    using Twitter.Data.Controllers;
+
     using Twitter.Models;
+    using Twitter.Web.Models;
 
     public class TweetsController : BaseController
     {
-        TwitterDbContext db = new TwitterDbContext();
+        
 
         [HttpGet]
         public ActionResult Create()
         {
-            return this.View();
+            return this.View("_CreateTweetPartial");
         }
 
         [HttpPost]
@@ -30,8 +30,8 @@
             {
                 return this.RedirectToAction("ErrorCreation");
             }
-            this.db.Tweets.Add(newTweet);
-            this.db.SaveChanges();
+            this.Db.Tweets.Add(newTweet);
+            this.Db.SaveChanges();
             
             return this.RedirectToAction("SuccessCreated");
 

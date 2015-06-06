@@ -1,4 +1,4 @@
-﻿namespace Twitter.Data.Repositories
+﻿namespace Twitter.Web.Repositories
 {
     using System;
     using System.Linq;

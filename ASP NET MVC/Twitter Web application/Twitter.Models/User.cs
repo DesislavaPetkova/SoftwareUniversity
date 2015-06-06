@@ -1,4 +1,4 @@
-﻿namespace Twitter.Data
+﻿namespace Twitter.Models
 {
     using System.Collections.Generic;
     using System.Security.Claims;
@@ -6,6 +6,8 @@
 
     using Microsoft.AspNet.Identity;
     using Microsoft.AspNet.Identity.EntityFramework;
+
+
 
     public class User : IdentityUser
     {
@@ -24,8 +26,6 @@
             this.FollowingUsers = new HashSet<User>();
             this.Tweets = new HashSet<Tweet>();
             this.FavTweets = new HashSet<Tweet>();
-
-
 
         }
 

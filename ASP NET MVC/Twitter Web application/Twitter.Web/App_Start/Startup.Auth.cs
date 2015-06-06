@@ -1,4 +1,4 @@
-﻿namespace Twitter.Data
+﻿namespace Twitter.Web
 {
     using System;
 
@@ -9,6 +9,8 @@
 
     using Owin;
 
+    using Twitter.Data;
+    using Twitter.Models;
     using Twitter.Web;
 
     public partial class Startup

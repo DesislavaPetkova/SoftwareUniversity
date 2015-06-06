@@ -1,6 +1,9 @@
-﻿namespace Twitter.Data
+﻿namespace Twitter.Models
 {
     using System.ComponentModel.DataAnnotations;
+    
+
+  
 
     public class Messages
     {

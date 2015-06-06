@@ -8,6 +8,8 @@
     using Microsoft.AspNet.Identity;
 
     using Twitter.Data;
+    using Twitter.Models;
+
 
     public class BaseController : Controller
     {
@@ -21,7 +23,7 @@
             this.Db = this.db;
         }
 
-        public TwitterDbContext Db
+        protected TwitterDbContext Db
         {
             get
             {

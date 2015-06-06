@@ -4,9 +4,9 @@ using System.Linq;
 using System.Web;
 using System.Web.Mvc;
 
-namespace Twitter.Data.Controllers
+namespace Twitter.Web.Controllers
 {
-    public class UsersController : Controller
+    public class UsersController : BaseController
     {
         // GET: Users
         public ActionResult Index()

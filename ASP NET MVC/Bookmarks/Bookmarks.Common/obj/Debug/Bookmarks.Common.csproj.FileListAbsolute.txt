@@ -1,0 +1,9 @@
+C:\Users\Ivaylo.Il\Documents\GitHub\SoftwareUniversity\ASP NET MVC\Bookmarks\Bookmarks.Common\bin\Debug\AutoMapper.Net4.dll
+C:\Users\Ivaylo.Il\Documents\GitHub\SoftwareUniversity\ASP NET MVC\Bookmarks\Bookmarks.Common\bin\Debug\Bookmarks.Common.dll
+C:\Users\Ivaylo.Il\Documents\GitHub\SoftwareUniversity\ASP NET MVC\Bookmarks\Bookmarks.Common\bin\Debug\Bookmarks.Common.pdb
+C:\Users\Ivaylo.Il\Documents\GitHub\SoftwareUniversity\ASP NET MVC\Bookmarks\Bookmarks.Common\bin\Debug\AutoMapper.dll
+C:\Users\Ivaylo.Il\Documents\GitHub\SoftwareUniversity\ASP NET MVC\Bookmarks\Bookmarks.Common\bin\Debug\AutoMapper.pdb
+C:\Users\Ivaylo.Il\Documents\GitHub\SoftwareUniversity\ASP NET MVC\Bookmarks\Bookmarks.Common\bin\Debug\AutoMapper.xml
+C:\Users\Ivaylo.Il\Documents\GitHub\SoftwareUniversity\ASP NET MVC\Bookmarks\Bookmarks.Common\bin\Debug\AutoMapper.Net4.pdb
+C:\Users\Ivaylo.Il\Documents\GitHub\SoftwareUniversity\ASP NET MVC\Bookmarks\Bookmarks.Common\obj\Debug\Bookmarks.Common.dll
+C:\Users\Ivaylo.Il\Documents\GitHub\SoftwareUniversity\ASP NET MVC\Bookmarks\Bookmarks.Common\obj\Debug\Bookmarks.Common.pdb

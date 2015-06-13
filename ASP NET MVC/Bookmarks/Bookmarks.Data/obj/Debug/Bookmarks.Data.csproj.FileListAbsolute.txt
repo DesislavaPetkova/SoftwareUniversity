@@ -1,0 +1,16 @@
+C:\Users\Ivaylo.Il\Documents\GitHub\SoftwareUniversity\ASP NET MVC\Bookmarks\Bookmarks.Data\bin\Debug\Bookmarks.Data.dll.config
+C:\Users\Ivaylo.Il\Documents\GitHub\SoftwareUniversity\ASP NET MVC\Bookmarks\Bookmarks.Data\bin\Debug\Bookmarks.Data.dll
+C:\Users\Ivaylo.Il\Documents\GitHub\SoftwareUniversity\ASP NET MVC\Bookmarks\Bookmarks.Data\bin\Debug\Bookmarks.Data.pdb
+C:\Users\Ivaylo.Il\Documents\GitHub\SoftwareUniversity\ASP NET MVC\Bookmarks\Bookmarks.Data\bin\Debug\Bookmarks.Models.dll
+C:\Users\Ivaylo.Il\Documents\GitHub\SoftwareUniversity\ASP NET MVC\Bookmarks\Bookmarks.Data\bin\Debug\EntityFramework.dll
+C:\Users\Ivaylo.Il\Documents\GitHub\SoftwareUniversity\ASP NET MVC\Bookmarks\Bookmarks.Data\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Ivaylo.Il\Documents\GitHub\SoftwareUniversity\ASP NET MVC\Bookmarks\Bookmarks.Data\bin\Debug\Microsoft.AspNet.Identity.Core.dll
+C:\Users\Ivaylo.Il\Documents\GitHub\SoftwareUniversity\ASP NET MVC\Bookmarks\Bookmarks.Data\bin\Debug\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\Users\Ivaylo.Il\Documents\GitHub\SoftwareUniversity\ASP NET MVC\Bookmarks\Bookmarks.Data\bin\Debug\Bookmarks.Models.pdb
+C:\Users\Ivaylo.Il\Documents\GitHub\SoftwareUniversity\ASP NET MVC\Bookmarks\Bookmarks.Data\bin\Debug\EntityFramework.xml
+C:\Users\Ivaylo.Il\Documents\GitHub\SoftwareUniversity\ASP NET MVC\Bookmarks\Bookmarks.Data\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Ivaylo.Il\Documents\GitHub\SoftwareUniversity\ASP NET MVC\Bookmarks\Bookmarks.Data\bin\Debug\Microsoft.AspNet.Identity.Core.xml
+C:\Users\Ivaylo.Il\Documents\GitHub\SoftwareUniversity\ASP NET MVC\Bookmarks\Bookmarks.Data\bin\Debug\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\Users\Ivaylo.Il\Documents\GitHub\SoftwareUniversity\ASP NET MVC\Bookmarks\Bookmarks.Data\obj\Debug\Bookmarks.Data.csprojResolveAssemblyReference.cache
+C:\Users\Ivaylo.Il\Documents\GitHub\SoftwareUniversity\ASP NET MVC\Bookmarks\Bookmarks.Data\obj\Debug\Bookmarks.Data.dll
+C:\Users\Ivaylo.Il\Documents\GitHub\SoftwareUniversity\ASP NET MVC\Bookmarks\Bookmarks.Data\obj\Debug\Bookmarks.Data.pdb

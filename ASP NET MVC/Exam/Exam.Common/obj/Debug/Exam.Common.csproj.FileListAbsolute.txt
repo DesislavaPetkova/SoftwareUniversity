@@ -1,0 +1,10 @@
+C:\Users\Ivaylo.Il\Documents\GitHub\SoftwareUniversity\ASP NET MVC\Exam\Exam.Common\bin\Debug\Exam.Common.dll
+C:\Users\Ivaylo.Il\Documents\GitHub\SoftwareUniversity\ASP NET MVC\Exam\Exam.Common\bin\Debug\Exam.Common.pdb
+C:\Users\Ivaylo.Il\Documents\GitHub\SoftwareUniversity\ASP NET MVC\Exam\Exam.Common\obj\Debug\Exam.Common.csprojResolveAssemblyReference.cache
+C:\Users\Ivaylo.Il\Documents\GitHub\SoftwareUniversity\ASP NET MVC\Exam\Exam.Common\obj\Debug\Exam.Common.dll
+C:\Users\Ivaylo.Il\Documents\GitHub\SoftwareUniversity\ASP NET MVC\Exam\Exam.Common\obj\Debug\Exam.Common.pdb
+C:\Users\Ivaylo.Il\Documents\GitHub\SoftwareUniversity\ASP NET MVC\Exam\Exam.Common\bin\Debug\AutoMapper.dll
+C:\Users\Ivaylo.Il\Documents\GitHub\SoftwareUniversity\ASP NET MVC\Exam\Exam.Common\bin\Debug\AutoMapper.Net4.dll
+C:\Users\Ivaylo.Il\Documents\GitHub\SoftwareUniversity\ASP NET MVC\Exam\Exam.Common\bin\Debug\AutoMapper.pdb
+C:\Users\Ivaylo.Il\Documents\GitHub\SoftwareUniversity\ASP NET MVC\Exam\Exam.Common\bin\Debug\AutoMapper.xml
+C:\Users\Ivaylo.Il\Documents\GitHub\SoftwareUniversity\ASP NET MVC\Exam\Exam.Common\bin\Debug\AutoMapper.Net4.pdb

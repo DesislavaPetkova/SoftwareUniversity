@@ -1,0 +1,49 @@
+﻿@model Exam.Web.ViewModels.MatchDetailsViewModel
+@{
+    ViewBag.Title = "Details";
+}
+
+<div class="row">
+    <div class="col-lg-6">
+        <div class="row">
+            @Html.DisplayNameFor(x => x.HomeTeam) : <a href="http://localhost:1416/Teams/Details/@Model.HomeTeamId"> @Html.DisplayFor(x => x.HomeTeam.Name)</a>
+            <br/>
+            @Html.DisplayNameFor(x => x.AwayTeam) :<a href="http://localhost:1416/Teams/Details/@Model.AwayTeamId"> @Html.DisplayFor(x => x.AwayTeam.Name)</a>
+
+            <br/>
+            @Html.DisplayNameFor(x => x.DateTime) : @Model.DateTime
+        </div>
+        <div class="comments">
+            <h2>Comments:</h2>
+            @if (@Model.Comments.Any())
+            {
+                @Html.DisplayFor(x => x.Comments)
+            }
+            else
+            {
+                <span>No Comments</span>
+            }
+        </div>
+        <div>
+            <h2>Add Comment</h2>
+            @using (Ajax.BeginForm("AddComment", "Matches", new { MatchId = Model.Id }, new AjaxOptions()
+                {
+                    HttpMethod = "POST",
+                    InsertionMode = InsertionMode.InsertAfter,
+                    UpdateTargetId = "comments",
+                    
+                }))
+            {
+                @Html.AntiForgeryToken()
+                <input type="text" name="content" value="">
+                <input type="submit" name="submit" value="Add Comment">
+
+            }
+        </div>
+    </div>
+</div>
+
+@section scripts{
+    
+    <script src="~/Scripts/jquery.unobtrusive-ajax.js"></script>
+}

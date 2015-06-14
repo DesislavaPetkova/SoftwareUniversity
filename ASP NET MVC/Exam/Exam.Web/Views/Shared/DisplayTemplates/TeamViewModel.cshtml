@@ -1,0 +1,12 @@
+﻿@model Exam.Web.ViewModels.TeamViewModel
+@{
+    ViewBag.Title = "TeamViewModel";
+}
+
+<div class="panel panel-default">
+    <div>
+        <h3><a href="http://localhost:1416/Teams/Details/@Model.Id">@Model.Name</a></h3>
+        <a href="@Model.WebSite">@Model.WebSite</a>
+    </div>
+</div>
+

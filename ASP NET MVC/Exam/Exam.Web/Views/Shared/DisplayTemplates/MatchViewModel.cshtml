@@ -1,0 +1,14 @@
+﻿@model Exam.Web.ViewModels.MatchViewModel
+@{
+    ViewBag.Title = "MatchViewModel";
+}
+
+<div class="panel panel-default">
+        <div>
+            <a href="http://localhost:1416/Matches/Details/@Model.Id"><h3>@Model.HomeTeam.Name VS. @Model.AwayTeam.Name</h3></a>
+            <p>@Model.DateTime</p>
+        </div>
+</div>
+    
+
+

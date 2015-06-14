@@ -1,0 +1,66 @@
+﻿@model Exam.Web.ViewModels.TeamDetailsViewModel
+@{
+    ViewBag.Title = "Details";
+}
+<div class="row">
+    <div class="col-lg-6">
+        <div class="row">
+            <h2>@Html.DisplayFor(x => x.Name)</h2>
+            <p>
+                @Html.DisplayNameFor(x => x.NickName) : <strong>@Html.DisplayFor(x => x.NickName)</strong>
+            </p>
+            <p>
+                @Html.DisplayNameFor(x => x.DateFounded) : <strong>@Html.DisplayFor(x => x.DateFounded)</strong>
+            </p>
+        </div>
+        <div class="row">
+            <h2>Players:</h2>
+            @if (@Model.Players.Any())
+            {
+                @Html.DisplayFor(x => x.Players)
+            }
+            else
+            {
+                <span>No Players</span>
+            }
+        </div>
+
+
+    </div>
+
+    <div class="col-lg-6, pull-right">
+        <div class="row">
+            <h2> <span id="votes-count">Votes:@Model.Votes</span></h2>
+
+            @if (!Model.UserHasVoted)
+            {
+                <div id="vote-button">
+                    @using (Ajax.BeginForm("Vote", "Teams", new { teamId = @Model.Id },
+                    new AjaxOptions()
+                    {
+                    HttpMethod = "POST",
+                    UpdateTargetId = "votes-count",
+                    InsertionMode = InsertionMode.Replace,
+                    OnSuccess = "OnVoteSuccess "
+                    }))
+                    {
+                    @Html.AntiForgeryToken()
+                    <input type="submit" name="vote" value="+" class="btn btn-success" />
+                    }
+                </div>
+            }
+
+        </div>
+    </div>
+</div>
+
+@section scripts {
+    <script src="~/Scripts/jquery.unobtrusive-ajax.js"></script>
+    <script>
+        function onVoteSuccess() {
+            var button = document.getElementById("vote-button");
+            button.parentNode.removeChild(button);
+        }
+    </script>
+}
+

@@ -38,14 +38,14 @@
                     @using (Ajax.BeginForm("Vote", "Teams", new { teamId = @Model.Id },
                     new AjaxOptions()
                     {
-                    HttpMethod = "POST",
-                    UpdateTargetId = "votes-count",
-                    InsertionMode = InsertionMode.Replace,
-                    OnSuccess = "OnVoteSuccess "
+                        HttpMethod = "POST",
+                        UpdateTargetId = "votes-count",
+                        InsertionMode = InsertionMode.Replace,
+                        OnSuccess = "OnVoteSuccess"
                     }))
                     {
                     @Html.AntiForgeryToken()
-                    <input type="submit" name="vote" value="+" class="btn btn-success" />
+                    <input type="submit" id="vote-button" name="vote" value="+" class="btn btn-success" />
                     }
                 </div>
             }
@@ -57,7 +57,7 @@
 @section scripts {
     <script src="~/Scripts/jquery.unobtrusive-ajax.js"></script>
     <script>
-        function onVoteSuccess() {
+        function OnVoteSuccess() {
             var button = document.getElementById("vote-button");
             button.parentNode.removeChild(button);
         }

@@ -1,0 +1,22 @@
+footer {
+    display: block;
+    text-align: center;
+}
+
+form{
+    width: 33%;
+}
+
+td {
+    display: block;
+}
+main {
+    width: 65%;
+    margin: 0 auto;
+
+}
+
+#right{
+    float: right;
+    width: 25%;
+}

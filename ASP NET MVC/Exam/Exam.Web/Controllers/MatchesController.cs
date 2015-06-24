@@ -1,5 +1,6 @@
 ﻿namespace Exam.Web.Controllers
 {
+    using System;
     using System.Linq;
     using System.Web.Mvc;
 
@@ -56,13 +57,14 @@
             {
                 model.UserId = this.User.Identity.GetUserId();
                 var comment = Mapper.Map<Comment>(model);
+                comment.DataTime = DateTime.Now;
                 this.Data.Comments.Add(comment);
                 this.Data.SaveChanges();
 
                 var commentDt = this.Data.Comments.All()
                     .Where(x => x.Id == comment.Id)
                     .Project().To<CommentsViewModel>().FirstOrDefault();
-                return this.PartialView("DisplayTemplates/CommentViewModel", commentDt);
+                return this.PartialView("DisplayTemplates/CommentsViewModel", commentDt);
             }
             return this.Json("Error");
         }

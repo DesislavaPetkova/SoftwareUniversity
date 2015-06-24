@@ -24,7 +24,7 @@
         public virtual Team HomeTeam { get; set; }
         public virtual Team AwayTeam { get; set; }
         [Required]
-        public string DateTime { get; set; }
+        public DateTime DateTime { get; set; }
 
         public virtual ICollection<Comment> Comments
         {

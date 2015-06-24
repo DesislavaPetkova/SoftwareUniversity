@@ -14,7 +14,7 @@ namespace Exam.Models
         [Required]
         public string Name { get; set; }
 
-        public string DateofBirth { get; set; }
+        public DateTime DateofBirth { get; set; }
         [Required]
         public double Height { get; set; }
         

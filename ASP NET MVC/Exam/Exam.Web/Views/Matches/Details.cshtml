@@ -1,8 +1,9 @@
 ﻿@model Exam.Web.ViewModels.MatchDetailsViewModel
 @{
-    ViewBag.Title = "Details";
+    ViewBag.Title = "Match Details";
 }
 
+<h2>@ViewBag.Title</h2>
 <div class="row">
     <div class="col-lg-6">
         <div class="row">
@@ -13,7 +14,7 @@
             <br/>
             @Html.DisplayNameFor(x => x.DateTime) : @Model.DateTime
         </div>
-        <div class="comments">
+        <div id="comments">
             <h2>Comments:</h2>
             @if (@Model.Comments.Any())
             {
@@ -26,7 +27,7 @@
         </div>
         <div>
             <h2>Add Comment</h2>
-            @using (Ajax.BeginForm("AddComment", "Matches", new { MatchId = Model.Id }, new AjaxOptions()
+            @using (Ajax.BeginForm("AddComment", "Matches", new { matchId = Model.Id}, new AjaxOptions()
                 {
                     HttpMethod = "POST",
                     InsertionMode = InsertionMode.InsertAfter,
@@ -45,5 +46,5 @@
 
 @section scripts{
     
-    <script src="~/Scripts/jquery.unobtrusive-ajax.js"></script>
+<script src="~/Scripts/jquery.unobtrusive-ajax.js"></script>
 }

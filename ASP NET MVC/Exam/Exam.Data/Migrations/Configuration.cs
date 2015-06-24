@@ -1,7 +1,9 @@
 namespace Exam.Data.Migrations
 {
     using System;
+    using System.Collections.Generic;
     using System.Data.Entity.Migrations;
+    using System.Linq;
 
     using Exam.Models;
 
@@ -11,167 +13,103 @@ namespace Exam.Data.Migrations
         {
             this.AutomaticMigrationsEnabled = true;
             this.ContextKey = "Exam.Data.ApplicationDbContext";
-            this.AutomaticMigrationDataLossAllowed = false;
+            this.AutomaticMigrationDataLossAllowed = true;
             
         }
 
         protected override void Seed(ApplicationDbContext context)
         {
-            //  This method will be called after migrating to the latest version.
+            if (!context.Teams.Any())
+            {
+                var teams = this.LoadTeams(context);
+                this.LoadMatches(context, teams);
+                this.LoadPlayers(context, teams);
+                this.LoadComments(context);
+                this.LoadUserMatchBets(context);
+            }
 
-            //  You can use the DbSet<T>.AddOrUpdate() helper extension method 
-            //  to avoid creating duplicate seed data. E.g.
-            //
-            //    context.People.AddOrUpdate(
-            //      p => p.FullName,
-            //      new Person { FullName = "Andrew Peters" },
-            //      new Person { FullName = "Brice Lambson" },
-            //      new Person { FullName = "Rowan Miller" }
-            //    );
-            //
+            base.Seed(context);
+        }
 
-            context.Teams.AddOrUpdate(new Team
-                {
-                    Name = "Manchester United F.C.",
-                    NickName = "The Red Devils",
-                    WebSite = "http://www.manutd.com",
-                    DateFounded = "1-Jun-1878"
-                });
-            context.Teams.AddOrUpdate(new Team
+        private List<Team> LoadTeams(ApplicationDbContext context)
+        {
+            var teams = new List<Team>()
             {
-                Name = "Real Madrid",
-                NickName = "The Whites",
-                WebSite = "http://www.realmadrid.com",
-                DateFounded = "6-Mar-1902"
-            });
-            context.Teams.AddOrUpdate(new Team
-            {
-                Name = "Bayern Munich",
-                NickName = "The Bavarians",
-                WebSite = "http://www.fcbayern.de",
-                DateFounded = "13-Feb-1900"
-            });
-            context.Teams.AddOrUpdate(new Team
-            {
-                Name = "FC Barcelona",
-                NickName = "Barca",
-                WebSite = "http://www.fcbarcelona.com",
-                DateFounded = "12-Nov-1899"
-            });
-            context.Teams.AddOrUpdate(new Team
-            {
-                Name = "Manchester City",
-                NickName = "The Citizens",
-                WebSite = "http://www.mcfc.com",
-                DateFounded = "1-May-1880"
-            });
+                new Team() { Name = "Manchester United F.C.", WebSite = "http://www.manutd.com", DateFounded = new DateTime(1878, 1, 1), NickName = "The Red Devils" },
+                new Team() { Name = "Real Madrid", WebSite = "http://www.realmadrid.com", DateFounded = new DateTime(1902, 3, 6), NickName = "The Whites" },
+                new Team() { Name = "FC Barcelona", WebSite = "http://www.fcbarcelona.com", DateFounded = new DateTime(1899, 11, 12), NickName = "Barca" },
+                new Team() { Name = "Bayern Munich", WebSite = "http://www.fcbayern.de", DateFounded = new DateTime(1900, 2, 13), NickName = "The Bavarians" },
+                new Team() { Name = "Manchester City", WebSite = "http://www.mcfc.com", DateFounded = new DateTime(1880, 1, 1), NickName = "The Citizens" },
+                new Team() { Name = "Chelsea", WebSite = "https://www.chelseafc.com", DateFounded = new DateTime(1905, 3, 10), NickName = "The Pensioners" },
+                new Team() { Name = "Arsenal", WebSite = "http://www.arsenal.com/", DateFounded = new DateTime(1886, 1, 1), NickName = "The Gunners" },
+            };
 
-            context.Matches.AddOrUpdate(new Match()
+            foreach (var team in teams)
             {
-                HomeTeamId = 1,
-                AwayTeamId = 2,
-                DateTime = "2015-Jun-13"
-            });
-            context.Matches.AddOrUpdate(new Match()
-            {
-                HomeTeamId = 3,
-                AwayTeamId = 1,
-                DateTime = "2015-Jun-13"
-            });
-            context.Matches.AddOrUpdate(new Match()
-            {
-                HomeTeamId = 2,
-                AwayTeamId = 3,
-                DateTime = "2015-Jun-13"
-            });
-            context.Matches.AddOrUpdate(new Match()
-            {
-                HomeTeamId = 4,
-                AwayTeamId = 1,
-                DateTime = "2015-Jun-13"
-            });
+                context.Teams.Add(team);
+            }
 
-            context.Players.AddOrUpdate(new Player
-            {
-                Name = "Alexis Sanchez",
-                DateofBirth = "1982-01-03",
-                Height = 1.65,
-                TeamId = 4
-            });
-            context.Players.AddOrUpdate(new Player
-            {
-                Name = "Arjen Robben",
-                DateofBirth = "1982-01-03",
-                Height = 1.65,
-                TeamId = 2
-            });
-            context.Players.AddOrUpdate(new Player
-            {
-                Name = "Franck Ribery",
-                DateofBirth = "1982-01-03",
-                Height = 1.75,
-                TeamId = 2
-            });
-            context.Players.AddOrUpdate(new Player
-            {
-                Name = "Wayne Rooney",
-                DateofBirth = "1982-01-03",
-                Height = 1.75,
-                TeamId = 1
-            });
+            context.SaveChanges();
 
-            context.Players.AddOrUpdate(new Player
-            {
-                Name = "Lionel Messi",
-                DateofBirth = "1982-01-03",
-                Height = 1.75,
-                
-            });
-            context.Players.AddOrUpdate(new Player
-            {
-                Name = "Theo Walcott",
-                DateofBirth = "1982-01-03",
-                Height = 1.75,
-                
-            });
-            context.Players.AddOrUpdate(new Player
-            {
-                Name = "Cristiano Ronaldo",
-                DateofBirth = "1982-01-03",
-                Height = 1.75,
-                
-            });
-            context.Players.AddOrUpdate(new Player
-            {
-                Name = "Aaron Lennon",
-                DateofBirth = "1982-01-03",
-                Height = 1.75,
-                
-            });
+            return teams;
+        }
 
-            context.Comments.AddOrUpdate(new Comment
+        private void LoadMatches(ApplicationDbContext context, List<Team> teams)
+        {
+            var matches = new List<Match>()
             {
-                MatchId = 1,
-                Content = "The best match this summer!",
-                UserId = "ce8d003a-1ee1-4565-ad71-264558158e45",
-                DataTime = DateTime.Now
-            });
+                new Match() { AwayTeamId = teams[0].Id, HomeTeamId = teams[1].Id, DateTime = new DateTime(2015, 6, 13) },
+                new Match() { AwayTeamId = teams[0].Id, HomeTeamId = teams[3].Id, DateTime = new DateTime(2015, 6, 14) },
+                new Match() { AwayTeamId = teams[4].Id, HomeTeamId = teams[2].Id, DateTime = new DateTime(2015, 6, 15) },
+                new Match() { AwayTeamId = teams[2].Id, HomeTeamId = teams[5].Id, DateTime = new DateTime(2015, 6, 16) },
+                new Match() { AwayTeamId = teams[4].Id, HomeTeamId = teams[1].Id, DateTime = new DateTime(2015, 6, 17) },
+                new Match() { AwayTeamId = teams[5].Id, HomeTeamId = teams[0].Id, DateTime = new DateTime(2015, 6, 18) },
+                new Match() { AwayTeamId = teams[3].Id, HomeTeamId = teams[6].Id, DateTime = new DateTime(2015, 6, 12) },
+                new Match() { AwayTeamId = teams[1].Id, HomeTeamId = teams[5].Id, DateTime = new DateTime(2015, 6, 11) },
+                new Match() { AwayTeamId = teams[4].Id, HomeTeamId = teams[5].Id, DateTime = new DateTime(2015, 6, 10) },
+                new Match() { AwayTeamId = teams[6].Id, HomeTeamId = teams[5].Id, DateTime = new DateTime(2015, 6, 19) },
+                new Match() { AwayTeamId = teams[2].Id, HomeTeamId = teams[6].Id, DateTime = new DateTime(2015, 6, 20) },
+            };
 
-            context.Bets.AddOrUpdate(new Bet
+            foreach (var match in matches)
             {
-                MatchId = 1,
-                HomeBet = 30,
-                AwayBet = 0,
-                UserId = "ce8d003a-1ee1-4565-ad71-264558158e45"
+                context.Matches.Add(match);
+                context.SaveChanges();
+            }
+        }
 
-            });
-
-            context.Votes.AddOrUpdate(new Vote
+        private void LoadPlayers(ApplicationDbContext context, List<Team> teams)
+        {
+            var players = new List<Player>()
             {
-                TeamId = 2,
-                UserId = "ce8d003a-1ee1-4565-ad71-264558158e45"
+                new Player() { Name = "Alexis Sanchez", TeamId = teams[2].Id, DateofBirth = new DateTime(1982, 1, 3), Height = 1.65 },
+                new Player() { Name = "Arjen Robben", TeamId = teams[1].Id, DateofBirth = new DateTime(1982, 1, 3), Height = 1.65 },
+                new Player() { Name = "Franck Ribery", TeamId = teams[0].Id, DateofBirth = new DateTime(1982, 1, 3), Height = 1.65 },
+                new Player() { Name = "Wayne Rooney", TeamId = teams[0].Id, DateofBirth = new DateTime(1982, 1, 3), Height = 1.65 },
+                new Player() { Name = "Lionel Messi", DateofBirth = new DateTime(1982, 1, 13), Height = 1.65 },
+                new Player() { Name = "Theo Walcott", DateofBirth = new DateTime(1983, 2, 17), Height = 1.75 },
+                new Player() { Name = "Cristiano Ronaldo", DateofBirth = new DateTime(1984, 3, 16), Height = 1.85 },
+                new Player() { Name = "Aaron Lennon", DateofBirth = new DateTime(1985, 4, 15), Height = 1.95 },
+                new Player() { Name = "Gareth Bale", DateofBirth = new DateTime(1986, 5, 14), Height = 1.90 },
+                new Player() { Name = "Antonio Valencia", DateofBirth = new DateTime(1987, 5, 23), Height = 1.82 },
+                new Player() { Name = "Robin van Persie", DateofBirth = new DateTime(1988, 6, 13), Height = 1.84 },
+                new Player() { Name = "Ronaldinho", DateofBirth = new DateTime(1989, 7, 30), Height = 1.87 },
+            };
 
-            });
+            foreach (var player in players)
+            {
+                context.Players.Add(player);
+            }
+
+            context.SaveChanges();
+        }
+
+        private void LoadComments(ApplicationDbContext context)
+        {
+        }
+
+        private void LoadUserMatchBets(ApplicationDbContext context)
+        {
         }
     }
 }

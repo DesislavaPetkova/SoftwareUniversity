@@ -31,7 +31,7 @@ namespace Exam.Models
         [Url]
         public string WebSite { get; set; }
 
-        public string DateFounded { get; set; }
+        public DateTime DateFounded { get; set; }
 
         public virtual ICollection<Player> Players
         {

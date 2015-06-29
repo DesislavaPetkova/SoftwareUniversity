@@ -12,16 +12,16 @@ class CommentsModel extends BaseModel{
         return $result;
     }
 
-    public function addComment($nickName, $text, $postId) {
-        if ($nickName == '') {
+    public function addComment($comment, $nick, $issueId) {
+        if ($nick == '') {
             return false;
         }
-        if ($postId == 0 ) {
+        if ($issueId == 0 ) {
             return false;
         }
         $statement = self::$db->prepare(
-            "INSERT INTO blog.comments(nickName, text, postId) VALUES (?, ?, ?);");
-        $statement->bind_param("ssi", $nickName, $text, $postId);
+            "INSERT INTO blog.comments(text, name, postId) VALUES (?, ?, ?)");
+        $statement->bind_param("ssi", $comment, $nick, $issueId);
         $statement->execute();
         return true;
     }
@@ -31,7 +31,7 @@ class CommentsModel extends BaseModel{
             return false;
         }
 
-        $statement = self::$db->prepare("SELECT  text,name FROM blog.comments WHERE postId = ?;");
+        $statement = self::$db->prepare("SELECT  text, name FROM blog.comments WHERE postId = ?;");
         $statement->bind_param("i", $postId);
         $statement->execute();
         $result = $statement->get_result()->fetch_all();

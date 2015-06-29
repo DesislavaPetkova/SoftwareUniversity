@@ -17,25 +17,26 @@ class CommentsController extends BaseController{
         $this->renderView("createComment");
     }
 
-    public function showComments($postId){
-        $this->comments = $this->db->showComments($postId);
+    public function showComments($issueId){
+        $this->comments = $this->db->showComments($issueId);
         $this->renderView("showComments", false);
         return $this->comments;
     }
 
-    public function createComment($postId = null)
+    public function createComment($issueId)
     {
-        $this->renderView(__FUNCTION__);
+        if($this->isPost){
+            $nick =  isset($_POST['nickname']) ? $_POST['nickname'] : '';
+            $comment = isset($_POST['text']) ? $_POST['text'] : '';
 
-        $nick =  isset($_POST['nickname']) ? $_POST['nickname'] : '';
-        $comment = isset($_POST['comment']) ? $_POST['comment'] : '';
 
-
-        if ($this->db->addComment($nick, $comment, $postId)) {
-            $this->addInfoMessage("Comment created.");
-        } else {
-            $this->addErrorMessage("Error creating Comment.");
+            if ($this->db->addComment($comment, $nick, $issueId)) {
+                $this->addInfoMessage("Comment created.");
+            } else {
+                $this->addErrorMessage("Error creating Comment.");
+            }
         }
+        $this->renderView(__FUNCTION__);
 
     }
 

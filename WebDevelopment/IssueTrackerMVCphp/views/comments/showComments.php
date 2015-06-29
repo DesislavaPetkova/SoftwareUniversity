@@ -10,14 +10,15 @@
 <table class="table table-striped table-hover" id="comments">
     <thead>
     <tr>
-        <th><?php echo $comment[1] . " said: "?></th>
+        <th><?php echo htmlspecialchars($comment[1]) . " said: "?></th>
     </tr>
     </thead>
     <tbody>
 
     <tr class="warning">
             <td>
-                <?php echo $comment[0]?>
+                <?php echo htmlspecialchars($comment[0])?>
+            </td>
     </tr>
     </tbody>
 </table>

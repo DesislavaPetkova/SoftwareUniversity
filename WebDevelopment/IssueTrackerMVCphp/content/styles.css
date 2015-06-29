@@ -11,12 +11,16 @@ td {
     display: block;
 }
 main {
-    width: 65%;
-    margin: 0 auto;
+    width: 60%;
+    margin-left: 170px;
 
 }
-
+ul>div{
+    padding: 1%;
+}
 #right{
     float: right;
+    margin: 0 auto;
+    margin-top: 130px;
     width: 25%;
 }

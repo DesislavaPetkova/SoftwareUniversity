@@ -13,9 +13,18 @@ class IssuesModel extends BaseModel{
 
     }
 
-    public function getFilteredIssues($from, $size){
-        $statement = self::$db->prepare("SELECT id,title,description, state, postedDate, author FROM issues ORDER BY postedDate  DESC LIMIT ?,?");
-        $statement->bind_param("ii",$from, $size);
+    public function getFilteredIssues($from, $size, $state = null){
+
+        if($state == null){
+            $statement = self::$db->prepare("SELECT id,title,description, state, postedDate, author FROM issues ORDER BY postedDate  DESC LIMIT ?,?");
+            $statement->bind_param("ii",$from, $size);
+            $statement->execute();
+            $result = $statement->get_result()->fetch_all();
+            return $result;
+        }
+        $statement = self::$db->prepare("SELECT id,title,description, state, postedDate, author FROM issues WHERE state=? ORDER BY postedDate  DESC
+LIMIT ?,?");
+        $statement->bind_param("sii", $state, $from, $size);
         $statement->execute();
         $result = $statement->get_result()->fetch_all();
         return $result;
@@ -39,7 +48,24 @@ class IssuesModel extends BaseModel{
         return $statement->affected_rows > 0;
     }
 
-    public function deletePost($id) {
+    public function editIssue($id, $title, $description, $state) {
+        if ($title == '') {
+            return false;
+        }
+        $currentUser = $_SESSION['username'];
+        $idStatement = self::$db->query("SELECT id FROM users WHERE username LIKE ". "'".$currentUser."'");
+        //$idStatement->bind_param('s', $currentUser);
+        $result = $idStatement->fetch_all();
+        //$userId = $result[0][0];
+        $date = date("Y-m-d H:i:s");
+        $statement = self::$db->prepare(
+            "UPDATE issues SET title=?, description=?, author=?, state=?, postedDate=? WHERE Id = ?");
+        $statement->bind_param("ssssss", $title, $description, $currentUser, $state, $date, $id);
+        $statement->execute();
+        return $statement->affected_rows > 0;
+    }
+
+    public function deleteIssue($id) {
         $statement = self::$db->prepare(
             "DELETE FROM authors WHERE id = ?");
         $statement->bind_param("i", $id);
@@ -50,6 +76,26 @@ class IssuesModel extends BaseModel{
     public function showIssue($id){
         $statement = self::$db->prepare("SELECT id,title,description FROM blog.issues WHERE id = ?");
         $statement->bind_param("i",$id);
+        $statement->execute();
+        $result = $statement->get_result()->fetch_all();
+        return $result;
+    }
+
+//    public function getNewState($state){
+//
+//        $statement = self::$db->prepare("SELECT id,title,description, state, postedDate, author FROM blog.issues WHERE state = ?");
+//        $statement->bind_param("s",$state);
+//        $statement->execute();
+//        $result = $statement->get_result()->fetch_all();
+//        return $result;
+//    }
+
+
+    public function getIssuesbySearch($from, $size, $searchVal){
+        $search = '%'.$searchVal.'%';
+
+        $statement = self::$db->prepare("SELECT id,title,description, state, postedDate, author FROM blog.issues where title like ? ORDER BY postedDate  DESC LIMIT ?,?");
+        $statement->bind_param("sii", $search, $from, $size);
         $statement->execute();
         $result = $statement->get_result()->fetch_all();
         return $result;

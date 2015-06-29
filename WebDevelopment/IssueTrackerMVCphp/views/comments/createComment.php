@@ -8,7 +8,7 @@
 
 ?>
 
-<form id="addcomments" class="form-control-static" action="/comments/createComment"
+<form id="addcomments" class="form-control-static" action=""
       method="POST">
     <fieldset>
         <legend>Create Comment</legend>

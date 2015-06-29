@@ -8,23 +8,23 @@
 //var_dump($this->postId);
 ?>
 
-
+<main>
 <table class="table table-striped table-hover ">
     <thead>
     <tr>
-        <th><h2><?php echo $this->issue[0][1]?></h2></th>
+        <th><h2><?php echo htmlspecialchars($this->issue[0][1])?></h2></th>
     </tr>
     </thead>
     <tbody>
         <tr class="danger">
-            <td><b><?php echo $this->issue[0][2] ?></b></td>
+            <td><b><?php echo htmlspecialchars($this->issue[0][2]) ?></b></td>
         </tr>
     </tbody>
 </table>
 <button id="show-comments" class="btn btn-success">Show Comments</button>
 <a href="/../comments/createComment/<?php echo $this->issue[0][0]?>" id="add-comments" class="btn btn-success">Add
     Comments</a>
-<a href="/../issues/editIssue/" id="edit" class="btn
+<a href="/../issues/edit/<?php echo $this->issue[0][0]?>" id="edit" class="btn
 btn-success">Edit</a>
 <script>
     $('#show-comments').on('click', function(ev){
@@ -45,4 +45,5 @@ btn-success">Edit</a>
 <table class="table table-striped table-hover" id="addcomments">
 
 </table>
+
 

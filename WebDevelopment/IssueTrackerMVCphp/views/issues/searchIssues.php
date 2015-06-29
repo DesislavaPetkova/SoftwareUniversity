@@ -1,24 +1,12 @@
-<?php
-/**
- * Created by PhpStorm.
- * User: Ivaylo.Il
- * Date: 10/05/2015
- * Time: 01:25
- */
-?>
-
-
-
-
-<table id="issuesIndex" class="table table-striped table-hover">
+<table class="table table-striped table-hover ">
     <thead>
     <tr>
         <th><h2>Issues for tracking</h2></th>
     </tr>
     <tr>
-    <?php if($this->isLoggedIn) : ?>
-        <th><a href="/issues/create" class="btn btn-success">Create</a></th>
-    <?php endif;?>
+        <?php if($this->isLoggedIn) : ?>
+            <th><a href="/issues/create" class="btn btn-success">Create</a></th>
+        <?php endif;?>
     </tr>
     </thead>
     <tbody id="danger">
@@ -44,7 +32,3 @@
     </tbody>
 </table>
 
-<ul class="pager">
-    <li><a href="/issues/index/<?= $this->page - 1?>/<?= $this->pageSize ?>">Previous</a></li>
-    <li><a href="/issues/index/<?= $this->page + 1?>/<?= $this->pageSize ?>">Next</a></li>
-</ul>

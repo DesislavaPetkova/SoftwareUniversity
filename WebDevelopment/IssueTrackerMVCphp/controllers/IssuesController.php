@@ -58,7 +58,7 @@ class IssuesController extends BaseController {
         $this->renderView("issue");
     }
 
-    public function editIssue($id){
+    public function edit($id){
         $this->Authorize();
 
         if ($this->isPost) {
@@ -71,7 +71,7 @@ class IssuesController extends BaseController {
                 return $this->renderView(__FUNCTION__);
             }
 
-            if ($this->db->updateIssue($title, $description, $state)) {
+            if ($this->db->editIssue($id, $title, $description, $state)) {
                 $this->addInfoMessage("Issue updated.");
                 $this->redirect('issues');
             } else {
@@ -80,6 +80,29 @@ class IssuesController extends BaseController {
         }
         $this->renderView(__FUNCTION__);
 
+    }
+    public function getIssuesbyState($state) {
+        $this->Authorize();
+        $page = 0;
+        $pageSize = 3;
+        $from = $page * $pageSize;
+        $this->page = $page;
+        $this->pageSize = $pageSize;
+        $this -> issues = $this->db->getFilteredIssues($from , $pageSize, $state);
+        $this->renderView(__FUNCTION__, false);
+
+
+    }
+
+    public function searchIssues($searchVal){
+        $this->Authorize();
+        $page = 0;
+        $pageSize = 3;
+        $from = $page * $pageSize;
+        $this->page = $page;
+        $this->pageSize = $pageSize;
+        $this-> issues = $this->db->getIssuesbySearch($from , $pageSize, $searchVal);
+        $this->renderView(__FUNCTION__, false);
     }
 
 }

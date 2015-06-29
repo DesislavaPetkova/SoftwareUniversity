@@ -4,7 +4,8 @@
 <head>
     <link rel="stylesheet" href="/content/styles.css" />
     <link rel="stylesheet" href="/content/bootstrap.min.css" />
-
+    <link rel="stylesheet" href="/content/bootstrap.css" />
+    <script src="https://ajax.googleapis.com/ajax/libs/jquery/1.11.3/jquery.min.js"></script>
     <title>
         <?php if (isset($this->title)) echo htmlspecialchars($this->title) ?>
     </title>
@@ -46,18 +47,7 @@
         </div>
     </nav>
 </header>
-<!--<aside id="right">-->
-<!--    <div class="panel panel-info">-->
-<!--        <div class="panel-heading">-->
-<!--            <h3 class="panel-title">List of Posts</h3>-->
-<!--        </div>-->
-<!--        <div class="panel-body">-->
-<!--            <ul>-->
-<!---->
-<!--            </ul>-->
-<!--        </div>-->
-<!--    </div>-->
-<!--</aside>-->
+<?php include_once('aside.php'); ?>
 <main>
 
 

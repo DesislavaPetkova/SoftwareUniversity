@@ -7,7 +7,7 @@
  */
 ?>
 
-<form class="form-horizontal" action="create" method="POST">
+<form class="form-horizontal" action="" method="POST">
     <fieldset>
         <legend>Edit Issue</legend>
         <div class="form-group">
@@ -24,20 +24,17 @@
             </div>
         </div>
 
-        <div class="btn-group">
-            <a href="#" class="btn btn-default">State</a>
-            <a href="#" class="btn btn-default dropdown-toggle" data-toggle="dropdown" aria-expanded="true"><span class="caret"></span></a>
-            <ul class="dropdown-menu">
-                <li><a href="#">New</a></li>
-                <li><a href="#">Open</a></li>
-                <li><a href="#">Fixed</a></li>
-                <li><a href="#">Closed</a></li>
-                <li class="divider"></li>
-                <li><a href="#">Separated link</a></li>
-            </ul>
-        </div>
-
         <div class="form-group">
+            <label for="select" class="col-lg-2 control-label">Selects</label>
+            <div class="col-lg-10">
+                <select class="form-control" id="select" name="state">
+                    <option>New</option>
+                    <option>Open</option>
+                    <option>Fixed</option>
+                    <option>Closed</option>
+                </select>
+            </div>
+        <div class="form-group" style="margin: 2%">
             <div class="col-lg-10 col-lg-offset-2">
                 <button type="reset" class="btn btn-default">Cancel</button>
                 <button type="submit" class="btn btn-primary">Edit</button>

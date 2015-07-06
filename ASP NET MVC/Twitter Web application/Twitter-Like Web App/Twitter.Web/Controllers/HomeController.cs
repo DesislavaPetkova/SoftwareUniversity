@@ -3,7 +3,10 @@ using System.Collections.Generic;
 using System.Linq;
 using System.Web;
 using System.Web.Mvc;
+using AutoMapper.QueryableExtensions;
+using PagedList;
 using Twitter.Data;
+using Twitter.Web.ViewModels;
 
 namespace Twitter.Web.Controllers
 {
@@ -15,10 +18,25 @@ namespace Twitter.Web.Controllers
         {
             
         }
-        public ActionResult Index()
+        
+        public ActionResult Index(int? page)
         {
-            return View();
+            if (this.User.Identity.IsAuthenticated)
+            {
+               return Redirect("~/Users/Index");
+            }
+
+            var tweets = this.Data.Tweets
+                .All()
+                .OrderByDescending(x => x.DatePosted)
+                .Take(10)
+                .Project()
+                .To<TweetViewModel>()
+                .ToPagedList(page ?? 1, 10); //TODO: remove magic numbers and make them constants
+
+            return View(tweets);
         }
+       
 
         public ActionResult About()
         {

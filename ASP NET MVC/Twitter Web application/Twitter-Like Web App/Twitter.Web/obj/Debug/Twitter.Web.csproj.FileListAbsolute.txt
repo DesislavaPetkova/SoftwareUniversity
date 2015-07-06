@@ -76,3 +76,7 @@ C:\Users\Ivaylo.Il\Documents\GitHub\SoftwareUniversity\ASP NET MVC\Twitter Web a
 C:\Users\Ivaylo.Il\Documents\GitHub\SoftwareUniversity\ASP NET MVC\Twitter Web application\Twitter-Like Web App\Twitter.Web\bin\AutoMapper.pdb
 C:\Users\Ivaylo.Il\Documents\GitHub\SoftwareUniversity\ASP NET MVC\Twitter Web application\Twitter-Like Web App\Twitter.Web\bin\AutoMapper.xml
 C:\Users\Ivaylo.Il\Documents\GitHub\SoftwareUniversity\ASP NET MVC\Twitter Web application\Twitter-Like Web App\Twitter.Web\bin\AutoMapper.Net4.pdb
+C:\Users\Ivaylo.Il\Documents\GitHub\SoftwareUniversity\ASP NET MVC\Twitter Web application\Twitter-Like Web App\Twitter.Web\bin\PagedList.dll
+C:\Users\Ivaylo.Il\Documents\GitHub\SoftwareUniversity\ASP NET MVC\Twitter Web application\Twitter-Like Web App\Twitter.Web\bin\PagedList.Mvc.dll
+C:\Users\Ivaylo.Il\Documents\GitHub\SoftwareUniversity\ASP NET MVC\Twitter Web application\Twitter-Like Web App\Twitter.Web\bin\PagedList.xml
+C:\Users\Ivaylo.Il\Documents\GitHub\SoftwareUniversity\ASP NET MVC\Twitter Web application\Twitter-Like Web App\Twitter.Web\bin\PagedList.Mvc.xml

@@ -1,0 +1,15 @@
+﻿@model Twitter.Web.ViewModels.TweetViewModel
+@{
+    Layout = null;
+}
+
+
+<div class="panel panel-primary">
+    <div class="panel-heading">
+        <p>@Model.User.UserName</p>
+    </div>
+    <div class="panel-body">
+        <p>@Model.Text</p>
+        <p>@Model.DatePosted</p>
+    </div>
+</div>

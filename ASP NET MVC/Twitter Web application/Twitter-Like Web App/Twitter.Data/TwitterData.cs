@@ -50,6 +50,16 @@ namespace Twitter.Data
             get { return this.GetRepository<Message>(); }
         }
 
+        public IRepository<User> UsersToFollowers
+        {
+            get { return this.GetRepository<User>(); }
+        }
+
+        public IRepository<User> UsersToFollowings  
+        {
+            get { return this.GetRepository<User>(); }
+        }
+
         public int SaveChanges()
         {
             return this.context.SaveChanges();

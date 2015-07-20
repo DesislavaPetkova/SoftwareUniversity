@@ -20,20 +20,7 @@ namespace Twitter.Web.Controllers
         [Authorize]
         public ActionResult Index(int? page)
         {
-            var userId = this.User.Identity.GetUserId();
-            var followedUsers = this.Data.Users.All();
-                //.Where(x => x.Id == (this.Data.UsersToFollowings.All().FirstOrDefault()))
-            
-
-//            var tweets = this.Data.Tweets
-//                .All()
-//                .Where(x => x.Id =)
-//                .Take(10)
-//                .OrderByDescending(x => x.DatePosted)
-//                .Project()
-//                .To<TweetViewModel>()
-//                .ToPagedList(page ?? 1, 10);
-
+           
 
             return View();
         }

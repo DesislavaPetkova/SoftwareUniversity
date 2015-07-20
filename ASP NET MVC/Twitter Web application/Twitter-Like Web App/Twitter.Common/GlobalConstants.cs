@@ -6,7 +6,10 @@ using System.Threading.Tasks;
 
 namespace Twitter.Common
 {
-    public class GlobalConstants
+    public static class GlobalConstants
     {
+        public static int DefaultPageNumber = 1;    
+
+        public static int DefaultPageSize = 10;
     }
 }

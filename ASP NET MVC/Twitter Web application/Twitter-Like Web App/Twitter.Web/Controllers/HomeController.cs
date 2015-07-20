@@ -1,10 +1,9 @@
-﻿using System;
-using System.Collections.Generic;
+﻿using System.Data.Entity;
 using System.Linq;
-using System.Web;
 using System.Web.Mvc;
 using AutoMapper.QueryableExtensions;
 using PagedList;
+using Twitter.Common;
 using Twitter.Data;
 using Twitter.Web.ViewModels;
 
@@ -21,20 +20,37 @@ namespace Twitter.Web.Controllers
         
         public ActionResult Index(int? page)
         {
+            IQueryable<TweetViewModel> tweets;
+
             if (this.User.Identity.IsAuthenticated)
             {
-               return Redirect("~/Users/Index");
+                var currUser = this.Data
+                    .Users
+                    .All()
+                    .Include(x => x.Following)
+                    .Include("Following.Tweets")
+                    .FirstOrDefault(u => u.Id == this.UserProfile.Id);
+                tweets = currUser.Following
+                    .SelectMany(f => f.Tweets)
+                    .OrderByDescending(t => t.DatePosted)
+                    .Take(10)
+                    .AsQueryable()
+                    .Project()
+                    .To<TweetViewModel>();
+                    
+
+                 return View(tweets.ToPagedList(page ?? GlobalConstants.DefaultPageNumber, GlobalConstants.DefaultPageSize));
             }
 
-            var tweets = this.Data.Tweets
+            tweets = this.Data.Tweets
                 .All()
                 .OrderByDescending(x => x.DatePosted)
                 .Take(10)
                 .Project()
-                .To<TweetViewModel>()
-                .ToPagedList(page ?? 1, 10); //TODO: remove magic numbers and make them constants
+                .To<TweetViewModel>();
 
-            return View(tweets);
+            
+            return View(tweets.ToPagedList(page ?? GlobalConstants.DefaultPageNumber, GlobalConstants.DefaultPageSize)); //TODO: remove magic numbers and make them constants
         }
        
 

@@ -1,11 +1,17 @@
 ﻿@using PagedList
 @using PagedList.Mvc
+@using Twitter.Models
 @model PagedList.IPagedList<Twitter.Web.ViewModels.TweetViewModel>
 
 @{
     ViewBag.Title = "Home Page";
 }
+<br />
 
+@if (this.User.Identity.IsAuthenticated)
+{
+    Html.RenderPartial("Tweet/CreateTweetPartial");
+}
 
 <br />
 <div class="row">

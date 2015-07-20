@@ -20,9 +20,22 @@
 input,
 select,
 textarea {
-    max-width: 280px;
+    max-width: 480px;
 }
 body {
     background: url('images/twitter.jpg') no-repeat center center fixed;
     background-color: #00bfff;
+}
+
+#NewTweet {
+    max-width: 600px;
+    max-height: 300px;
+    width: 600px;
+    height: 100px;
+}
+
+#newTweetButton {
+    margin-top: 10px;
+    margin-left: 530px;
+
 }

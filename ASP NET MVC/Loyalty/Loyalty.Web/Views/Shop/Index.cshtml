@@ -1,0 +1,16 @@
+﻿@using PagedList
+@using PagedList.Mvc
+@model PagedList.IPagedList<Loyalty.Web.ViewModels.ShopViewModel>
+
+@{
+    ViewBag.Title = "Shops";
+}
+
+
+<h2>@ViewBag.Title</h2>
+
+<div class="row">
+    @Html.DisplayFor(x => x)
+</div>
+@Html.PagedListPager(Model, page => Url.Action("Index", new { page }))
+@Html.ActionLink("Add new shop", "Create")

@@ -1,0 +1,70 @@
+﻿@using Microsoft.AspNet.Identity
+@model Loyalty.Web.ViewModels.CustomerViewModel
+@{
+    ViewBag.Title = "Customer Menu";
+//    if (this.User.Identity.IsAuthenticated)
+//    {
+//        ViewBag.Title = this.User.Identity.Name + "'s Menu";
+//    }
+    
+}
+
+<h2>@ViewBag.Title</h2>
+
+<div>
+
+    <hr/>
+    <dl class="dl-horizontal">
+        <dt>
+            @Html.DisplayNameFor(model => model.Username)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.Username)
+        </dd>
+
+        <dt>
+            @Html.DisplayNameFor(model => model.Email)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.Email)
+        </dd>
+
+@*        <dt>*@
+@*            @Html.DisplayNameFor(model => model.TurnoverAmount)*@
+@*        </dt>*@
+@**@
+@*        <dd>*@
+@*            @Html.DisplayFor(model => model.TurnoverAmount)*@
+@*        </dd>*@
+@**@
+@*        <dt>*@
+@*            @Html.DisplayNameFor(model => model.DiscountAmount)*@
+@*        </dt>*@
+@**@
+@*        <dd>*@
+@*            @Html.DisplayFor(model => model.DiscountAmount)*@
+@*        </dd>*@
+    </dl>
+</div>
+<dl>
+    @{
+        foreach (var trans in ViewBag.transactions)
+        {
+            <dt>@trans.Key</dt>
+            <dd>Turnover Balance = @trans.Value</dd>
+
+        }
+    }
+</dl>
+<dl>
+    Total Saved Amount = @ViewBag.saved
+</dl>
+<p>
+    @Html.ActionLink("Add Transaction", "Create", "Transaction", null, new { @class = "btn btn-info" })
+    <br/>
+    <br />
+    @Html.ActionLink("View All Transactions", "Index", "Transaction", new { id = this.User.Identity.GetUserId() }, new { @class = "btn btn-info" })
+</p>
+

@@ -1,0 +1,25 @@
+﻿@using PagedList
+@using PagedList.Mvc
+@model PagedList.IPagedList<Loyalty.Web.ViewModels.TransactionViewModel>
+
+@{
+    ViewBag.Title = "All Transactions";
+}
+
+<h2>@ViewBag.Title</h2>
+
+
+<table class="table-bordered">
+    <tr>
+        <th>ReceiptNumber</th>
+        <th>Amount</th>
+        <th>Saved Amount</th>
+        <th>DateTime</th>
+        <th>Shop Name</th>
+    </tr>
+    
+    @Html.DisplayFor(x => x)
+    
+</table>
+@Html.PagedListPager(Model, page => Url.Action("Index", new { page }))
+@Html.ActionLink("Add new transaction", "Create")
